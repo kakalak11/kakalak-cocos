@@ -2,7 +2,8 @@
 
 Web Mobile : Done.
 Web Desktop : Done.
-Android : Error compile!!! Deploy web desktop : 
+Android : Error compile!!!
+
 
 // Ex2 : cài đặt Module Lodash trong thư mục ./Build_Web_Desktop_Android_AddLodash/packages : Done.
 
