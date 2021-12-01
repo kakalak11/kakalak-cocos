@@ -1,0 +1,363 @@
+2021-12-01T02:47:53.995Z - normal: Load ~/.CocosCreator/settings.json
+2021-12-01T02:47:54.049Z - normal: Initializing Asset Database
+2021-12-01T02:47:54.051Z - normal: checking language setting...
+2021-12-01T02:47:54.051Z - normal: Language: en
+2021-12-01T02:47:54.821Z - success: preview server running at http://localhost:7456
+2021-12-01T02:47:54.831Z - success: protocol editor-framework registered
+2021-12-01T02:47:54.831Z - success: protocol app registered
+2021-12-01T02:47:54.832Z - success: protocol theme registered
+2021-12-01T02:47:54.832Z - success: protocol packages registered
+2021-12-01T02:47:54.832Z - success: protocol uuid registerred
+2021-12-01T02:47:54.832Z - success: protocol db registerred
+2021-12-01T02:47:54.832Z - success: protocol thumbnail registerred
+2021-12-01T02:47:54.832Z - success: protocol unpack registerred
+2021-12-01T02:47:54.832Z - success: protocol disable-commonjs registerred
+2021-12-01T02:47:55.922Z - normal: connected!
+2021-12-01T02:47:55.923Z - normal: Check project /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3
+2021-12-01T02:47:55.925Z - normal: Initializing project /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3
+2021-12-01T02:47:56.266Z - normal: Initializing Cocos2d
+2021-12-01T02:47:56.917Z - normal: Initializing engine extends
+2021-12-01T02:47:56.944Z - success: alipay-adapter loaded
+2021-12-01T02:47:56.956Z - success: asset-db-debugger loaded
+2021-12-01T02:47:56.958Z - success: baidu-adapter loaded
+2021-12-01T02:47:56.959Z - success: color-picker loaded
+2021-12-01T02:47:57.081Z - success: fb-audience-network loaded
+2021-12-01T02:47:57.127Z - success: fb-live-stream loaded
+2021-12-01T02:47:57.129Z - success: google-play-instant loaded
+2021-12-01T02:47:57.134Z - success: huawei-runtime loaded
+2021-12-01T02:47:57.338Z - success: cpk-publish loaded
+2021-12-01T02:47:57.339Z - success: jsb-adapter loaded
+2021-12-01T02:47:57.343Z - success: oppo-runtime loaded
+2021-12-01T02:47:57.347Z - success: package-manager loaded
+2021-12-01T02:47:57.463Z - success: qqplay-adapter loaded
+2021-12-01T02:47:57.464Z - success: runtime-dev-tools loaded
+2021-12-01T02:47:57.489Z - success: sdkbox loaded
+2021-12-01T02:47:57.493Z - success: tester loaded
+2021-12-01T02:47:57.497Z - success: ui-kit-preview-extra loaded
+2021-12-01T02:47:57.499Z - success: ui-kit-preview loaded
+2021-12-01T02:47:57.502Z - success: ui-kit loaded
+2021-12-01T02:47:57.507Z - success: vivo-runtime loaded
+2021-12-01T02:47:57.513Z - success: weapp-adapter loaded
+2021-12-01T02:47:57.514Z - success: xiaomi-adapter loaded
+2021-12-01T02:47:57.516Z - success: alipay-minigame loaded
+2021-12-01T02:47:57.554Z - success: assets loaded
+2021-12-01T02:47:57.558Z - success: builder loaded
+2021-12-01T02:47:57.796Z - success: cocos-services loaded
+2021-12-01T02:47:57.801Z - success: console loaded
+2021-12-01T02:47:57.831Z - success: fb-instant-games loaded
+2021-12-01T02:47:57.835Z - success: game-window loaded
+2021-12-01T02:47:57.836Z - success: google-instant-games loaded
+2021-12-01T02:47:57.841Z - success: hierarchy loaded
+2021-12-01T02:47:57.847Z - success: inspector loaded
+2021-12-01T02:47:57.849Z - success: keystore loaded
+2021-12-01T02:47:57.853Z - success: node-library loaded
+2021-12-01T02:47:57.854Z - success: package-asset loaded
+2021-12-01T02:47:57.856Z - success: preferences loaded
+2021-12-01T02:47:57.859Z - success: project-exporter loaded
+2021-12-01T02:47:57.863Z - success: project-importer loaded
+2021-12-01T02:47:57.866Z - success: project-settings loaded
+2021-12-01T02:47:57.871Z - success: scene loaded
+2021-12-01T02:47:57.872Z - success: simulator-debugger loaded
+2021-12-01T02:47:57.873Z - success: sprite-editor loaded
+2021-12-01T02:47:57.878Z - success: store loaded
+2021-12-01T02:47:57.884Z - success: timeline loaded
+2021-12-01T02:47:57.888Z - success: xiaomi-runtime loaded
+2021-12-01T02:47:58.702Z - normal: Loading packages
+2021-12-01T02:47:58.707Z - normal: Watching packages
+2021-12-01T02:47:58.786Z - normal: Run Application
+2021-12-01T02:48:00.006Z - info: Cocos Services load base data!
+2021-12-01T02:57:14.642Z - normal: Compile engine finished
+2021-12-01T02:58:14.456Z - normal: Start building with options : {
+  "actualPlatform": "android",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-29",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "dff74278-5508-4c",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2021-12-01T02:58:14.458Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3
+2021-12-01T02:58:14.458Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link
+2021-12-01T02:58:14.574Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link/res/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link/src/**/*
+2021-12-01T02:58:14.616Z - normal: Checked Python Version [2.7.16]
+2021-12-01T02:58:18.068Z - normal: Start building assets
+2021-12-01T02:58:18.068Z - normal: Start spawn build-worker
+2021-12-01T02:58:18.526Z - normal: Finish spawn build-worker
+2021-12-01T02:58:18.526Z - normal: Start init build-worker
+2021-12-01T02:58:20.347Z - normal: Finish init build-worker
+2021-12-01T02:58:20.347Z - normal: Start build-assets in worker
+2021-12-01T02:58:20.480Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
+2021-12-01T02:58:20.594Z - normal: Finish build-assets in worker
+2021-12-01T02:58:20.595Z - normal: Finish building assets
+2021-12-01T02:58:20.601Z - normal: Start building plugin scripts
+2021-12-01T02:58:20.646Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-01T02:58:20.678Z - normal: Checked Python Version [2.7.16]
+2021-12-01T02:58:21.913Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link" successfully
+2021-12-01T02:58:24.002Z - normal: Checked Python Version [2.7.16]
+2021-12-01T02:58:25.126Z - normal: Start to compile native project. Please wait...
+2021-12-01T02:58:25.127Z - normal: The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+2021-12-01T02:58:26.921Z - failed: Error: Compile failed. The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+    at ChildProcess.q (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:18946)
+    at ChildProcess.r.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:6589)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:194:7)
+    at maybeClose (internal/child_process.js:899:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+2021-12-01T03:10:22.968Z - normal: Start building with options : {
+  "actualPlatform": "android",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-29",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "dff74278-5508-4c",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2021-12-01T03:10:22.971Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3
+2021-12-01T03:10:22.971Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link
+2021-12-01T03:10:22.972Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link/res/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link/src/**/*
+2021-12-01T03:10:23.004Z - normal: Checked Python Version [2.7.16]
+2021-12-01T03:10:26.019Z - normal: Start building assets
+2021-12-01T03:10:26.019Z - normal: Start spawn build-worker
+2021-12-01T03:10:26.486Z - normal: Finish spawn build-worker
+2021-12-01T03:10:26.487Z - normal: Start init build-worker
+2021-12-01T03:10:28.316Z - normal: Finish init build-worker
+2021-12-01T03:10:28.316Z - normal: Start build-assets in worker
+2021-12-01T03:10:28.433Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
+2021-12-01T03:10:28.573Z - normal: Finish build-assets in worker
+2021-12-01T03:10:28.575Z - normal: Finish building assets
+2021-12-01T03:10:28.582Z - normal: Start building plugin scripts
+2021-12-01T03:10:28.620Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-01T03:10:28.648Z - normal: Checked Python Version [2.7.16]
+2021-12-01T03:10:29.850Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link" successfully
+2021-12-01T03:10:31.634Z - normal: Checked Python Version [2.7.16]
+2021-12-01T03:10:32.761Z - normal: Start to compile native project. Please wait...
+2021-12-01T03:10:32.761Z - normal: The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+2021-12-01T03:10:37.433Z - failed: Error: Compile failed. The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+    at ChildProcess.q (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:18946)
+    at ChildProcess.r.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:6589)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:194:7)
+    at maybeClose (internal/child_process.js:899:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+2021-12-01T03:12:56.923Z - normal: Start building with options : {
+  "actualPlatform": "android",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-28",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "dff74278-5508-4c",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2021-12-01T03:12:56.927Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3
+2021-12-01T03:12:56.927Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link
+2021-12-01T03:12:56.929Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link/res/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link/src/**/*
+2021-12-01T03:12:56.969Z - normal: Checked Python Version [2.7.16]
+2021-12-01T03:12:59.755Z - normal: Start building assets
+2021-12-01T03:12:59.756Z - normal: Start spawn build-worker
+2021-12-01T03:13:00.196Z - normal: Finish spawn build-worker
+2021-12-01T03:13:00.196Z - normal: Start init build-worker
+2021-12-01T03:13:02.058Z - normal: Finish init build-worker
+2021-12-01T03:13:02.058Z - normal: Start build-assets in worker
+2021-12-01T03:13:02.148Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
+2021-12-01T03:13:02.263Z - normal: Finish build-assets in worker
+2021-12-01T03:13:02.265Z - normal: Finish building assets
+2021-12-01T03:13:02.269Z - normal: Start building plugin scripts
+2021-12-01T03:13:02.313Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-01T03:13:02.340Z - normal: Checked Python Version [2.7.16]
+2021-12-01T03:13:03.535Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/NewProject_3/build/jsb-link" successfully
+2021-12-01T03:29:43.654Z - normal: Checked Python Version [2.7.16]
+2021-12-01T03:29:44.930Z - normal: Start to compile native project. Please wait...
+2021-12-01T03:29:44.930Z - normal: The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+2021-12-01T03:29:46.583Z - failed: Error: Compile failed. The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+    at ChildProcess.q (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:18946)
+    at ChildProcess.r.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:6589)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:194:7)
+    at maybeClose (internal/child_process.js:899:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
