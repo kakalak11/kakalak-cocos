@@ -37,7 +37,7 @@
   },
   "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
   "title": "hello_world",
-  "webOrientation": "portrait",
+  "webOrientation": "auto",
   "wechatgame": {
     "REMOTE_SERVER_ROOT": "",
     "appid": "wx6ac3f5090a6b99c5",
@@ -45,6 +45,6 @@
     "separate_engine": false,
     "subContext": ""
   },
-  "xxteaKey": "dff74278-5508-4c",
+  "xxteaKey": "80d5cb6f-de77-4a",
   "zipCompressJs": true
 }

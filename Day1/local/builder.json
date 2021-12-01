@@ -1,9 +1,7 @@
 {
-  "actualPlatform": "android",
-  "apiLevel": "android-28",
-  "appABIs": [
-    "arm64-v8a"
-  ],
+  "actualPlatform": "web-desktop",
+  "apiLevel": "",
+  "appABIs": [],
   "buildPath": "./build",
   "debug": false,
   "embedWebDebugger": false,
@@ -11,7 +9,7 @@
   "keystoreAliasPassword": "",
   "keystorePassword": "",
   "keystorePath": "",
-  "platform": "android",
+  "platform": "web-desktop",
   "previewHeight": "720",
   "previewWidth": "1280",
   "sourceMaps": false,
