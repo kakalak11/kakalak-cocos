@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pokemon01",
+    "texture": "13028d44-e65c-410d-94f1-9b73ff664074",
+    "atlas": "7fef3bc3-0327-4cc7-b504-f03827900fd1",
+    "rect": [
+      0,
+      112,
+      104,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Gelasio_Yellow_White-export",
+    "texture": "9ca988c6-a840-4410-b883-ab9487ca70b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      127
+    ],
+    "offset": [
+      -2.5,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

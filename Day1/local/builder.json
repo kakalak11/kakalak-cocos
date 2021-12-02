@@ -1,6 +1,6 @@
 {
   "actualPlatform": "web-desktop",
-  "apiLevel": "",
+  "apiLevel": "android-28",
   "appABIs": [],
   "buildPath": "./build",
   "debug": false,
