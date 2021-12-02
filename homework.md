@@ -1,6 +1,6 @@
 // EX1 Build project trên Web Mobile, Web Desktop, Android trong thư mục ./Build_Web_Desktop_Android_AddLodash/build
 
-Web Mobile : Done.https://kakalak11.github.io/Deploy_MobileWeb/
+Web Mobile : Done.
 
 Web Desktop : Done. https://kakalak11.github.io/Delploy_WebTest/
 
