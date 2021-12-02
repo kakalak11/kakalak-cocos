@@ -1,45 +1,76 @@
-window.__require = function e(r, t, n) {
-function o(i, u) {
-if (!t[i]) {
-if (!r[i]) {
-var c = i.split("/");
-c = c[c.length - 1];
-if (!r[c]) {
-var f = "function" == typeof __require && __require;
-if (!u && f) return f(c, !0);
-if (l) return l(c, !0);
-throw new Error("Cannot find module '" + i + "'");
+window.__require = function t(e, n, i) {
+function r(c, s) {
+if (!n[c]) {
+if (!e[c]) {
+var a = c.split("/");
+a = a[a.length - 1];
+if (!e[a]) {
+var p = "function" == typeof __require && __require;
+if (!s && p) return p(a, !0);
+if (o) return o(a, !0);
+throw new Error("Cannot find module '" + c + "'");
 }
 }
-var s = t[i] = {
+var u = n[c] = {
 exports: {}
 };
-r[i][0].call(s.exports, function(e) {
-return o(r[i][1][e] || e);
-}, s, s.exports, e, r, t, n);
+e[c][0].call(u.exports, function(t) {
+return r(e[c][1][t] || t);
+}, u, u.exports, t, e, n, i);
 }
-return t[i].exports;
+return n[c].exports;
 }
-for (var l = "function" == typeof __require && __require, i = 0; i < n.length; i++) o(n[i]);
-return o;
+for (var o = "function" == typeof __require && __require, c = 0; c < i.length; c++) r(i[c]);
+return r;
 }({
-HelloWorld: [ function(e, r, t) {
+Day2: [ function(t, e, n) {
 "use strict";
-cc._RF.push(r, "280c3rsZJJKnZ9RqbALVwtK", "HelloWorld");
+cc._RF.push(e, "6d2330aUMFMUp5X9oVqB6Yo", "Day2");
 cc.Class({
 extends: cc.Component,
 properties: {
-label: {
-default: null,
-type: cc.Label
+point1: {
+default: 1,
+displayName: "Player's point",
+serializable: !0,
+type: cc.Integer,
+visible: !0,
+set: function(t) {
+this._point1 = t;
 },
-text: "Hello, World!"
+get: function() {
+return this._point1;
+}
+},
+point2: {
+default: 2,
+displayName: "Oppenent's point",
+serializable: !1,
+type: cc.Integer,
+visible: !0,
+set: function(t) {
+this._point2 = t;
+},
+get: function() {
+return this._point2;
+}
+}
 },
 onLoad: function() {
-this.label.string = this.text;
+cc.log("property with serialization true " + this.point1);
+cc.log("property with serialization false " + this.point2);
+var t = new (cc.Class({
+name: "booker",
+ctor: function() {
+this.name = "booker";
+}
+}))();
+cc.log(t.name);
+cc.log(this.children);
 },
-update: function(e) {}
+start: function() {},
+update: function(t) {}
 });
 cc._RF.pop();
 }, {} ]
-}, {}, [ "HelloWorld" ]);
+}, {}, [ "Day2" ]);

@@ -1461,3 +1461,133 @@
 2021-12-02T08:40:55.036Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
 2021-12-02T08:40:55.043Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
 2021-12-02T08:40:55.059Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/build/web-desktop" successfully
+2021-12-02T08:49:15.643Z - normal: Start building with options : {
+  "actualPlatform": "android",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-26",
+  "appABIs": [
+    "x86"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/build/jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "80d5cb6f-de77-4a",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2021-12-02T08:49:15.647Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld
+2021-12-02T08:49:15.647Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/build/jsb-link
+2021-12-02T08:49:15.648Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/build/jsb-link/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/build/jsb-link/res/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/build/jsb-link/src/**/*
+2021-12-02T08:49:15.684Z - normal: Checked Python Version [2.7.16]
+2021-12-02T08:49:18.975Z - normal: Start building assets
+2021-12-02T08:49:18.976Z - normal: Start spawn build-worker
+2021-12-02T08:49:19.462Z - normal: Finish spawn build-worker
+2021-12-02T08:49:19.462Z - normal: Start init build-worker
+2021-12-02T08:49:21.685Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
+    at Module._compile (module.js:571:32)
+2021-12-02T08:49:21.686Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
+    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
+    at Module._compile (module.js:571:32)
+2021-12-02T08:49:21.686Z - normal: Finish init build-worker
+2021-12-02T08:49:21.686Z - normal: Start build-assets in worker
+2021-12-02T08:49:21.796Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
+2021-12-02T08:49:21.913Z - normal: Finish build-assets in worker
+2021-12-02T08:49:21.915Z - normal: Finish building assets
+2021-12-02T08:49:21.921Z - normal: Start building plugin scripts
+2021-12-02T08:49:21.958Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-02T08:49:21.989Z - normal: Checked Python Version [2.7.16]
+2021-12-02T08:49:23.293Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/build/jsb-link" successfully
+2021-12-02T08:49:24.685Z - normal: Checked Python Version [2.7.16]
+2021-12-02T08:49:25.814Z - normal: Start to compile native project. Please wait...
+2021-12-02T08:49:25.815Z - normal: The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+2021-12-02T08:49:35.776Z - failed: Error: Compile failed. The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+    at ChildProcess.q (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:18946)
+    at ChildProcess.r.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:6589)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:194:7)
+    at maybeClose (internal/child_process.js:899:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+2021-12-02T08:52:28.702Z - normal: Checked Python Version [2.7.16]
+2021-12-02T08:52:29.898Z - normal: Start to compile native project. Please wait...
+2021-12-02T08:52:29.898Z - normal: The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+2021-12-02T08:52:34.669Z - failed: Error: Compile failed. The log file path [ /Users/fe-anhtu-fresher/.CocosCreator/logs/native.log ]
+    at ChildProcess.q (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:18946)
+    at ChildProcess.r.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:6589)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:194:7)
+    at maybeClose (internal/child_process.js:899:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
