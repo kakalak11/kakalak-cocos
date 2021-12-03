@@ -6,10 +6,10 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 0,
-      "y": 0,
+      "x": 107,
+      "y": 53,
       "width": 1680,
-      "height": 1050,
+      "height": 1040,
       "layout": {
         "children": [
           {
@@ -19,7 +19,7 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 470,
+                "height": 437.171875,
                 "type": "panel",
                 "width": 204
               },
@@ -28,12 +28,12 @@
                 "children": [
                   "assets"
                 ],
-                "height": 518,
+                "height": 481.828125,
                 "type": "panel",
                 "width": 204
               }
             ],
-            "height": 990,
+            "height": 921,
             "type": "dock-v",
             "width": 204
           },
@@ -44,9 +44,9 @@
                 "children": [
                   "scene"
                 ],
-                "height": 722,
+                "height": 653,
                 "type": "panel",
-                "width": 1168
+                "width": 1152
               },
               {
                 "active": 0,
@@ -57,12 +57,12 @@
                 ],
                 "height": 266,
                 "type": "panel",
-                "width": 1168
+                "width": 1152
               }
             ],
-            "height": 990,
+            "height": 921,
             "type": "dock-v",
-            "width": 1168
+            "width": 1152
           },
           {
             "active": 0,
@@ -71,7 +71,7 @@
               "cocos-services",
               "node-library"
             ],
-            "height": 990,
+            "height": 921,
             "type": "panel",
             "width": 304
           }

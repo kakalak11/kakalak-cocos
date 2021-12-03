@@ -1,364 +1,442 @@
-2021-12-03T02:05:20.650Z - normal: Load ~/.CocosCreator/settings.json
-2021-12-03T02:05:20.683Z - normal: Initializing Asset Database
-2021-12-03T02:05:20.685Z - normal: checking language setting...
-2021-12-03T02:05:20.685Z - normal: Language: en
-2021-12-03T02:05:21.082Z - success: preview server running at http://localhost:7456
-2021-12-03T02:05:21.097Z - success: protocol editor-framework registered
-2021-12-03T02:05:21.097Z - success: protocol app registered
-2021-12-03T02:05:21.097Z - success: protocol theme registered
-2021-12-03T02:05:21.097Z - success: protocol packages registered
-2021-12-03T02:05:21.097Z - success: protocol uuid registerred
-2021-12-03T02:05:21.097Z - success: protocol db registerred
-2021-12-03T02:05:21.097Z - success: protocol thumbnail registerred
-2021-12-03T02:05:21.097Z - success: protocol unpack registerred
-2021-12-03T02:05:21.098Z - success: protocol disable-commonjs registerred
-2021-12-03T02:05:22.320Z - normal: connected!
-2021-12-03T02:05:22.322Z - normal: Check project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld
-2021-12-03T02:05:22.323Z - normal: Initializing project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld
-2021-12-03T02:05:22.553Z - normal: Initializing Cocos2d
-2021-12-03T02:05:22.920Z - normal: Initializing engine extends
-2021-12-03T02:05:22.936Z - success: alipay-adapter loaded
-2021-12-03T02:05:22.942Z - success: asset-db-debugger loaded
-2021-12-03T02:05:22.946Z - success: baidu-adapter loaded
-2021-12-03T02:05:22.949Z - success: color-picker loaded
-2021-12-03T02:05:23.029Z - success: fb-audience-network loaded
-2021-12-03T02:05:23.070Z - success: fb-live-stream loaded
-2021-12-03T02:05:23.072Z - success: google-play-instant loaded
-2021-12-03T02:05:23.076Z - success: huawei-runtime loaded
-2021-12-03T02:05:23.198Z - success: cpk-publish loaded
-2021-12-03T02:05:23.199Z - success: jsb-adapter loaded
-2021-12-03T02:05:23.202Z - success: oppo-runtime loaded
-2021-12-03T02:05:23.205Z - success: package-manager loaded
-2021-12-03T02:05:23.271Z - success: qqplay-adapter loaded
-2021-12-03T02:05:23.272Z - success: runtime-dev-tools loaded
-2021-12-03T02:05:23.292Z - success: sdkbox loaded
-2021-12-03T02:05:23.295Z - success: tester loaded
-2021-12-03T02:05:23.297Z - success: ui-kit-preview-extra loaded
-2021-12-03T02:05:23.299Z - success: ui-kit-preview loaded
-2021-12-03T02:05:23.303Z - success: ui-kit loaded
-2021-12-03T02:05:23.307Z - success: vivo-runtime loaded
-2021-12-03T02:05:23.308Z - success: weapp-adapter loaded
-2021-12-03T02:05:23.309Z - success: xiaomi-adapter loaded
-2021-12-03T02:05:23.312Z - success: alipay-minigame loaded
-2021-12-03T02:05:23.340Z - success: assets loaded
-2021-12-03T02:05:23.343Z - success: builder loaded
-2021-12-03T02:05:23.492Z - success: cocos-services loaded
-2021-12-03T02:05:23.496Z - success: console loaded
-2021-12-03T02:05:23.516Z - success: fb-instant-games loaded
-2021-12-03T02:05:23.519Z - success: game-window loaded
-2021-12-03T02:05:23.520Z - success: google-instant-games loaded
-2021-12-03T02:05:23.523Z - success: hierarchy loaded
-2021-12-03T02:05:23.525Z - success: inspector loaded
-2021-12-03T02:05:23.526Z - success: keystore loaded
-2021-12-03T02:05:23.529Z - success: node-library loaded
-2021-12-03T02:05:23.530Z - success: package-asset loaded
-2021-12-03T02:05:23.530Z - success: preferences loaded
-2021-12-03T02:05:23.532Z - success: project-exporter loaded
-2021-12-03T02:05:23.535Z - success: project-importer loaded
-2021-12-03T02:05:23.537Z - success: project-settings loaded
-2021-12-03T02:05:23.540Z - success: scene loaded
-2021-12-03T02:05:23.541Z - success: simulator-debugger loaded
-2021-12-03T02:05:23.542Z - success: sprite-editor loaded
-2021-12-03T02:05:23.545Z - success: store loaded
-2021-12-03T02:05:23.549Z - success: timeline loaded
-2021-12-03T02:05:23.551Z - success: xiaomi-runtime loaded
-2021-12-03T02:05:26.785Z - normal: Loading packages
-2021-12-03T02:05:26.789Z - normal: Watching packages
-2021-12-03T02:05:26.861Z - normal: Run Application
-2021-12-03T02:05:30.199Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:05:30.200Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:05:31.402Z - info: Cocos Services load base data!
-2021-12-03T02:09:26.753Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:09:26.755Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:09:31.192Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:09:31.192Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:09:45.304Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:09:45.305Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:10:00.771Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:10:00.771Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:10:37.003Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:10:37.003Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:10:57.125Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:10:57.125Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:14:47.082Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:14:47.083Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:16:18.071Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:16:18.072Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:24:53.098Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:24:53.099Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:25:03.241Z - error: The 'default' value of 'Day2.point1' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T02:25:03.241Z - error: The 'default' value of 'Day2.point2' should not be used with a 'get' function.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:205:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:85:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:92:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/Day2.js:95:3)
-    at Module._compile (module.js:571:32)
-2021-12-03T04:14:27.402Z - failed: [db-task][sync-changes] Failed to import asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/assets/Script/up.js, message: Compile error: SyntaxError: /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/assets/Script/up.js: Unexpected token (24:29)
-  22 |         this.node.y += 30;
-  23 |         this.node.rotate = 360;
-> 24 |         setTimeout(function (this) {
-     |                              ^
-  25 |             this.node.y -= 30;
-  26 |         }, 500);
-  27 |         // do whatever you want with button
-    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
-    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
-    at Parser.pp$2.parseBindingAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3090:12)
-    at Parser.pp$2.parseMaybeDefault (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3136:23)
-    at Parser.pp$2.parseBindingList (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3116:23)
-    at Parser.pp$1.parseFunctionParams (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2395:22)
-    at Parser.pp$1.parseFunction (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2385:8)
-    at Parser.pp$3.parseFunctionExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3760:17)
-    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3722:19)
-    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
-2021-12-03T07:39:15.082Z - failed: [db-task][sync-changes] Failed to import asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/assets/Script/walk.js, message: Compile error: SyntaxError: /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/assets/Script/walk.js: Unexpected token (66:33)
-  64 |         if (this.moveLeft) {
-  65 |             this.node.x += -this.speed;
-> 66 |             setTimeout(function (this) {
-     |                                  ^
-  67 |                 cc.log(this);
-  68 |                 this.moveLeft = false;
-  69 |                 cc.log('stop');
-    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
-    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
-    at Parser.pp$2.parseBindingAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3090:12)
-    at Parser.pp$2.parseMaybeDefault (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3136:23)
-    at Parser.pp$2.parseBindingList (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3116:23)
-    at Parser.pp$1.parseFunctionParams (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2395:22)
-    at Parser.pp$1.parseFunction (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2385:8)
-    at Parser.pp$3.parseFunctionExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3760:17)
-    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3722:19)
-    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
-2021-12-03T07:39:35.125Z - failed: [db-task][sync-changes] Failed to import asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/assets/Script/walk.js, message: Compile error: SyntaxError: /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/assets/Script/walk.js: Unexpected token (66:33)
-  64 |         if (this.moveLeft) {
-  65 |             this.node.x += -this.speed;
-> 66 |             setTimeout(function (this) {
-     |                                  ^
-  67 |                 cc.log(this);
-  68 |                 this.moveLeft = false;
-  69 |                 cc.log('stop');
-    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
-    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
-    at Parser.pp$2.parseBindingAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3090:12)
-    at Parser.pp$2.parseMaybeDefault (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3136:23)
-    at Parser.pp$2.parseBindingList (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3116:23)
-    at Parser.pp$1.parseFunctionParams (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2395:22)
-    at Parser.pp$1.parseFunction (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2385:8)
-    at Parser.pp$3.parseFunctionExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3760:17)
-    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3722:19)
-    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
-2021-12-03T09:45:10.051Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js] failed : TypeError: this.__initProps__ is not a function
-    at Object.cc_Button [as Button] (eval at <anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:475:20), <anonymous>:3:6)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js:26:24)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js:125:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js:132:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js:135:3)
+2021-12-03T12:48:58.238Z - normal: Load ~/.CocosCreator/settings.json
+2021-12-03T12:48:59.473Z - normal: Initializing Asset Database
+2021-12-03T12:48:59.476Z - normal: checking language setting...
+2021-12-03T12:48:59.476Z - normal: Language: en
+2021-12-03T12:49:01.847Z - success: preview server running at http://localhost:7456
+2021-12-03T12:49:01.850Z - success: protocol editor-framework registered
+2021-12-03T12:49:01.850Z - success: protocol app registered
+2021-12-03T12:49:01.850Z - success: protocol theme registered
+2021-12-03T12:49:01.850Z - success: protocol packages registered
+2021-12-03T12:49:01.850Z - success: protocol uuid registerred
+2021-12-03T12:49:01.851Z - success: protocol db registerred
+2021-12-03T12:49:01.851Z - success: protocol thumbnail registerred
+2021-12-03T12:49:01.851Z - success: protocol unpack registerred
+2021-12-03T12:49:01.851Z - success: protocol disable-commonjs registerred
+2021-12-03T12:49:02.776Z - normal: connected!
+2021-12-03T12:49:02.777Z - normal: Check project G:\Cocos\kakalak-cocos\Day1
+2021-12-03T12:49:02.779Z - normal: Initializing project G:\Cocos\kakalak-cocos\Day1
+2021-12-03T12:49:03.582Z - normal: Initializing Cocos2d
+2021-12-03T12:49:07.839Z - normal: Initializing engine extends
+2021-12-03T12:49:08.305Z - success: alipay-adapter loaded
+2021-12-03T12:49:08.334Z - success: asset-db-debugger loaded
+2021-12-03T12:49:08.341Z - success: baidu-adapter loaded
+2021-12-03T12:49:08.349Z - success: color-picker loaded
+2021-12-03T12:49:08.636Z - success: fb-audience-network loaded
+2021-12-03T12:49:08.762Z - success: fb-live-stream loaded
+2021-12-03T12:49:08.777Z - success: google-play-instant loaded
+2021-12-03T12:49:08.838Z - success: huawei-runtime loaded
+2021-12-03T12:49:09.914Z - success: cpk-publish loaded
+2021-12-03T12:49:09.919Z - success: jsb-adapter loaded
+2021-12-03T12:49:09.986Z - success: oppo-runtime loaded
+2021-12-03T12:49:10.022Z - success: package-manager loaded
+2021-12-03T12:49:10.489Z - success: qqplay-adapter loaded
+2021-12-03T12:49:10.515Z - success: runtime-dev-tools loaded
+2021-12-03T12:49:10.542Z - success: sdkbox loaded
+2021-12-03T12:49:10.559Z - success: tester loaded
+2021-12-03T12:49:10.570Z - success: ui-kit-preview-extra loaded
+2021-12-03T12:49:10.581Z - success: ui-kit-preview loaded
+2021-12-03T12:49:10.583Z - success: ui-kit loaded
+2021-12-03T12:49:10.652Z - success: vivo-runtime loaded
+2021-12-03T12:49:10.656Z - success: weapp-adapter loaded
+2021-12-03T12:49:10.661Z - success: xiaomi-adapter loaded
+2021-12-03T12:49:10.675Z - success: alipay-minigame loaded
+2021-12-03T12:49:10.729Z - success: assets loaded
+2021-12-03T12:49:10.731Z - success: builder loaded
+2021-12-03T12:49:11.372Z - success: cocos-services loaded
+2021-12-03T12:49:11.377Z - success: console loaded
+2021-12-03T12:49:11.415Z - success: fb-instant-games loaded
+2021-12-03T12:49:11.418Z - success: game-window loaded
+2021-12-03T12:49:11.419Z - success: google-instant-games loaded
+2021-12-03T12:49:11.423Z - success: hierarchy loaded
+2021-12-03T12:49:11.426Z - success: inspector loaded
+2021-12-03T12:49:11.427Z - success: keystore loaded
+2021-12-03T12:49:11.431Z - success: node-library loaded
+2021-12-03T12:49:11.432Z - success: package-asset loaded
+2021-12-03T12:49:11.434Z - success: preferences loaded
+2021-12-03T12:49:11.435Z - success: project-exporter loaded
+2021-12-03T12:49:11.437Z - success: project-importer loaded
+2021-12-03T12:49:11.439Z - success: project-settings loaded
+2021-12-03T12:49:11.443Z - success: scene loaded
+2021-12-03T12:49:11.444Z - success: simulator-debugger loaded
+2021-12-03T12:49:11.445Z - success: sprite-editor loaded
+2021-12-03T12:49:11.448Z - success: store loaded
+2021-12-03T12:49:11.453Z - success: timeline loaded
+2021-12-03T12:49:11.457Z - success: xiaomi-runtime loaded
+2021-12-03T12:49:19.383Z - info: Cocos Services load base data!
+2021-12-03T12:49:23.418Z - normal: Loading packages
+2021-12-03T12:49:23.425Z - normal: Watching packages
+2021-12-03T12:49:24.116Z - normal: Run Application
+2021-12-03T12:55:10.906Z - error: Can't init canvas 'New Canvas' because it conflicts with the existing 'Canvas', the scene should only have one active canvas at the same time
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at cc_Canvas.__preload (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\components\CCCanvas.js:82:31)
+    at eval (eval at createInvokeImpl (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\component-scheduler.js:1:1), <anonymous>:3:65)
+    at CCClass._invoke (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\component-scheduler.js:165:21)
+    at CCClass.invoke (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\node-activator.js:50:22)
+    at CCClass.activateNode (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\node-activator.js:184:34)
+    at cc_Node._onHierarchyChanged (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\utils\base-node.js:623:48)
+    at cc_Node._onHierarchyChanged (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCNode.js:726:22)
+    at cc_Node.setParent (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\utils\base-node.js:219:26)
+2021-12-03T13:11:08.996Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-12-03T13:11:08.997Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-12-03T13:11:08.997Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2021-12-03T13:11:08.998Z - normal: Simulator: FRAME SCALE = 1.00
+2021-12-03T13:11:08.998Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2021-12-03T13:11:08.998Z - normal: Simulator: FRAME SCALE = 1.00
+2021-12-03T13:11:09.200Z - normal: Simulator: Ready for GLSL
+2021-12-03T13:11:09.200Z - normal: Simulator: Ready for OpenGL 2.0
+2021-12-03T13:11:09.215Z - normal: Simulator: Project Config:
+2021-12-03T13:11:09.216Z - normal: Simulator:     project dir: G:\CocosCreator_2.1.3\resources\cocos2d-x\simulator\win32\
+2021-12-03T13:11:09.216Z - normal: Simulator:     writable path: $(PROJDIR)\
+2021-12-03T13:11:09.216Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2021-12-03T13:11:09.216Z - normal: Simulator:     frame size: 1280 x 720
+2021-12-03T13:11:09.216Z - normal: Simulator:     frame scale: 1.00
+2021-12-03T13:11:09.216Z - normal: Simulator:     show console: NO
+2021-12-03T13:11:09.216Z - normal: Simulator:     write debug log: NO ()
+2021-12-03T13:11:09.216Z - normal: Simulator:     listen: 
+2021-12-03T13:11:09.216Z - normal: Simulator:     debugger: none
+2021-12-03T13:11:09.217Z - normal: Simulator:     add searching path:
+2021-12-03T13:11:09.217Z - normal: Simulator: 
+2021-12-03T13:11:09.217Z - normal: Simulator: 
+2021-12-03T13:11:09.217Z - normal: Simulator: 
+2021-12-03T13:11:09.217Z - normal: Simulator: resetDesignResolution request
+2021-12-03T13:11:09.217Z - normal: Simulator: ------------------------------------------------
+2021-12-03T13:11:09.217Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2021-12-03T13:11:09.218Z - normal: Simulator: ------------------------------------------------
+2021-12-03T13:11:09.218Z - normal: Simulator: D/jswrapper (367): Initializing V8, version: 7.5.288.22
+2021-12-03T13:11:10.351Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2021-12-03T13:11:10.353Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2021-12-03T13:11:10.353Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2021-12-03T13:11:10.420Z - normal: Simulator: D/jswrapper (130): JS: Enable batch GL commands optimization!
+2021-12-03T13:11:10.422Z - normal: Simulator: resetDesignResolution request
+2021-12-03T13:11:10.422Z - normal: Simulator: ------------------------------------------------
+2021-12-03T13:11:10.422Z - normal: Simulator: LOAD Js FILE: main.js
+2021-12-03T13:11:10.422Z - normal: Simulator: ------------------------------------------------
+2021-12-03T13:11:10.694Z - normal: Simulator: iShow!
+2021-12-03T13:11:10.703Z - normal: Simulator: D/jswrapper (130): JS: Hello world
+2021-12-03T13:11:10.704Z - normal: Simulator: D/jswrapper (4159): glGetIntegerv: pname: 0x8b4c
+2021-12-03T13:11:10.801Z - normal: Simulator: D/jswrapper (130): JS: Cocos Creator v2.1.3
+2021-12-03T13:11:11.479Z - normal: Simulator: D/jswrapper (453): ScriptEngine::cleanup begin ...
+2021-12-03T13:11:11.480Z - normal: Simulator: D/jswrapper (592): GC begin ..., (js->native map) size: 75, all objects: 157
+2021-12-03T13:11:11.553Z - normal: Simulator: D/jswrapper (600): GC end ..., (js->native map) size: 37, all objects: 119
+2021-12-03T13:11:11.553Z - normal: Simulator: D/jswrapper (592): GC begin ..., (js->native map) size: 37, all objects: 119
+2021-12-03T13:11:11.574Z - normal: Simulator: D/jswrapper (600): GC end ..., (js->native map) size: 37, all objects: 119
+2021-12-03T13:11:11.574Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (10) by GC
+2021-12-03T13:11:11.575Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (2) by GC
+2021-12-03T13:11:11.585Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (14) by GC
+2021-12-03T13:11:11.585Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (1) by GC
+2021-12-03T13:11:11.585Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (3) by GC
+2021-12-03T13:11:11.585Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (1) by GC
+2021-12-03T13:11:11.585Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (4) by GC
+2021-12-03T13:11:11.585Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (6) by GC
+2021-12-03T13:11:11.586Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (5) by GC
+2021-12-03T13:11:11.586Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (7) by GC
+2021-12-03T13:11:11.586Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (8) by GC
+2021-12-03T13:11:11.586Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (2) by GC
+2021-12-03T13:11:11.586Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (5) by GC
+2021-12-03T13:11:11.586Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (4) by GC
+2021-12-03T13:11:11.586Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (7) by GC
+2021-12-03T13:11:11.587Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (6) by GC
+2021-12-03T13:11:11.587Z - normal: Simulator: D/jswrapper (308): Destroy WebGLFramebuffer (1) by GC
+2021-12-03T13:11:11.587Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (8) by GC
+2021-12-03T13:11:11.587Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (3) by GC
+2021-12-03T13:11:11.587Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (9) by GC
+2021-12-03T13:11:11.587Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (11) by GC
+2021-12-03T13:11:11.588Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (12) by GC
+2021-12-03T13:11:11.588Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (13) by GC
+2021-12-03T13:11:11.589Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (3) by GC
+2021-12-03T13:11:11.595Z - normal: Simulator: D/jswrapper (592): GC begin ..., (js->native map) size: 0, all objects: 0
+2021-12-03T13:11:11.608Z - normal: Simulator: D/jswrapper (600): GC end ..., (js->native map) size: 0, all objects: 0
+2021-12-03T13:11:11.625Z - normal: Simulator: D/jswrapper (514): ScriptEngine::cleanup end ...
+2021-12-03T13:54:15.487Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js] failed : TypeError: Cannot read property 'node' of undefined
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js:16:28)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js:36:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js:43:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js:46:3)
     at Module._compile (module.js:571:32)
     at Object.Module._extensions..js (module.js:580:10)
     at Module.load (module.js:488:32)
     at tryModuleLoad (module.js:447:12)
     at Function.Module._load (module.js:439:3)
-2021-12-03T09:45:34.807Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js] failed : TypeError: this.__initProps__ is not a function
-    at Object.cc_Button [as Button] (eval at <anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:475:20), <anonymous>:3:6)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js:22:24)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js:124:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js:131:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-helloworld/temp/quick-scripts/assets/Script/walk.js:134:3)
+    at Module.require (module.js:498:17)
+2021-12-03T13:54:42.223Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js] failed : TypeError: Cannot read property 'node' of undefined
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js:16:28)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js:35:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js:42:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\username.js:45:3)
     at Module._compile (module.js:571:32)
     at Object.Module._extensions..js (module.js:580:10)
     at Module.load (module.js:488:32)
     at tryModuleLoad (module.js:447:12)
     at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-12-03T13:55:28.188Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js] failed : TypeError: Cannot read property 'node' of undefined
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js:16:28)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js:53:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js:60:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js:63:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-12-03T13:56:38.592Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js] failed : TypeError: Cannot read property 'node' of undefined
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js:16:28)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js:53:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js:60:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\password.js:63:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-12-03T14:09:26.317Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:85:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:92:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:95:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:09:26.319Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:85:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:92:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:95:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:09:30.817Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:85:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:92:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:95:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:09:30.817Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:85:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:92:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:95:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:10:40.719Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:73:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:80:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:83:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:10:40.719Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:73:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:80:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:83:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:10:47.091Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:73:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:80:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:83:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:10:47.091Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:73:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:80:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:83:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:22:04.129Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:73:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:80:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:83:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:22:04.131Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:73:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:80:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:83:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:22:29.070Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:71:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:81:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:22:29.070Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:71:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:81:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:22:50.468Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:71:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:81:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:22:50.469Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:71:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:81:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:23:35.279Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:70:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:77:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:80:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:23:35.279Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:70:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:77:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:80:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:23:50.318Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:68:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:75:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:23:50.318Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:68:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:75:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:23:54.324Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:68:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:75:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:23:54.324Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:68:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:75:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:24:05.764Z - error: Each script can have at most one Component.
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at define (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:276:24)
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:651:23)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:68:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:75:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-03T14:24:05.765Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js] failed : TypeError: Cannot set property '_sealed' of null
+    at Object.CCClass [as Class] (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:655:25)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:48:4)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:68:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:75:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\menu script\signup.js:78:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-03T14:40:28.205Z - failed: [db-task][sync-changes] Failed to import asset G:\Cocos\kakalak-cocos\Day1\assets\Script\menu script\signup.js, message: Compile error: SyntaxError: G:/Cocos/kakalak-cocos/Day1/assets/Script/menu script/signup.js: Unexpected token, expected , (27:4)
+  25 |     }
+  26 | 
+> 27 |     onLoad () {
+     |     ^
+  28 |         cc.log(this.username.string);
+  29 |         cc.log(this.password.string);
+  30 |     },
+    at Parser.pp$5.raise (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseObj (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3344:19)
