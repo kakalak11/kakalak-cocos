@@ -66,3 +66,157 @@
 2021-12-04T10:21:15.961Z - normal: Watching packages
 2021-12-04T10:21:16.880Z - normal: Run Application
 2021-12-04T10:21:17.915Z - info: Cocos Services load base data!
+2021-12-04T10:56:06.947Z - warn: The Layout referenced by component "signup" is invalid. Detailed information:
+Node path: "Canvas"
+
+2021-12-04T10:56:30.085Z - warn: The Layout referenced by component "signup" is invalid. Detailed information:
+Node path: "Canvas"
+
+2021-12-04T10:57:47.716Z - warn: The Layout referenced by component "signup" is invalid. Detailed information:
+Node path: "Canvas"
+
+2021-12-04T11:22:07.093Z - info: Only the prefab node "editbox" and its child nodes are saved.
+2021-12-04T11:23:38.160Z - info: Only the prefab node "editbox" and its child nodes are saved.
+2021-12-04T11:24:12.265Z - error: TypeError: Cannot read property '_texture' of null
+    at cc_Label._activateMaterial (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\components\CCLabel.js:420:64)
+    at cc_Label.set (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\components\CCRenderComponent.js:44:30)
+    at cc_Label.a.set (G:\CocosCreator_2.1.3\resources\app.asar\editor\page\scene-utils\lib\asset-watcher.js:1:973)
+    at cc_Label.a.set (G:\CocosCreator_2.1.3\resources\app.asar\editor\page\scene-utils\lib\asset-watcher.js:1:973)
+    at cc_Label.a.set [as sharedMaterials] (G:\CocosCreator_2.1.3\resources\app.asar\editor\page\scene-utils\lib\asset-watcher.js:1:973)
+    at l (G:\CocosCreator_2.1.3\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:1837)
+    at d (G:\CocosCreator_2.1.3\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:1394)
+    at G:\CocosCreator_2.1.3\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:6187
+    at f (G:\CocosCreator_2.1.3\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:795)
+    at f (G:\CocosCreator_2.1.3\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:844)
+2021-12-04T11:32:52.664Z - info: Only the prefab node "editbox" and its child nodes are saved.
+2021-12-04T11:35:18.545Z - info: Only the prefab node "button" and its child nodes are saved.
+2021-12-04T11:57:54.209Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js] failed : TypeError: password.split is not a function
+    at passWordCheck (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:25:34)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:29:13)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:34:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:41:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:44:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-04T12:07:44.132Z - normal: at least 8 characters
+2021-12-04T12:10:03.877Z - failed: [db-task][sync-changes] Failed to import asset G:\Cocos\kakalak-cocos\Day1\assets\Script\utils.js, message: Compile error: SyntaxError: G:/Cocos/kakalak-cocos/Day1/assets/Script/utils.js: Unsyntactic continue (31:12)
+  29 |     function isUpperCase(password) {
+  30 |         password.forEach(element => {
+> 31 |             continue;
+     |             ^
+  32 |             if (element === element.toUpperCase()) countUpper++;
+  33 |             console.log(countUpper);
+  34 |         });
+    at Parser.pp$5.raise (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp$1.parseBreakContinueStatement (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:1970:44)
+    at Parser.pp$1.parseStatement (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:1830:19)
+    at Parser.pp$1.parseBlockBody (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$3.parseFunctionBody (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:4235:22)
+    at Parser.pp$3.parseArrowExpression (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:4190:8)
+    at Parser.pp$3.parseExprAtom (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3665:21)
+    at Parser.pp$3.parseExprSubscripts (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+2021-12-04T12:10:13.156Z - failed: [db-task][sync-changes] Failed to import asset G:\Cocos\kakalak-cocos\Day1\assets\Script\utils.js, message: Compile error: SyntaxError: G:/Cocos/kakalak-cocos/Day1/assets/Script/utils.js: Unsyntactic continue (31:12)
+  29 |     function isUpperCase(password) {
+  30 |         password.forEach(element => {
+> 31 |             continue;
+     |             ^
+  32 |             if (element === element.toUpperCase()) countUpper++;
+  33 |             console.log(countUpper);
+  34 |         });
+    at Parser.pp$5.raise (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp$1.parseBreakContinueStatement (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:1970:44)
+    at Parser.pp$1.parseStatement (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:1830:19)
+    at Parser.pp$1.parseBlockBody (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$3.parseFunctionBody (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:4235:22)
+    at Parser.pp$3.parseArrowExpression (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:4190:8)
+    at Parser.pp$3.parseExprAtom (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3665:21)
+    at Parser.pp$3.parseExprSubscripts (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+2021-12-04T12:14:33.927Z - normal: at least 1 capital letter
+2021-12-04T12:15:35.972Z - normal: at least 1 capital letter
+2021-12-04T12:28:21.523Z - failed: load script [utils] failed : ReferenceError: passWordCheck is not defined
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:98:15)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:105:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:112:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:115:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-12-04T12:28:21.524Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js] failed : ReferenceError: passWordCheck is not defined
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:98:15)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:105:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:112:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:115:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2021-12-04T12:47:05.490Z - failed: load script [utils] failed : ReferenceError: userNameArray is not defined
+    at Object.userNameCheck (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:65:13)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:114:13)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:121:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:128:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:131:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-04T12:47:05.492Z - failed: load script [G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js] failed : ReferenceError: userNameArray is not defined
+    at Object.userNameCheck (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:65:13)
+    at __define (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:114:13)
+    at G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:121:13
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:128:11)
+    at Object.<anonymous> (G:\Cocos\kakalak-cocos\Day1\temp\quick-scripts\assets\Script\utils.js:131:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+2021-12-04T12:47:21.302Z - normal: username must have a least 8 character
+2021-12-04T12:47:35.314Z - normal: username must have a least 8 characters
+2021-12-04T12:47:48.205Z - normal: username must not contain special characters
+2021-12-04T12:48:26.750Z - normal: username must not contain special characters
+2021-12-04T12:51:01.791Z - normal: username must not contain special characters
+2021-12-04T13:11:54.370Z - normal: username must not contain special characters
+2021-12-04T13:12:19.643Z - normal: username must not contain special characters
+2021-12-04T13:14:04.391Z - normal: username must not contain special characters
+2021-12-04T15:37:35.490Z - failed: [db-task][sync-changes] Failed to import asset G:\Cocos\kakalak-cocos\Day1\assets\Script\menu script\signUpForm.js, message: Compile error: SyntaxError: G:/Cocos/kakalak-cocos/Day1/assets/Script/menu script/signUpForm.js: Unexpected token, expected , (112:4)
+  110 |     onClickSignUp
+  111 | 
+> 112 |     onLoad() {
+      |     ^
+  113 |     },
+  114 | 
+  115 |     start() {
+    at Parser.pp$5.raise (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseObj (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (G:\CocosCreator_2.1.3\resources\app.asar\node_modules\babylon\lib\index.js:3344:19)
+2021-12-04T15:48:17.897Z - error: Can't init canvas 'canvas' because it conflicts with the existing 'Canvas', the scene should only have one active canvas at the same time
+    at Object.cc.errorID (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at cc_Canvas.__preload (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\components\CCCanvas.js:82:31)
+    at eval (eval at createInvokeImpl (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\component-scheduler.js:1:1), <anonymous>:3:65)
+    at CCClass._invoke (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\component-scheduler.js:165:21)
+    at CCClass.invoke (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\node-activator.js:50:22)
+    at CCClass.activateNode (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\node-activator.js:184:34)
+    at cc_Node._onHierarchyChanged (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\utils\base-node.js:623:48)
+    at cc_Node._onHierarchyChanged (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\CCNode.js:726:22)
+    at cc_Node.setParent (G:\CocosCreator_2.1.3\resources\engine\bin\.cache\dev\cocos2d\core\utils\base-node.js:219:26)

@@ -164,11 +164,6 @@
     "meta": 1638535762606,
     "relativePath": "Script\\ScriptA.js"
   },
-  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
-    "asset": 1638535522400,
-    "meta": 1638535762704,
-    "relativePath": "Script\\utils.js"
-  },
   "7198d282-7837-4cb2-99c8-9f4241721582": {
     "asset": 1638535522412,
     "meta": 1638535762878,
@@ -390,9 +385,9 @@
     "relativePath": "particle\\atom.png"
   },
   "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
-    "asset": 1568710982000,
-    "meta": 1638535755186,
-    "relativePath": "prefab\\button.prefab"
+    "asset": 1638617719345,
+    "meta": 1638617719353,
+    "relativePath": "button.prefab"
   },
   "b2687ac4-099e-403c-a192-ff477686f4f5": {
     "asset": 1568710982000,
@@ -585,8 +580,8 @@
     "relativePath": "Script\\index.html"
   },
   "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db": {
-    "asset": 1638605497021,
-    "meta": 1638605497051,
+    "asset": 1638615467720,
+    "meta": 1638615467739,
     "relativePath": "Scene\\register.fire"
   },
   "a229cb0f-35b5-45d0-a875-6995ebd25af4": {
@@ -620,8 +615,33 @@
     "relativePath": "Script\\prefab learning\\prefab button.js"
   },
   "8b8d8430-6ad5-4c4e-adb6-e3f3bad0e45e": {
-    "asset": 1638613377213,
-    "meta": 1638613379258,
+    "asset": 1638613567676,
+    "meta": 1638613573576,
     "relativePath": "Script\\menu script\\layout.js"
+  },
+  "ce65df12-2d24-48ca-a3d9-c3d42c537403": {
+    "asset": 1638615565165,
+    "meta": 1638615566427,
+    "relativePath": "Texture\\background01.png"
+  },
+  "dbcc325b-5329-49cf-9713-41abe8f4eb4c": {
+    "asset": 1638617581982,
+    "meta": 1638617581996,
+    "relativePath": "editbox.prefab"
+  },
+  "a6bfb863-2f07-4213-8d31-2348e99cedcc": {
+    "asset": 1638633249255,
+    "meta": 1638633249275,
+    "relativePath": "Scene\\sketch-registerform.fire"
+  },
+  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
+    "asset": 1638624894301,
+    "meta": 1638625128470,
+    "relativePath": "Script\\utils.js"
+  },
+  "4f01017a-6f28-4a6f-b176-5e5017d81bd0": {
+    "asset": 1638632682722,
+    "meta": 1638632714119,
+    "relativePath": "Script\\menu script\\signUpForm.js"
   }
 }
