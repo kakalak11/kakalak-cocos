@@ -6,10 +6,10 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 107,
-      "y": 53,
+      "x": 0,
+      "y": 0,
       "width": 1680,
-      "height": 1040,
+      "height": 1050,
       "layout": {
         "children": [
           {
@@ -19,23 +19,23 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 437.171875,
+                "height": 470,
                 "type": "panel",
-                "width": 204
+                "width": 337
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 481.828125,
+                "height": 518,
                 "type": "panel",
-                "width": 204
+                "width": 337
               }
             ],
-            "height": 921,
+            "height": 990,
             "type": "dock-v",
-            "width": 204
+            "width": 337
           },
           {
             "children": [
@@ -44,9 +44,9 @@
                 "children": [
                   "scene"
                 ],
-                "height": 653,
+                "height": 683,
                 "type": "panel",
-                "width": 1152
+                "width": 1035
               },
               {
                 "active": 0,
@@ -55,14 +55,14 @@
                   "timeline",
                   "game-window"
                 ],
-                "height": 266,
+                "height": 305,
                 "type": "panel",
-                "width": 1152
+                "width": 1035
               }
             ],
-            "height": 921,
+            "height": 990,
             "type": "dock-v",
-            "width": 1152
+            "width": 1035
           },
           {
             "active": 0,
@@ -71,7 +71,7 @@
               "cocos-services",
               "node-library"
             ],
-            "height": 921,
+            "height": 990,
             "type": "panel",
             "width": 304
           }

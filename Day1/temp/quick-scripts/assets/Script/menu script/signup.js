@@ -20,6 +20,7 @@ cc.Class({
     properties: {
         username: cc.EditBox,
         password: cc.EditBox,
+        confirm: cc.EditBox,
         accountList: cc.Layout,
         signupButton: cc.Button,
         information: []
@@ -27,10 +28,86 @@ cc.Class({
 
     // LIFE-CYCLE CALLBACKS:
 
+    onUserNameInputEnded: function onUserNameInputEnded(usernameBox) {
+        cc.log('username input end');
+    },
+
+    onPasswordInputEnded: function onPasswordInputEnded(passwordBox) {
+        var countUpper = 0;
+        var countLower = 0;
+        var passwordArray = passwordBox.string.split('');
+        cc.log('password input end');
+
+        if (passwordBox.string.length < 8) {
+            cc.log('password has to have at least 8 character');
+            return false;
+        }
+
+        cc.log(passwordArray);
+
+        if (!isUpperCase(passwordArray, countUpper) || !isLowerCase(passwordArray, countLower)) {
+            cc.log('password has to have atleast 1 uppercase and 1 lowercase letter');
+            return false;
+        }
+
+        function isUpperCase(passwordArray, countUpper) {
+
+            passwordArray.forEach(function (element) {
+                if (check(element)) countUpper++;
+            });
+
+            if (countUpper > 0) {
+                cc.log(countUpper);
+                return true;
+            } else {
+                cc.log(countUpper);
+                return false;
+            }
+
+            function check(element) {
+                if (Number.isInteger(parseInt(element))) return false;
+                return element === element.toUpperCase();
+            }
+        }
+
+        function isLowerCase(passwordArray, countLower) {
+
+            passwordArray.forEach(function (element) {
+                if (check(element)) countLower++;
+            });
+
+            if (countLower > 0) {
+                cc.log(countLower);
+                return true;
+            } else {
+                cc.log(countLower);
+                return false;
+            }
+
+            function check(element) {
+                if (Number.isInteger(parseInt(element))) return false;
+                return element === element.toLowerCase();
+            }
+        }
+
+        return true;
+    },
+
+    onConfirmInputEnded: function onConfirmInputEnded(confirmBox) {
+        cc.log(confirmBox.string);
+        if (confirmBox.string === this.password.string) {
+            return true;
+        } else {
+            cc.log('password didn\'t match, please try again');
+            return false;
+        }
+    },
+
     onClickSignup: function onClickSignup() {
         cc.log('click');
         this.information.push(this.username.string + ':' + this.password.string);
         cc.log(this.information);
+        // cc.log(this.information[0].split(':'));
     },
 
     onClickAccountList: function onClickAccountList() {
@@ -38,8 +115,12 @@ cc.Class({
     },
 
     onLoad: function onLoad() {
-        cc.log(this.username.string);
-        cc.log(this.password.string);
+        // cc.log(this.username.string);
+        // cc.log(this.password.string);
+        // this.signupButton.interactable = false;
+        this.username.node.on('editing-did-ended', this.onUserNameInputEnded, this);
+        this.password.node.on('editing-did-ended', this.onPasswordInputEnded, this);
+        this.confirm.node.on('editing-did-ended', this.onConfirmInputEnded, this);
     },
     start: function start() {}
 }

@@ -21,4 +21,44 @@ function primeNumber(number) {
     return primeArray;
 }
 
+function getFormat(fileName) {
+    var file = fileName.slice(fileName.indexOf('.'));
+    return file;
+}
+
+function findDifference(array1, array2) {
+    var result = [];
+    array2.forEach(function (element, index) {
+        array1.indexOf(element) === -1 ? result.push(element) : console.log(index);
+    });
+    return result;
+}
+
+function isLowerCase(passwordArray, countUpper) {
+
+    passwordArray.forEach(function (element) {
+        if (check(element)) countUpper++;
+    });
+
+    if (countUpper > 0) {
+        cc.log(countUpper);
+        return true;
+    } else {
+        cc.log(countUpper);
+        return false;
+    }
+
+    function check(element) {
+        if (Number.isInteger(parseInt(element))) return false;
+        return element === element.toLowerCase();
+    }
+}
+
+var password = 'Tu123456'.split('');
+
+var uppercase = 'A';
+var lowercase = 'a';
+
+console.log(isLowerCase(password, 0));
+
 cc._RF.pop();
