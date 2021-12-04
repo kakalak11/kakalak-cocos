@@ -1,15 +1,14 @@
 {
   "version": "1.1.1",
   "windows": {
-    "worker": {},
     "main": {
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 107,
-      "y": 53,
-      "width": 1680,
-      "height": 1040,
+      "x": -8,
+      "y": -8,
+      "width": 1936,
+      "height": 1056,
       "layout": {
         "children": [
           {
@@ -19,7 +18,7 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 437.171875,
+                "height": 437,
                 "type": "panel",
                 "width": 204
               },
@@ -28,7 +27,7 @@
                 "children": [
                   "assets"
                 ],
-                "height": 481.828125,
+                "height": 482,
                 "type": "panel",
                 "width": 204
               }
