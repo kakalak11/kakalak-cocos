@@ -21,6 +21,7 @@ cc.Class({
         accounListButton: cc.Button,
         userNameError: cc.Label,
         passWordError: cc.Label,
+        signUpSuccess: cc.Sprite,
         _userNameChecking: null,
         _passWordChecking: null,
         _confirmChecking: null,
@@ -115,8 +116,13 @@ cc.Class({
         this._userNameChecking = null;
         this._passWordChecking = null;
         this._confirmChecking = null;
+        this.signUpSuccess.node.active = true;
         this.signUpButton.interactable = false;
         cc.log(this._accountList);
+    },
+
+    onClickSuccess: function() {
+        this.signUpSuccess.node.active = false;
     },
 
     onLoad() {
@@ -132,3 +138,4 @@ cc.Class({
         this.signUpButton.interactable = true;
     },
 });
+
