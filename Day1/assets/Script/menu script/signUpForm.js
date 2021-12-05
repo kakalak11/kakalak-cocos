@@ -22,6 +22,7 @@ cc.Class({
         userNameError: cc.Label,
         passWordError: cc.Label,
         signUpSuccess: cc.Sprite,
+        layout: cc.Layout,
         _userNameChecking: null,
         _passWordChecking: null,
         _confirmChecking: null,
@@ -126,9 +127,17 @@ cc.Class({
     },
 
     onLoad() {
+        var nodeString = new cc.Node('Label');
+        nodeString.string = 'Hello World';
+        nodeString.x = -200;
+        this.layout.node.addChild(nodeString);
+        cc.log(this);
+        cc.log(this.layout);
+        cc.log(nodeString);
     },
 
     start() {
+
     },
 
     update(dt) {

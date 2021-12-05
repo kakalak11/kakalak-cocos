@@ -28,6 +28,7 @@ cc.Class({
         userNameError: cc.Label,
         passWordError: cc.Label,
         signUpSuccess: cc.Sprite,
+        layout: cc.Layout,
         _userNameChecking: null,
         _passWordChecking: null,
         _confirmChecking: null,
@@ -131,7 +132,15 @@ cc.Class({
         this.signUpSuccess.node.active = false;
     },
 
-    onLoad: function onLoad() {},
+    onLoad: function onLoad() {
+        var nodeString = new cc.Node('Label');
+        nodeString.string = 'Hello World';
+        nodeString.x = -200;
+        this.layout.node.addChild(nodeString);
+        cc.log(this);
+        cc.log(this.layout);
+        cc.log(nodeString);
+    },
     start: function start() {},
     update: function update(dt) {
         if (!this._checkUserName() || !this._checkPassWord() || !this._checkConfirm()) {

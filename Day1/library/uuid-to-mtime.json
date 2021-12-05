@@ -630,8 +630,8 @@
     "relativePath": "editbox.prefab"
   },
   "a6bfb863-2f07-4213-8d31-2348e99cedcc": {
-    "asset": 1638634432839,
-    "meta": 1638634432852,
+    "asset": 1638677257013,
+    "meta": 1638677257035,
     "relativePath": "Scene\\sketch-registerform.fire"
   },
   "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
@@ -640,8 +640,8 @@
     "relativePath": "Script\\utils.js"
   },
   "4f01017a-6f28-4a6f-b176-5e5017d81bd0": {
-    "asset": 1638634427161,
-    "meta": 1638634430867,
+    "asset": 1638677253918,
+    "meta": 1638677256154,
     "relativePath": "Script\\menu script\\signUpForm.js"
   }
 }
