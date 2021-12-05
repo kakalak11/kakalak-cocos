@@ -140,8 +140,8 @@
     "relativePath": "Texture\\bg03.jpeg"
   },
   "39b5f239-7815-4cba-90ec-612bbee65ca0": {
-    "asset": 1638603161839,
-    "meta": 1638603161885,
+    "asset": 1638713596249,
+    "meta": 1638713596263,
     "relativePath": "Scene\\sketch.fire"
   },
   "c595d3a6-d7a3-41ba-8a7c-dece40871c26": {
@@ -630,8 +630,8 @@
     "relativePath": "editbox.prefab"
   },
   "a6bfb863-2f07-4213-8d31-2348e99cedcc": {
-    "asset": 1638677257013,
-    "meta": 1638677257035,
+    "asset": 1638706110561,
+    "meta": 1638706110612,
     "relativePath": "Scene\\sketch-registerform.fire"
   },
   "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
@@ -643,5 +643,30 @@
     "asset": 1638677253918,
     "meta": 1638677256154,
     "relativePath": "Script\\menu script\\signUpForm.js"
+  },
+  "a8063e13-52c2-41d9-b8a1-6b5a97999656": {
+    "asset": 1638706141710,
+    "meta": 1638706141711,
+    "relativePath": "Script\\sketch script"
+  },
+  "0db7ffa4-5ef7-44f9-ad0b-ec543b2d8d10": {
+    "asset": 1638710735899,
+    "meta": 1638710744304,
+    "relativePath": "Script\\sketch script\\labelScript.js"
+  },
+  "57b82150-03f3-4caf-97ad-5f9499c4a2f6": {
+    "asset": 1638712579887,
+    "meta": 1638712579889,
+    "relativePath": "Texture\\prefab_sketch"
+  },
+  "60fa24e1-9d8a-434d-9d51-f9f4c4f23dbb": {
+    "asset": 1638712611906,
+    "meta": 1638712611913,
+    "relativePath": "Texture\\prefab_sketch\\label.prefab"
+  },
+  "14d884c7-66df-40ca-9af3-a8065ee0d97a": {
+    "asset": 1638713585778,
+    "meta": 1638713595435,
+    "relativePath": "Script\\sketch script\\layoutScript.js"
   }
 }
