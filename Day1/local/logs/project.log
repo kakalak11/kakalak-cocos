@@ -1,180 +1,78 @@
-2021-12-04T02:06:19.976Z - normal: Load ~/.CocosCreator/settings.json
-2021-12-04T02:06:20.023Z - normal: Initializing Asset Database
-2021-12-04T02:06:20.025Z - normal: checking language setting...
-2021-12-04T02:06:20.025Z - normal: Language: en
-2021-12-04T02:06:20.638Z - success: preview server running at http://localhost:7456
-2021-12-04T02:06:20.651Z - success: protocol editor-framework registered
-2021-12-04T02:06:20.651Z - success: protocol app registered
-2021-12-04T02:06:20.651Z - success: protocol theme registered
-2021-12-04T02:06:20.651Z - success: protocol packages registered
-2021-12-04T02:06:20.651Z - success: protocol uuid registerred
-2021-12-04T02:06:20.651Z - success: protocol db registerred
-2021-12-04T02:06:20.651Z - success: protocol thumbnail registerred
-2021-12-04T02:06:20.651Z - success: protocol unpack registerred
-2021-12-04T02:06:20.652Z - success: protocol disable-commonjs registerred
-2021-12-04T02:06:21.520Z - normal: connected!
-2021-12-04T02:06:21.521Z - normal: Check project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-04T02:06:21.523Z - normal: Initializing project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-04T02:06:21.852Z - normal: Initializing Cocos2d
-2021-12-04T02:06:22.518Z - normal: Initializing engine extends
-2021-12-04T02:06:22.544Z - success: alipay-adapter loaded
-2021-12-04T02:06:22.549Z - success: asset-db-debugger loaded
-2021-12-04T02:06:22.550Z - success: baidu-adapter loaded
-2021-12-04T02:06:22.552Z - success: color-picker loaded
-2021-12-04T02:06:22.668Z - success: fb-audience-network loaded
-2021-12-04T02:06:22.719Z - success: fb-live-stream loaded
-2021-12-04T02:06:22.721Z - success: google-play-instant loaded
-2021-12-04T02:06:22.728Z - success: huawei-runtime loaded
-2021-12-04T02:06:22.948Z - success: cpk-publish loaded
-2021-12-04T02:06:22.950Z - success: jsb-adapter loaded
-2021-12-04T02:06:22.955Z - success: oppo-runtime loaded
-2021-12-04T02:06:22.961Z - success: package-manager loaded
-2021-12-04T02:06:23.096Z - success: qqplay-adapter loaded
-2021-12-04T02:06:23.099Z - success: runtime-dev-tools loaded
-2021-12-04T02:06:23.121Z - success: sdkbox loaded
-2021-12-04T02:06:23.129Z - success: tester loaded
-2021-12-04T02:06:23.137Z - success: ui-kit-preview-extra loaded
-2021-12-04T02:06:23.142Z - success: ui-kit-preview loaded
-2021-12-04T02:06:23.146Z - success: ui-kit loaded
-2021-12-04T02:06:23.154Z - success: vivo-runtime loaded
-2021-12-04T02:06:23.155Z - success: weapp-adapter loaded
-2021-12-04T02:06:23.158Z - success: xiaomi-adapter loaded
-2021-12-04T02:06:23.161Z - success: alipay-minigame loaded
-2021-12-04T02:06:23.198Z - success: assets loaded
-2021-12-04T02:06:23.200Z - success: builder loaded
-2021-12-04T02:06:23.444Z - success: cocos-services loaded
-2021-12-04T02:06:23.448Z - success: console loaded
-2021-12-04T02:06:23.472Z - success: fb-instant-games loaded
-2021-12-04T02:06:23.476Z - success: game-window loaded
-2021-12-04T02:06:23.476Z - success: google-instant-games loaded
-2021-12-04T02:06:23.481Z - success: hierarchy loaded
-2021-12-04T02:06:23.485Z - success: inspector loaded
-2021-12-04T02:06:23.487Z - success: keystore loaded
-2021-12-04T02:06:23.490Z - success: node-library loaded
-2021-12-04T02:06:23.492Z - success: package-asset loaded
-2021-12-04T02:06:23.493Z - success: preferences loaded
-2021-12-04T02:06:23.495Z - success: project-exporter loaded
-2021-12-04T02:06:23.499Z - success: project-importer loaded
-2021-12-04T02:06:23.502Z - success: project-settings loaded
-2021-12-04T02:06:23.505Z - success: scene loaded
-2021-12-04T02:06:23.506Z - success: simulator-debugger loaded
-2021-12-04T02:06:23.508Z - success: sprite-editor loaded
-2021-12-04T02:06:23.511Z - success: store loaded
-2021-12-04T02:06:23.518Z - success: timeline loaded
-2021-12-04T02:06:23.521Z - success: xiaomi-runtime loaded
-2021-12-04T02:06:27.998Z - normal: Loading packages
-2021-12-04T02:06:28.002Z - normal: Watching packages
-2021-12-04T02:06:28.077Z - normal: Run Application
-2021-12-04T02:06:32.014Z - info: Cocos Services load base data!
-2021-12-04T02:52:06.113Z - error: The 'default' value of 'signup.signupButton' can not be an constructor. Set default to null please.
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at Object.exports.preprocessAttrs (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/preprocess-class.js:210:36)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:631:28)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signup.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signup.js:67:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signup.js:74:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signup.js:77:3)
-    at Module._compile (module.js:571:32)
-2021-12-04T02:52:20.870Z - error: getComponent: Type must be non-nil
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at getConstructor (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/base-node.js:29:20)
-    at cc_Node.getComponent (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/base-node.js:399:35)
-    at HTMLElement.query-node-info (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-query.js:1:1331)
-    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
-    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-04T03:02:57.381Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js] failed : TypeError: string.forEach is not a function
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:29:20)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:36:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:43:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:46:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2021-12-04T03:08:05.825Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js] failed : TypeError: string.forEach is not a function
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:41:8)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:48:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:55:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:58:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2021-12-04T03:53:10.764Z - normal: NaN
-2021-12-04T03:53:25.507Z - normal: 1
-2021-12-04T03:55:32.983Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js] failed : TypeError: uppercase.isUpperCase is not a function
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:57:23)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:62:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:69:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:72:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2021-12-04T04:00:24.720Z - normal: NaN
-2021-12-04T04:00:56.888Z - normal: 6
-2021-12-04T04:01:45.012Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js] failed : TypeError: element.isDigit is not a function
-    at check (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:52:21)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:40:13
-    at Array.forEach (native)
-    at isUpperCase (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:39:19)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:64:13)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:70:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:77:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:80:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-2021-12-04T04:02:06.724Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js] failed : TypeError: element.isInteger is not a function
-    at check (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:52:21)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:40:13
-    at Array.forEach (native)
-    at isUpperCase (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:39:19)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:64:13)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:70:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:77:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:80:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-2021-12-04T04:02:35.520Z - normal: 6
-2021-12-04T04:03:16.567Z - normal: 6
-2021-12-04T04:04:47.231Z - normal: 6
-2021-12-04T04:09:04.219Z - normal: 0
-2021-12-04T04:09:19.617Z - normal: 0
-2021-12-04T04:09:25.734Z - normal: 1
-2021-12-04T04:10:02.198Z - normal: 1
-2021-12-04T04:10:23.256Z - normal: 1
-2021-12-04T04:11:13.330Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js] failed : ReferenceError: isUpperCase is not defined
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:62:13)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:68:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:75:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:78:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2021-12-04T04:11:25.813Z - normal: 0
-2021-12-04T04:11:36.441Z - normal: 1
-2021-12-04T04:11:43.841Z - normal: 1
-2021-12-04T04:11:54.466Z - normal: 1
-2021-12-04T04:14:16.187Z - normal: 1
-2021-12-04T04:14:58.216Z - normal: 1
-2021-12-04T04:16:00.892Z - normal: 1
-2021-12-04T04:16:36.549Z - normal: 1
-2021-12-04T04:33:20.052Z - normal: 1
-2021-12-04T04:36:13.289Z - normal: 1
-2021-12-04T04:41:02.855Z - normal: 1
-2021-12-04T04:41:20.574Z - normal: 1
-2021-12-04T04:41:40.910Z - normal: 1
-2021-12-04T04:42:07.530Z - normal: 1
-2021-12-04T04:46:05.411Z - normal: 1
+2021-12-05T12:03:07.561Z - normal: Load ~/.CocosCreator/settings.json
+2021-12-05T12:03:08.890Z - normal: Initializing Asset Database
+2021-12-05T12:03:08.894Z - normal: checking language setting...
+2021-12-05T12:03:08.894Z - normal: Language: en
+2021-12-05T12:03:11.489Z - success: preview server running at http://localhost:7456
+2021-12-05T12:03:11.492Z - success: protocol editor-framework registered
+2021-12-05T12:03:11.492Z - success: protocol app registered
+2021-12-05T12:03:11.492Z - success: protocol theme registered
+2021-12-05T12:03:11.492Z - success: protocol packages registered
+2021-12-05T12:03:11.492Z - success: protocol uuid registerred
+2021-12-05T12:03:11.493Z - success: protocol db registerred
+2021-12-05T12:03:11.493Z - success: protocol thumbnail registerred
+2021-12-05T12:03:11.493Z - success: protocol unpack registerred
+2021-12-05T12:03:11.493Z - success: protocol disable-commonjs registerred
+2021-12-05T12:03:14.193Z - normal: connected!
+2021-12-05T12:03:14.195Z - normal: Check project G:\Cocos\kakalak-cocos\Day1
+2021-12-05T12:03:14.197Z - normal: Initializing project G:\Cocos\kakalak-cocos\Day1
+2021-12-05T12:03:15.015Z - normal: Initializing Cocos2d
+2021-12-05T12:03:19.266Z - normal: Initializing engine extends
+2021-12-05T12:03:19.675Z - success: alipay-adapter loaded
+2021-12-05T12:03:19.692Z - success: asset-db-debugger loaded
+2021-12-05T12:03:19.698Z - success: baidu-adapter loaded
+2021-12-05T12:03:19.707Z - success: color-picker loaded
+2021-12-05T12:03:20.053Z - success: fb-audience-network loaded
+2021-12-05T12:03:20.176Z - success: fb-live-stream loaded
+2021-12-05T12:03:20.191Z - success: google-play-instant loaded
+2021-12-05T12:03:20.248Z - success: huawei-runtime loaded
+2021-12-05T12:03:21.381Z - success: cpk-publish loaded
+2021-12-05T12:03:21.386Z - success: jsb-adapter loaded
+2021-12-05T12:03:21.455Z - success: oppo-runtime loaded
+2021-12-05T12:03:21.489Z - success: package-manager loaded
+2021-12-05T12:03:21.973Z - success: qqplay-adapter loaded
+2021-12-05T12:03:21.998Z - success: runtime-dev-tools loaded
+2021-12-05T12:03:22.025Z - success: sdkbox loaded
+2021-12-05T12:03:22.044Z - success: tester loaded
+2021-12-05T12:03:22.056Z - success: ui-kit-preview-extra loaded
+2021-12-05T12:03:22.067Z - success: ui-kit-preview loaded
+2021-12-05T12:03:22.068Z - success: ui-kit loaded
+2021-12-05T12:03:22.688Z - success: vivo-runtime loaded
+2021-12-05T12:03:22.693Z - success: weapp-adapter loaded
+2021-12-05T12:03:22.698Z - success: xiaomi-adapter loaded
+2021-12-05T12:03:22.725Z - success: alipay-minigame loaded
+2021-12-05T12:03:22.781Z - success: assets loaded
+2021-12-05T12:03:22.784Z - success: builder loaded
+2021-12-05T12:03:23.373Z - success: cocos-services loaded
+2021-12-05T12:03:23.379Z - success: console loaded
+2021-12-05T12:03:23.424Z - success: fb-instant-games loaded
+2021-12-05T12:03:23.427Z - success: game-window loaded
+2021-12-05T12:03:23.429Z - success: google-instant-games loaded
+2021-12-05T12:03:23.433Z - success: hierarchy loaded
+2021-12-05T12:03:23.436Z - success: inspector loaded
+2021-12-05T12:03:23.438Z - success: keystore loaded
+2021-12-05T12:03:23.442Z - success: node-library loaded
+2021-12-05T12:03:23.443Z - success: package-asset loaded
+2021-12-05T12:03:23.445Z - success: preferences loaded
+2021-12-05T12:03:23.446Z - success: project-exporter loaded
+2021-12-05T12:03:23.448Z - success: project-importer loaded
+2021-12-05T12:03:23.450Z - success: project-settings loaded
+2021-12-05T12:03:23.454Z - success: scene loaded
+2021-12-05T12:03:23.455Z - success: simulator-debugger loaded
+2021-12-05T12:03:23.456Z - success: sprite-editor loaded
+2021-12-05T12:03:23.459Z - success: store loaded
+2021-12-05T12:03:23.464Z - success: timeline loaded
+2021-12-05T12:03:23.469Z - success: xiaomi-runtime loaded
+2021-12-05T12:03:27.400Z - normal: Loading packages
+2021-12-05T12:03:27.414Z - normal: Watching packages
+2021-12-05T12:03:28.155Z - normal: Run Application
+2021-12-05T12:03:29.318Z - info: Cocos Services load base data!
+2021-12-05T12:10:15.297Z - warn: `cc.Node.rotation` is deprecated since v2.1.0, please use `-angle` instead. (`this.node.rotation` -> `-this.node.angle`)
+2021-12-05T12:10:15.298Z - warn: `cc.Node.rotationX` is deprecated since v2.1.0, please use `eulerAngles.x` instead. (`this.node.rotationX` -> `this.node.eulerAngles.x`)
+2021-12-05T12:10:15.298Z - warn: `cc.Node.rotationY` is deprecated since v2.1.0, please use `eulerAngles.y` instead. (`this.node.rotationY` -> `this.node.eulerAngles.y`)
+2021-12-05T14:09:15.077Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-05T14:12:01.772Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-05T14:12:23.752Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-05T14:12:47.964Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-05T14:13:07.167Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-05T14:13:15.875Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-05T14:13:19.604Z - info: shutdown preview server

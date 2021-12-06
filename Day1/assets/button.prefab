@@ -1,13 +1,13 @@
 [
   {
     "__type__": "cc.Prefab",
-    "_name": "button",
+    "_name": "",
     "_objFlags": 0,
     "_native": "",
     "data": {
       "__id__": 1
     },
-    "optimizationPolicy": 1,
+    "optimizationPolicy": 0,
     "asyncLoadAssets": false,
     "readonly": false
   },

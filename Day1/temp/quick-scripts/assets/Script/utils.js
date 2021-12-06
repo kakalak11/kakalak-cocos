@@ -21,45 +21,86 @@ function primeNumber(number) {
     return primeArray;
 }
 
-function getFormat(fileName) {
-    var file = fileName.slice(fileName.indexOf('.'));
-    return file;
-}
+var utilities = {
+    check: function check() {
+        return console.log('utilities has run');
+    },
+    passWordCheck: function passWordCheck(password) {
+        var passwordArray = password.split('');
+        var countUpper = 0;
+        var countLower = 0;
 
-function findDifference(array1, array2) {
-    var result = [];
-    array2.forEach(function (element, index) {
-        array1.indexOf(element) === -1 ? result.push(element) : console.log(index);
-    });
-    return result;
-}
+        if (!isUpperCase(passwordArray) || !isLowerCase(passwordArray)) {
+            cc.log('password needs to have at least 1 capital letter and 1 normal letter');
+            return false;
+        }
 
-function isLowerCase(passwordArray, countUpper) {
+        function isUpperCase(password) {
+            password.forEach(function (element) {
+                if (parseInt(element)) return;
+                if (element === element.toUpperCase()) countUpper++;
+            });
+            if (countUpper) return true;else return false;
+        }
 
-    passwordArray.forEach(function (element) {
-        if (check(element)) countUpper++;
-    });
+        function isLowerCase(password) {
+            password.forEach(function (element) {
+                if (parseInt(element)) return;
+                if (element === element.toLowerCase()) countLower++;
+            });
+            if (countLower) return true;else return false;
+        }
 
-    if (countUpper > 0) {
-        cc.log(countUpper);
         return true;
-    } else {
-        cc.log(countUpper);
-        return false;
+    },
+    userNameCheck: function userNameCheck(username) {
+        // let userNameArray = username.split('');
+        // let countSpecialLetter = 0
+
+        var spChars = /[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]+/;
+        if (spChars.test(username)) {
+            return false;
+        }
+        return true;
     }
 
-    function check(element) {
-        if (Number.isInteger(parseInt(element))) return false;
-        return element === element.toLowerCase();
-    }
-}
+    // function passWordCheck(password) {
+    //     let passwordArray = password.split('');
+    //     let countUpper = 0;
+    //     let countLower = 0;
 
-var password = 'Tu123456'.split('');
+    //     if (passwordArray.length < 8) {
+    //         cc.log('at least 8 characters');
+    //         return false;
+    //     }
 
-var uppercase = 'A';
-var lowercase = 'a';
+    //     if (!isUpperCase(passwordArray) || !isLowerCase(passwordArray)) {
+    //         cc.log('at least 1 capital letter and 1 normal letter');
+    //         return false;
+    //     }
 
-console.log(isLowerCase(password, 0));
+    //     function isUpperCase(password) {
+    //         password.forEach(element => {
+    //             if (parseInt(element)) return;
+    //             if (element === element.toUpperCase()) countUpper++;
+    //         });
+    //         if (countUpper) return true;
+    //         else return false;
+    //     }
+
+    //     function isLowerCase(password) {
+    //         password.forEach(element => {
+    //             if (parseInt(element)) return;
+    //             if (element === element.toLowerCase()) countLower++;
+    //         });
+    //         if (countLower) return true;
+    //         else return false;
+    //     }
+
+    //     return true;
+    // }
+
+};module.exports = utilities;
 
 cc._RF.pop();
         }
