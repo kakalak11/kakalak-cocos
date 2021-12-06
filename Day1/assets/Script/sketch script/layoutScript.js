@@ -15,10 +15,7 @@ cc.Class({
         labelPrefab: {
             default: 0,
             type: cc.Prefab,
-            ctor: function() {
-                this.node.x = 0;
-                this.node.y = 0;
-            },
+            _position: { x: 0, y: 0 },
         },
         // foo: {
         //     // ATTRIBUTES:
@@ -39,13 +36,18 @@ cc.Class({
 
     // LIFE-CYCLE CALLBACKS:
 
-    // onLoad () {},
+    onLoad() {
 
-    start () {
+    },
+
+    start() {
+        cc.log(this);
         cc.log(this.labelPrefab);
-        var label = cc.instantiate(this.labelPrefab);
-        cc.log(label);
-        this.node.addChild(label);
+        for (let i = 0; i < 5; i++) {
+            var label = cc.instantiate(this.labelPrefab);
+            this.node.addChild(label);
+            label.position = { x: 0, y: i * 50 };
+        }
     },
 
     // update (dt) {},

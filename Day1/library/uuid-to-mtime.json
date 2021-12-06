@@ -60,12 +60,12 @@
     "relativePath": "resources/materials"
   },
   "29f52784-2fca-467b-92e7-8fd9ef8c57b7": {
-    "asset": 1638583554504,
+    "asset": 1638755768054,
     "meta": 1638342430805,
     "relativePath": "Scene"
   },
   "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
-    "asset": 1638583554505,
+    "asset": 1638755768079,
     "meta": 1638342430805,
     "relativePath": "Script"
   },
@@ -75,7 +75,7 @@
     "relativePath": "Scene/helloworld.fire"
   },
   "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
-    "asset": 1638583554506,
+    "asset": 1638755620571,
     "meta": 1638342430804,
     "relativePath": "Texture"
   },
@@ -580,7 +580,7 @@
     "relativePath": "Texture/background.png"
   },
   "1940de25-84bf-44ad-aa69-8e8aff2d0f7a": {
-    "asset": 1638583554505,
+    "asset": 1638755620570,
     "meta": 1638583554505,
     "relativePath": "Script/menu script"
   },
@@ -589,25 +589,10 @@
     "meta": 1638593164916,
     "relativePath": "Script/menu script/signup.js"
   },
-  "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db": {
-    "asset": 1638755620629,
-    "meta": 1638593224691,
-    "relativePath": "Scene/register.fire"
-  },
   "39b5f239-7815-4cba-90ec-612bbee65ca0": {
-    "asset": 1638755620569,
-    "meta": 1638755649939,
+    "asset": 1638758815990,
+    "meta": 1638758815995,
     "relativePath": "Scene/sketch.fire"
-  },
-  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
-    "asset": 1638755620624,
-    "meta": 1638591255697,
-    "relativePath": "Script/utils.js"
-  },
-  "e28b240d-ab26-48dd-937c-27fbf58f8178": {
-    "asset": 1638755620572,
-    "meta": 1638755649943,
-    "relativePath": "button.prefab"
   },
   "fe5b8c94-b424-4ca6-a12a-641934b88759": {
     "asset": 1638755620567,
@@ -620,19 +605,14 @@
     "relativePath": "editbox.prefab"
   },
   "a6bfb863-2f07-4213-8d31-2348e99cedcc": {
-    "asset": 1638755620568,
-    "meta": 1638755649966,
+    "asset": 1638772142143,
+    "meta": 1638772142149,
     "relativePath": "Scene/sketch-registerform.fire"
   },
   "8b8d8430-6ad5-4c4e-adb6-e3f3bad0e45e": {
     "asset": 1638755620569,
     "meta": 1638755650000,
     "relativePath": "Script/menu script/layout.js"
-  },
-  "4f01017a-6f28-4a6f-b176-5e5017d81bd0": {
-    "asset": 1638755620569,
-    "meta": 1638755650000,
-    "relativePath": "Script/menu script/signUpForm.js"
   },
   "493966ec-53bf-482f-9718-3ab4db320a4a": {
     "asset": 1638755620570,
@@ -654,24 +634,54 @@
     "meta": 1638755650029,
     "relativePath": "Script/sketch script/labelScript.js"
   },
-  "14d884c7-66df-40ca-9af3-a8065ee0d97a": {
-    "asset": 1638755620571,
-    "meta": 1638755650029,
-    "relativePath": "Script/sketch script/layoutScript.js"
-  },
   "57b82150-03f3-4caf-97ad-5f9499c4a2f6": {
     "asset": 1638755620572,
     "meta": 1638755620571,
     "relativePath": "Texture/prefab_sketch"
   },
   "60fa24e1-9d8a-434d-9d51-f9f4c4f23dbb": {
-    "asset": 1638755620572,
-    "meta": 1638755650033,
-    "relativePath": "Texture/prefab_sketch/label.prefab"
+    "asset": 1638763067140,
+    "meta": 1638763067159,
+    "relativePath": "Texture/prefab_sketch/accountLabel.prefab"
   },
   "ce65df12-2d24-48ca-a3d9-c3d42c537403": {
     "asset": 1638755620571,
     "meta": 1638755650085,
     "relativePath": "Texture/background01.png"
+  },
+  "518de6e8-0595-47d8-b621-a55c0857d0f5": {
+    "asset": 1638755620572,
+    "meta": 1638755827492,
+    "relativePath": "button.prefab"
+  },
+  "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db": {
+    "asset": 1638755768055,
+    "meta": 1638755827537,
+    "relativePath": "Scene/register.fire"
+  },
+  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
+    "asset": 1638756052840,
+    "meta": 1638756072268,
+    "relativePath": "Script/utils.js"
+  },
+  "14d884c7-66df-40ca-9af3-a8065ee0d97a": {
+    "asset": 1638757645907,
+    "meta": 1638757665812,
+    "relativePath": "Script/sketch script/layoutScript.js"
+  },
+  "a8d49827-e47f-42f4-9bfc-c89b8b5730dd": {
+    "asset": 1638766150835,
+    "meta": 1638766150835,
+    "relativePath": "Sounds"
+  },
+  "d17be626-b8b1-473c-9ac1-0f84fc58ea9a": {
+    "asset": 1638151708951,
+    "meta": 1638766150849,
+    "relativePath": "Sounds/signUpSuccessful.wav"
+  },
+  "4f01017a-6f28-4a6f-b176-5e5017d81bd0": {
+    "asset": 1638766885944,
+    "meta": 1638766895728,
+    "relativePath": "Script/menu script/signUpForm.js"
   }
 }

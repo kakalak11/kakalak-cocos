@@ -22,7 +22,9 @@ cc.Class({
         userNameError: cc.Label,
         passWordError: cc.Label,
         signUpSuccess: cc.Sprite,
-        layout: cc.Layout,
+        accountList: cc.Layout,
+        accountListWindow: cc.Node,
+        accountLabelPrefab: cc.Prefab,
         _userNameChecking: null,
         _passWordChecking: null,
         _confirmChecking: null,
@@ -33,6 +35,7 @@ cc.Class({
 
     onUserNameInputBegan: function () {
         this._userNameChecking = false;
+        this.userNameError.node.color = cc.Color.RED;
         this.userNameError.node.active = false;
     },
 
@@ -51,6 +54,7 @@ cc.Class({
 
     onConfirmInputBegan: function () {
         this._confirmChecking = false;
+        this.passWordError.node.color = cc.Color.RED;
         this.passWordError.node.active = false;
     },
 
@@ -73,6 +77,15 @@ cc.Class({
             return false;
         }
 
+        if (!this._checkAvailable(this.userNameBox.string)) {
+            this.userNameError.node.active = true;
+            this.userNameError.string = '//username is not available, please choose another username';
+            return false;
+        };
+
+        this.userNameError.node.active = true;
+        this.userNameError.node.color = cc.Color.GREEN;
+        this.userNameError.string = '//this username is available';
         return true;
     },
 
@@ -91,13 +104,12 @@ cc.Class({
             return false;
         }
 
+
         return true;
     },
 
     _checkConfirm: function () {
-        if (!this.passWordBox.string) {
-            return;
-        };
+        if (!this.passWordBox.string) return;
         if (!this._confirmChecking) return;
         if (!this.confirmBox.string) return;
         if (this.confirmBox.string !== this.passWordBox.string) {
@@ -106,34 +118,65 @@ cc.Class({
             return false;
         }
 
+        this.passWordError.node.active = true;
+        this.passWordError.node.color = cc.Color.GREEN;
+        this.passWordError.string = `//password match !`;
         return true;
     },
 
-    onClickSignUp: function() {
-        this._accountList.push(this.userNameBox.string + ":" + this.passWordBox.string);
+    _appendAccount: function (username, password) {
+        let labelNode = cc.instantiate(this.accountLabelPrefab);
+        this.accountList.node.addChild(labelNode);
+        let label = labelNode.getComponent('cc.Label');
+        label.string = username + ' : ' + password;
+    },
+
+    _checkAvailable: function (username) {
+        let available = true;
+        this._accountList.forEach(function (element) {
+            let usernameCheck = element.split(':')[0];
+            if (usernameCheck === username) available = false;
+        });
+
+        if (available) return true;
+        return false;
+    },
+
+    _reset: function () {
         this.userNameBox.string = '';
         this.passWordBox.string = '';
         this.confirmBox.string = '';
+        this.passWordError.node.active = false;
+        this.userNameError.node.active = false;
         this._userNameChecking = null;
         this._passWordChecking = null;
         this._confirmChecking = null;
         this.signUpSuccess.node.active = true;
         this.signUpButton.interactable = false;
+    },
+
+    onClickSignUp: function () {
+        this._accountList.push(this.userNameBox.string + ":" + this.passWordBox.string);
+        this._appendAccount(this.userNameBox.string, this.passWordBox.string);
+        this._reset();
         cc.log(this._accountList);
     },
 
-    onClickSuccess: function() {
+    onClickSuccess: function () {
         this.signUpSuccess.node.active = false;
     },
 
+    onClickAccountList: function () {
+        if (!this.accountListWindow.active) {
+            this.accountListWindow.active = true;
+            return;
+        }
+        this.accountListWindow.active = false;
+    },
+
     onLoad() {
-        var nodeString = new cc.Node('Label');
-        nodeString.string = 'Hello World';
-        nodeString.x = -200;
-        this.layout.node.addChild(nodeString);
-        cc.log(this);
-        cc.log(this.layout);
-        cc.log(nodeString);
+        this._accountList.push('kakalak:123456');
+        cc.log(this._accountList);
     },
 
     start() {

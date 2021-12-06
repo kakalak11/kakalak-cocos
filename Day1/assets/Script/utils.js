@@ -59,40 +59,4 @@ var utilities = {
     }
 }
 
-// function passWordCheck(password) {
-//     let passwordArray = password.split('');
-//     let countUpper = 0;
-//     let countLower = 0;
-
-//     if (passwordArray.length < 8) {
-//         cc.log('at least 8 characters');
-//         return false;
-//     }
-
-//     if (!isUpperCase(passwordArray) || !isLowerCase(passwordArray)) {
-//         cc.log('at least 1 capital letter and 1 normal letter');
-//         return false;
-//     }
-
-//     function isUpperCase(password) {
-//         password.forEach(element => {
-//             if (parseInt(element)) return;
-//             if (element === element.toUpperCase()) countUpper++;
-//         });
-//         if (countUpper) return true;
-//         else return false;
-//     }
-
-//     function isLowerCase(password) {
-//         password.forEach(element => {
-//             if (parseInt(element)) return;
-//             if (element === element.toLowerCase()) countLower++;
-//         });
-//         if (countLower) return true;
-//         else return false;
-//     }
-
-//     return true;
-// }
-
 module.exports = utilities;

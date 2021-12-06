@@ -1,78 +1,238 @@
-2021-12-05T12:03:07.561Z - normal: Load ~/.CocosCreator/settings.json
-2021-12-05T12:03:08.890Z - normal: Initializing Asset Database
-2021-12-05T12:03:08.894Z - normal: checking language setting...
-2021-12-05T12:03:08.894Z - normal: Language: en
-2021-12-05T12:03:11.489Z - success: preview server running at http://localhost:7456
-2021-12-05T12:03:11.492Z - success: protocol editor-framework registered
-2021-12-05T12:03:11.492Z - success: protocol app registered
-2021-12-05T12:03:11.492Z - success: protocol theme registered
-2021-12-05T12:03:11.492Z - success: protocol packages registered
-2021-12-05T12:03:11.492Z - success: protocol uuid registerred
-2021-12-05T12:03:11.493Z - success: protocol db registerred
-2021-12-05T12:03:11.493Z - success: protocol thumbnail registerred
-2021-12-05T12:03:11.493Z - success: protocol unpack registerred
-2021-12-05T12:03:11.493Z - success: protocol disable-commonjs registerred
-2021-12-05T12:03:14.193Z - normal: connected!
-2021-12-05T12:03:14.195Z - normal: Check project G:\Cocos\kakalak-cocos\Day1
-2021-12-05T12:03:14.197Z - normal: Initializing project G:\Cocos\kakalak-cocos\Day1
-2021-12-05T12:03:15.015Z - normal: Initializing Cocos2d
-2021-12-05T12:03:19.266Z - normal: Initializing engine extends
-2021-12-05T12:03:19.675Z - success: alipay-adapter loaded
-2021-12-05T12:03:19.692Z - success: asset-db-debugger loaded
-2021-12-05T12:03:19.698Z - success: baidu-adapter loaded
-2021-12-05T12:03:19.707Z - success: color-picker loaded
-2021-12-05T12:03:20.053Z - success: fb-audience-network loaded
-2021-12-05T12:03:20.176Z - success: fb-live-stream loaded
-2021-12-05T12:03:20.191Z - success: google-play-instant loaded
-2021-12-05T12:03:20.248Z - success: huawei-runtime loaded
-2021-12-05T12:03:21.381Z - success: cpk-publish loaded
-2021-12-05T12:03:21.386Z - success: jsb-adapter loaded
-2021-12-05T12:03:21.455Z - success: oppo-runtime loaded
-2021-12-05T12:03:21.489Z - success: package-manager loaded
-2021-12-05T12:03:21.973Z - success: qqplay-adapter loaded
-2021-12-05T12:03:21.998Z - success: runtime-dev-tools loaded
-2021-12-05T12:03:22.025Z - success: sdkbox loaded
-2021-12-05T12:03:22.044Z - success: tester loaded
-2021-12-05T12:03:22.056Z - success: ui-kit-preview-extra loaded
-2021-12-05T12:03:22.067Z - success: ui-kit-preview loaded
-2021-12-05T12:03:22.068Z - success: ui-kit loaded
-2021-12-05T12:03:22.688Z - success: vivo-runtime loaded
-2021-12-05T12:03:22.693Z - success: weapp-adapter loaded
-2021-12-05T12:03:22.698Z - success: xiaomi-adapter loaded
-2021-12-05T12:03:22.725Z - success: alipay-minigame loaded
-2021-12-05T12:03:22.781Z - success: assets loaded
-2021-12-05T12:03:22.784Z - success: builder loaded
-2021-12-05T12:03:23.373Z - success: cocos-services loaded
-2021-12-05T12:03:23.379Z - success: console loaded
-2021-12-05T12:03:23.424Z - success: fb-instant-games loaded
-2021-12-05T12:03:23.427Z - success: game-window loaded
-2021-12-05T12:03:23.429Z - success: google-instant-games loaded
-2021-12-05T12:03:23.433Z - success: hierarchy loaded
-2021-12-05T12:03:23.436Z - success: inspector loaded
-2021-12-05T12:03:23.438Z - success: keystore loaded
-2021-12-05T12:03:23.442Z - success: node-library loaded
-2021-12-05T12:03:23.443Z - success: package-asset loaded
-2021-12-05T12:03:23.445Z - success: preferences loaded
-2021-12-05T12:03:23.446Z - success: project-exporter loaded
-2021-12-05T12:03:23.448Z - success: project-importer loaded
-2021-12-05T12:03:23.450Z - success: project-settings loaded
-2021-12-05T12:03:23.454Z - success: scene loaded
-2021-12-05T12:03:23.455Z - success: simulator-debugger loaded
-2021-12-05T12:03:23.456Z - success: sprite-editor loaded
-2021-12-05T12:03:23.459Z - success: store loaded
-2021-12-05T12:03:23.464Z - success: timeline loaded
-2021-12-05T12:03:23.469Z - success: xiaomi-runtime loaded
-2021-12-05T12:03:27.400Z - normal: Loading packages
-2021-12-05T12:03:27.414Z - normal: Watching packages
-2021-12-05T12:03:28.155Z - normal: Run Application
-2021-12-05T12:03:29.318Z - info: Cocos Services load base data!
-2021-12-05T12:10:15.297Z - warn: `cc.Node.rotation` is deprecated since v2.1.0, please use `-angle` instead. (`this.node.rotation` -> `-this.node.angle`)
-2021-12-05T12:10:15.298Z - warn: `cc.Node.rotationX` is deprecated since v2.1.0, please use `eulerAngles.x` instead. (`this.node.rotationX` -> `this.node.eulerAngles.x`)
-2021-12-05T12:10:15.298Z - warn: `cc.Node.rotationY` is deprecated since v2.1.0, please use `eulerAngles.y` instead. (`this.node.rotationY` -> `this.node.eulerAngles.y`)
-2021-12-05T14:09:15.077Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-05T14:12:01.772Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-05T14:12:23.752Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-05T14:12:47.964Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-05T14:13:07.167Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-05T14:13:15.875Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-05T14:13:19.604Z - info: shutdown preview server
+2021-12-06T01:57:17.973Z - normal: Load ~/.CocosCreator/settings.json
+2021-12-06T01:57:18.018Z - normal: Initializing Asset Database
+2021-12-06T01:57:18.019Z - normal: checking language setting...
+2021-12-06T01:57:18.020Z - normal: Language: en
+2021-12-06T01:57:18.626Z - success: preview server running at http://localhost:7456
+2021-12-06T01:57:18.642Z - success: protocol editor-framework registered
+2021-12-06T01:57:18.642Z - success: protocol app registered
+2021-12-06T01:57:18.642Z - success: protocol theme registered
+2021-12-06T01:57:18.642Z - success: protocol packages registered
+2021-12-06T01:57:18.642Z - success: protocol uuid registerred
+2021-12-06T01:57:18.642Z - success: protocol db registerred
+2021-12-06T01:57:18.642Z - success: protocol thumbnail registerred
+2021-12-06T01:57:18.643Z - success: protocol unpack registerred
+2021-12-06T01:57:18.643Z - success: protocol disable-commonjs registerred
+2021-12-06T01:57:20.300Z - normal: connected!
+2021-12-06T01:57:20.301Z - normal: Check project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-06T01:57:20.303Z - normal: Initializing project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-06T01:57:20.623Z - normal: Initializing Cocos2d
+2021-12-06T01:57:21.276Z - normal: Initializing engine extends
+2021-12-06T01:57:21.303Z - success: alipay-adapter loaded
+2021-12-06T01:57:21.315Z - success: asset-db-debugger loaded
+2021-12-06T01:57:21.316Z - success: baidu-adapter loaded
+2021-12-06T01:57:21.318Z - success: color-picker loaded
+2021-12-06T01:57:21.441Z - success: fb-audience-network loaded
+2021-12-06T01:57:21.491Z - success: fb-live-stream loaded
+2021-12-06T01:57:21.493Z - success: google-play-instant loaded
+2021-12-06T01:57:21.499Z - success: huawei-runtime loaded
+2021-12-06T01:57:21.715Z - success: cpk-publish loaded
+2021-12-06T01:57:21.717Z - success: jsb-adapter loaded
+2021-12-06T01:57:21.723Z - success: oppo-runtime loaded
+2021-12-06T01:57:21.728Z - success: package-manager loaded
+2021-12-06T01:57:21.861Z - success: qqplay-adapter loaded
+2021-12-06T01:57:21.864Z - success: runtime-dev-tools loaded
+2021-12-06T01:57:21.889Z - success: sdkbox loaded
+2021-12-06T01:57:21.895Z - success: tester loaded
+2021-12-06T01:57:21.899Z - success: ui-kit-preview-extra loaded
+2021-12-06T01:57:21.903Z - success: ui-kit-preview loaded
+2021-12-06T01:57:21.908Z - success: ui-kit loaded
+2021-12-06T01:57:21.920Z - success: vivo-runtime loaded
+2021-12-06T01:57:21.921Z - success: weapp-adapter loaded
+2021-12-06T01:57:21.924Z - success: xiaomi-adapter loaded
+2021-12-06T01:57:21.927Z - success: alipay-minigame loaded
+2021-12-06T01:57:21.965Z - success: assets loaded
+2021-12-06T01:57:21.968Z - success: builder loaded
+2021-12-06T01:57:22.227Z - success: cocos-services loaded
+2021-12-06T01:57:22.232Z - success: console loaded
+2021-12-06T01:57:22.259Z - success: fb-instant-games loaded
+2021-12-06T01:57:22.263Z - success: game-window loaded
+2021-12-06T01:57:22.264Z - success: google-instant-games loaded
+2021-12-06T01:57:22.268Z - success: hierarchy loaded
+2021-12-06T01:57:22.273Z - success: inspector loaded
+2021-12-06T01:57:22.275Z - success: keystore loaded
+2021-12-06T01:57:22.280Z - success: node-library loaded
+2021-12-06T01:57:22.282Z - success: package-asset loaded
+2021-12-06T01:57:22.283Z - success: preferences loaded
+2021-12-06T01:57:22.285Z - success: project-exporter loaded
+2021-12-06T01:57:22.290Z - success: project-importer loaded
+2021-12-06T01:57:22.293Z - success: project-settings loaded
+2021-12-06T01:57:22.296Z - success: scene loaded
+2021-12-06T01:57:22.297Z - success: simulator-debugger loaded
+2021-12-06T01:57:22.299Z - success: sprite-editor loaded
+2021-12-06T01:57:22.302Z - success: store loaded
+2021-12-06T01:57:22.307Z - success: timeline loaded
+2021-12-06T01:57:22.310Z - success: xiaomi-runtime loaded
+2021-12-06T01:57:23.257Z - normal: Loading packages
+2021-12-06T01:57:23.261Z - normal: Watching packages
+2021-12-06T01:57:23.339Z - normal: Run Application
+2021-12-06T01:57:27.200Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T01:57:29.427Z - info: Cocos Services load base data!
+2021-12-06T02:00:58.418Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:01:01.654Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:01:12.745Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:05:45.469Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:06:36.099Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:07:50.986Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:08:03.298Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:08:26.769Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:08:39.369Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:08:51.113Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:09:23.545Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:10:28.726Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:10:46.150Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:11:04.300Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:16:10.441Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:17:13.092Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:17:56.941Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:18:17.002Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:18:27.538Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:18:45.662Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:19:18.600Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:19:33.367Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:19:58.832Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:20:10.335Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:20:23.003Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:20:58.367Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:21:08.467Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:22:55.136Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:23:58.305Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:25:06.734Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:25:33.107Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:26:45.447Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:27:28.258Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:27:46.262Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T02:35:25.606Z - warn: The Node referenced by component "cc.ScrollView" is invalid. Detailed information:
+Node path: "scrollview"
+
+2021-12-06T02:35:58.030Z - warn: The Node referenced by component "cc.ScrollView" is invalid. Detailed information:
+Node path: "scrollview"
+
+2021-12-06T02:36:25.655Z - warn: The Node referenced by component "cc.ScrollView" is invalid. Detailed information:
+Node path: "scrollview"
+
+2021-12-06T02:36:43.501Z - error: Widget target must be one of the parent nodes of it
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at cc_Widget.cc.Class._validateTargetInDEV (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/components/CCWidget.js:286:28)
+    at visitNode (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/base-ui/CCWidgetManager.js:184:28)
+    at visitNode (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/base-ui/CCWidgetManager.js:197:21)
+    at visitNode (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/base-ui/CCWidgetManager.js:197:21)
+    at visitNode (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/base-ui/CCWidgetManager.js:197:21)
+    at refreshScene (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/base-ui/CCWidgetManager.js:245:21)
+    at cc.Director.CallbacksInvoker.invoke (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/callbacks-invoker.js:167:29)
+    at cc.Director.mainLoop.now._purgeDirectorInNextLoop [as mainLoop] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDirector.js:442:26)
+2021-12-06T02:49:54.787Z - warn: The Layout referenced by component "signUpForm" is invalid. Detailed information:
+Node path: "Canvas/register form"
+
+2021-12-06T03:04:02.217Z - failed: [db-task][sync-changes] Failed to import asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Script/menu script/signUpForm.js, message: Compile error: SyntaxError: /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Script/menu script/signUpForm.js: Unexpected token (25:20)
+  23 |         passWordError: cc.Label,
+  24 |         signUpSuccess: cc.Sprite,
+> 25 |         accountList = cc.Layout,
+     |                     ^
+  26 |         _userNameChecking: null,
+  27 |         _passWordChecking: null,
+  28 |         _confirmChecking: null,
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+2021-12-06T03:04:19.770Z - failed: [db-task][sync-changes] Failed to import asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Script/menu script/signUpForm.js, message: Compile error: SyntaxError: /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Script/menu script/signUpForm.js: Unexpected token (25:20)
+  23 |         passWordError: cc.Label,
+  24 |         signUpSuccess: cc.Sprite,
+> 25 |         accountList = cc.Layout,
+     |                     ^
+  26 |         _userNameChecking: null,
+  27 |         _passWordChecking: null,
+  28 |         _confirmChecking: null,
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+2021-12-06T03:04:38.520Z - failed: [db-task][sync-changes] Failed to import asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Script/menu script/signUpForm.js, message: Compile error: SyntaxError: /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Script/menu script/signUpForm.js: Unexpected token (25:20)
+  23 |         passWordError: cc.Label,
+  24 |         signUpSuccess: cc.Sprite,
+> 25 |         accountList = cc.Layout,
+     |                     ^
+  26 |         _userNameChecking: null,
+  27 |         _passWordChecking: null,
+  28 |         _confirmChecking: null,
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+2021-12-06T03:05:30.033Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:06:00.182Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:06:40.506Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:07:13.461Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:07:16.240Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:08:44.277Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:10:32.948Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:10:41.895Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:10:53.635Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:13:12.956Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:16:27.894Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:17:33.031Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:18:53.888Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:19:46.182Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:20:24.955Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:20:51.326Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:21:15.154Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:22:13.852Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:22:43.288Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:23:10.227Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T03:23:13.726Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:01:12.583Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:01:20.652Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:02:07.638Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:05:02.402Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:05:15.349Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:05:43.966Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:06:25.376Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:06:41.373Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:06:57.017Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:07:07.525Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:07:17.231Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:13:08.742Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:13:19.279Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:18:06.042Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:19:00.964Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:19:53.165Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:20:32.896Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:21:53.358Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:24:17.722Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:25:54.154Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:26:15.906Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:26:44.576Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:29:52.614Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:30:19.933Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:30:39.415Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:31:18.674Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:31:33.424Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:31:39.222Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:31:47.019Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:32:55.158Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:34:26.130Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:34:41.738Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:35:06.835Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:36:47.407Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:39:31.133Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T04:44:42.563Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T05:01:29.320Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T05:01:36.196Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
