@@ -236,3 +236,381 @@ Node path: "Canvas/register form"
 2021-12-06T04:44:42.563Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
 2021-12-06T05:01:29.320Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
 2021-12-06T05:01:36.196Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-06T06:32:26.711Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-26",
+  "appABIs": [
+    "x86",
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
+    "b4304659-bdaf-4913-9b23-7f438e7b301c",
+    "a6bfb863-2f07-4213-8d31-2348e99cedcc",
+    "39b5f239-7815-4cba-90ec-612bbee65ca0"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "80d5cb6f-de77-4a",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2021-12-06T06:32:26.715Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-06T06:32:26.715Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop
+2021-12-06T06:32:26.824Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop/**/*
+2021-12-06T06:32:28.103Z - normal: Start building assets
+2021-12-06T06:32:28.103Z - normal: Start spawn build-worker
+2021-12-06T06:32:28.560Z - normal: Finish spawn build-worker
+2021-12-06T06:32:28.560Z - normal: Start init build-worker
+2021-12-06T06:32:30.396Z - normal: Finish init build-worker
+2021-12-06T06:32:30.396Z - normal: Start build-assets in worker
+2021-12-06T06:32:30.773Z - normal: Finish build-assets in worker
+2021-12-06T06:32:32.884Z - normal: Finish building assets
+2021-12-06T06:32:32.896Z - normal: Start building plugin scripts
+2021-12-06T06:32:32.971Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-06T06:32:32.979Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2021-12-06T06:32:32.990Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop" successfully
+2021-12-06T06:32:34.389Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-26",
+  "appABIs": [
+    "x86",
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "a6bfb863-2f07-4213-8d31-2348e99cedcc",
+    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
+    "b4304659-bdaf-4913-9b23-7f438e7b301c",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "39b5f239-7815-4cba-90ec-612bbee65ca0"
+  ],
+  "sourceMaps": false,
+  "startScene": "a6bfb863-2f07-4213-8d31-2348e99cedcc",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "80d5cb6f-de77-4a",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2021-12-06T06:32:34.389Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-06T06:32:34.389Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop
+2021-12-06T06:32:34.390Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop/**/*
+2021-12-06T06:32:35.648Z - normal: Start building assets
+2021-12-06T06:32:35.649Z - normal: Start spawn build-worker
+2021-12-06T06:32:36.096Z - normal: Finish spawn build-worker
+2021-12-06T06:32:36.096Z - normal: Start init build-worker
+2021-12-06T06:32:37.839Z - normal: Finish init build-worker
+2021-12-06T06:32:37.839Z - normal: Start build-assets in worker
+2021-12-06T06:32:38.168Z - normal: Finish build-assets in worker
+2021-12-06T06:32:38.172Z - normal: Finish building assets
+2021-12-06T06:32:38.178Z - normal: Start building plugin scripts
+2021-12-06T06:32:38.215Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-06T06:32:38.232Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2021-12-06T06:32:38.240Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop" successfully
+2021-12-06T06:32:46.172Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-26",
+  "appABIs": [
+    "x86",
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [
+    "b4304659-bdaf-4913-9b23-7f438e7b301c",
+    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "39b5f239-7815-4cba-90ec-612bbee65ca0"
+  ],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
+  ],
+  "sourceMaps": false,
+  "startScene": "a6bfb863-2f07-4213-8d31-2348e99cedcc",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "80d5cb6f-de77-4a",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2021-12-06T06:32:46.173Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-06T06:32:46.173Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop
+2021-12-06T06:32:46.173Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop/**/*
+2021-12-06T06:32:47.427Z - normal: Start building assets
+2021-12-06T06:32:47.428Z - normal: Start spawn build-worker
+2021-12-06T06:32:47.880Z - normal: Finish spawn build-worker
+2021-12-06T06:32:47.880Z - normal: Start init build-worker
+2021-12-06T06:32:49.640Z - normal: Finish init build-worker
+2021-12-06T06:32:49.640Z - normal: Start build-assets in worker
+2021-12-06T06:32:49.883Z - normal: Finish build-assets in worker
+2021-12-06T06:32:49.885Z - normal: Finish building assets
+2021-12-06T06:32:49.889Z - normal: Start building plugin scripts
+2021-12-06T06:32:49.922Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-06T06:32:49.925Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2021-12-06T06:32:49.932Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop" successfully
+2021-12-06T06:33:04.712Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-26",
+  "appABIs": [
+    "x86",
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [
+    "b4304659-bdaf-4913-9b23-7f438e7b301c",
+    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "39b5f239-7815-4cba-90ec-612bbee65ca0"
+  ],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
+  ],
+  "sourceMaps": false,
+  "startScene": "a6bfb863-2f07-4213-8d31-2348e99cedcc",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "80d5cb6f-de77-4a",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2021-12-06T06:33:04.713Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-06T06:33:04.713Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop
+2021-12-06T06:33:04.713Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop/**/*
+2021-12-06T06:33:05.948Z - normal: Start building assets
+2021-12-06T06:33:05.949Z - normal: Start spawn build-worker
+2021-12-06T06:33:06.423Z - normal: Finish spawn build-worker
+2021-12-06T06:33:06.423Z - normal: Start init build-worker
+2021-12-06T06:33:08.225Z - normal: Finish init build-worker
+2021-12-06T06:33:08.225Z - normal: Start build-assets in worker
+2021-12-06T06:33:08.445Z - normal: Finish build-assets in worker
+2021-12-06T06:33:08.447Z - normal: Finish building assets
+2021-12-06T06:33:08.451Z - normal: Start building plugin scripts
+2021-12-06T06:33:08.485Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-06T06:33:08.488Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2021-12-06T06:33:08.496Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/build/web-desktop" successfully
