@@ -23,15 +23,19 @@ cc.Class({
         userNameBox: cc.EditBox,
         passWordBox: cc.EditBox,
         confirmBox: cc.EditBox,
+        emailBox: cc.EditBox,
         signUpButton: cc.Button,
         accounListButton: cc.Button,
-        userNameError: cc.Label,
-        passWordError: cc.Label,
+        userNameMessage: cc.Label,
+        passWordMessage: cc.Label,
+        emailMessage: cc.Label,
         signUpSuccess: cc.Sprite,
+        congratulationLabel: cc.RichText,
         accountList: cc.Layout,
         accountListWindow: cc.Node,
         accountLabelPrefab: cc.Prefab,
         _userNameChecking: null,
+        _emailChecking: null,
         _passWordChecking: null,
         _confirmChecking: null,
         _accountList: []
@@ -41,8 +45,7 @@ cc.Class({
 
     onUserNameInputBegan: function onUserNameInputBegan() {
         this._userNameChecking = false;
-        this.userNameError.node.color = cc.Color.RED;
-        this.userNameError.node.active = false;
+        this.userNameMessage.node.active = false;
     },
 
     onUserNameInputEnded: function onUserNameInputEnded() {
@@ -51,17 +54,26 @@ cc.Class({
 
     onPassWordInputBegan: function onPassWordInputBegan() {
         this._passWordChecking = false;
-        this.passWordError.node.active = false;
+        this.passWordMessage.node.active = false;
     },
 
     onPassWordInputEnded: function onPassWordInputEnded() {
         this._passWordChecking = true;
     },
 
+    onEmailInputBegan: function onEmailInputBegan() {
+        this._emailChecking = false;
+        this.emailMessage.node.active = false;
+    },
+
+    onEmailInputEnded: function onEmailInputEnded() {
+        this._emailChecking = true;
+        cc.log(this.emailBox.string);
+    },
+
     onConfirmInputBegan: function onConfirmInputBegan() {
         this._confirmChecking = false;
-        this.passWordError.node.color = cc.Color.RED;
-        this.passWordError.node.active = false;
+        this.passWordMessage.node.active = false;
     },
 
     onConfirmInputEnded: function onConfirmInputEnded() {
@@ -71,45 +83,49 @@ cc.Class({
     _checkUserName: function _checkUserName() {
         if (!this._userNameChecking) return;
         if (!this.userNameBox.string) return;
-        if (this.userNameBox.string.length < 6) {
-            this.userNameError.node.active = true;
-            this.userNameError.string = '//username must have at least 8 characters';
+        if (!utilities.checkStringLength(this.userNameBox.string, 6)) {
+            utilities.displayError(this.userNameMessage, '//username must have at least 6 characters');
             return false;
         }
 
         if (!utilities.userNameCheck(this.userNameBox.string)) {
-            this.userNameError.node.active = true;
-            this.userNameError.string = '//username must not contain special characters';
+            utilities.displayError(this.userNameMessage, '//username must not contain special characters');
             return false;
         }
 
         if (!this._checkAvailable(this.userNameBox.string)) {
-            this.userNameError.node.active = true;
-            this.userNameError.string = '//username is not available, please choose another username';
+            utilities.displayError(this.userNameMessage, '//username is not available, please choose another username');
             return false;
         };
+        utilities.displayCorrect(this.userNameMessage, '//this username is available');
+        return true;
+    },
 
-        this.userNameError.node.active = true;
-        this.userNameError.node.color = cc.Color.GREEN;
-        this.userNameError.string = '//this username is available';
+    _checkEmail: function _checkEmail() {
+        if (!this._emailChecking) return;
+        if (!this.emailBox.string) return;
+        if (!utilities.emailCheck(this.emailBox.string)) {
+            utilities.displayError(this.emailMessage, '//please input correct email format');
+            return false;
+        }
+
+        utilities.displayCorrect(this.emailMessage, '//you can use this email address');
         return true;
     },
 
     _checkPassWord: function _checkPassWord() {
         if (!this._passWordChecking) return;
         if (!this.passWordBox.string) return;
-        if (this.passWordBox.string.length < 8) {
-            this.passWordError.node.active = true;
-            this.passWordError.string = '//password must have at least 8 characters';
+        if (!utilities.checkStringLength(this.passWordBox.string, 8)) {
+            utilities.displayError(this.passWordMessage, '//password must have at least 8 characters');
             return false;
         }
-
         if (!utilities.passWordCheck(this.passWordBox.string)) {
-            this.passWordError.node.active = true;
-            this.passWordError.string = '//password must have at least 1 capital letter and 1 normal letter';
+            utilities.displayError(this.passWordMessage, '//password must have at least 1 capital letter and 1 normal letter');
             return false;
         }
 
+        utilities.displayCorrect(this.passWordMessage, '//you can use this password');
         return true;
     },
 
@@ -118,22 +134,19 @@ cc.Class({
         if (!this._confirmChecking) return;
         if (!this.confirmBox.string) return;
         if (this.confirmBox.string !== this.passWordBox.string) {
-            this.passWordError.node.active = true;
-            this.passWordError.string = '//the 2 passwords don\'t match';
+            utilities.displayError(this.passWordMessage, '//the 2 passwords don\'t match');
             return false;
         }
 
-        this.passWordError.node.active = true;
-        this.passWordError.node.color = cc.Color.GREEN;
-        this.passWordError.string = '//password match !';
+        utilities.displayCorrect(this.passWordMessage, '//passwords matched !!!');
         return true;
     },
 
-    _appendAccount: function _appendAccount(username, password) {
+    _appendAccount: function _appendAccount(username, password, email) {
         var labelNode = cc.instantiate(this.accountLabelPrefab);
         this.accountList.node.addChild(labelNode);
         var label = labelNode.getComponent('cc.Label');
-        label.string = username + ' : ' + password;
+        label.string = username + ' : ' + password + ' : ' + email;
     },
 
     _checkAvailable: function _checkAvailable(username) {
@@ -142,7 +155,6 @@ cc.Class({
             var usernameCheck = element.split(':')[0];
             if (usernameCheck === username) available = false;
         });
-
         if (available) return true;
         return false;
     },
@@ -151,18 +163,22 @@ cc.Class({
         this.userNameBox.string = '';
         this.passWordBox.string = '';
         this.confirmBox.string = '';
-        this.passWordError.node.active = false;
-        this.userNameError.node.active = false;
+        this.emailBox.string = '';
+        this.passWordMessage.node.active = false;
+        this.userNameMessage.node.active = false;
+        this.emailMessage.node.active = false;
         this._userNameChecking = null;
         this._passWordChecking = null;
+        this._emailChecking = null;
         this._confirmChecking = null;
         this.signUpSuccess.node.active = true;
         this.signUpButton.interactable = false;
     },
 
     onClickSignUp: function onClickSignUp() {
-        this._accountList.push(this.userNameBox.string + ":" + this.passWordBox.string);
-        this._appendAccount(this.userNameBox.string, this.passWordBox.string);
+        this._accountList.push(this.userNameBox.string + ":" + this.passWordBox.string + ':' + this.emailBox.string);
+        this._appendAccount(this.userNameBox.string, this.passWordBox.string, this.emailBox.string);
+        this.congratulationLabel.string = utilities.generateRainbowText(('Welcome ' + this.userNameBox.string + ' ! You have successfully signed up your account').split(''));
         this._reset();
         cc.log(this._accountList);
     },
@@ -185,7 +201,7 @@ cc.Class({
     },
     start: function start() {},
     update: function update(dt) {
-        if (!this._checkUserName() || !this._checkPassWord() || !this._checkConfirm()) {
+        if (!this._checkUserName() || !this._checkEmail() || !this._checkPassWord() || !this._checkConfirm()) {
             return;
         }
         this.signUpButton.interactable = true;

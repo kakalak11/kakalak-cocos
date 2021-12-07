@@ -6,9 +6,9 @@
       "url": "app://editor/index.html",
       "windowType": "dockable",
       "x": 0,
-      "y": 0,
+      "y": 25,
       "width": 1680,
-      "height": 1050,
+      "height": 954,
       "layout": {
         "children": [
           {
@@ -88,8 +88,7 @@
         "node-library",
         "scene"
       ]
-    },
-    "window-1638772329001": {}
+    }
   },
   "panels": {
     "builder": {

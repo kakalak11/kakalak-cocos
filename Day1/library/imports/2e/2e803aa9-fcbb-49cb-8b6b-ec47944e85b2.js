@@ -4,22 +4,7 @@ cc._RF.push(module, '2e803qp/LtJy4tr7EeUToWy', 'utils');
 
 'use strict';
 
-console.log('Hello world');
-
-function primeNumber(number) {
-    var array = Array(number).fill(true);
-    var primeArray = [];
-
-    for (var i = 2; i < number; i++) {
-        if (array[i] === true) {
-            primeArray.push(i);
-            for (var j = i * i; j < number; j += i) {
-                array[j] = 0;
-            }
-        }
-    }
-    return primeArray;
-}
+console.log('Utilities');
 
 var utilities = {
     check: function check() {
@@ -31,7 +16,6 @@ var utilities = {
         var countLower = 0;
 
         if (!isUpperCase(passwordArray) || !isLowerCase(passwordArray)) {
-            cc.log('password needs to have at least 1 capital letter and 1 normal letter');
             return false;
         }
 
@@ -40,7 +24,8 @@ var utilities = {
                 if (parseInt(element)) return;
                 if (element === element.toUpperCase()) countUpper++;
             });
-            if (countUpper) return true;else return false;
+            if (countUpper) return true;
+            return false;
         }
 
         function isLowerCase(password) {
@@ -50,18 +35,64 @@ var utilities = {
             });
             if (countLower) return true;else return false;
         }
-
         return true;
     },
     userNameCheck: function userNameCheck(username) {
-        // let userNameArray = username.split('');
-        // let countSpecialLetter = 0
-
         var spChars = /[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]+/;
         if (spChars.test(username)) {
             return false;
         }
         return true;
+    },
+    emailCheck: function emailCheck(string) {
+        var emailFormat = string.slice(string.indexOf('@'));
+        var emailFormatList = ['@gmail.com', '@yahoo.com'];
+        return emailFormatList.includes(emailFormat);
+    },
+    checkStringLength: function checkStringLength(string, limit) {
+        if (string.length < limit) return false;
+        return true;
+    },
+    displayError: function displayError(label, string) {
+        label.node.color = cc.Color.RED;
+        label.node.active = true;
+        label.string = string;
+        return;
+    },
+    displayCorrect: function displayCorrect(label, string) {
+        label.node.color = cc.Color.GREEN;
+        label.node.active = true;
+        label.string = string;
+        return;
+    },
+    primeNumber: function primeNumber(number) {
+        var array = Array(number).fill(true);
+        var primeArray = [];
+
+        for (var i = 2; i < number; i++) {
+            if (array[i] === true) {
+                primeArray.push(i);
+                for (var j = i * i; j < number; j += i) {
+                    array[j] = 0;
+                }
+            }
+        }
+        return primeArray;
+    },
+    factorial: function factorial(number) {
+        if (number === 0 || number === 1) return 1;
+
+        return number * this.factorial(number - 1);
+    },
+    generateRainbowText: function generateRainbowText(string) {
+        var rainbowColor = ['#ff0000', '#ff4000', '#ff8000', '#ffbf00', '#ffff00', '#bfff00', '#80ff00', '#40ff00', '#00ff00', '#00ff40', '#00ff80', '#00ffbf', '#00ffff', '#00bfff', '#0080ff', '#0040ff', '	#0000ff', '#4000ff', '#8000ff', '#bf00ff', '#ff00ff', '#ff00bf', '#ff0080', '#ff0040', '#ff0000'];
+        var result = '';
+        string.forEach(function (element, index) {
+            var color = rainbowColor[index % rainbowColor.length];
+            var temp = '<color=' + color + '>' + element + '</c>';
+            result += temp;
+        });
+        return result;
     }
 };
 

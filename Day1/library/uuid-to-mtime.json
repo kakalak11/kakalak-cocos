@@ -65,7 +65,7 @@
     "relativePath": "Scene"
   },
   "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
-    "asset": 1638755768079,
+    "asset": 1638783393795,
     "meta": 1638342430805,
     "relativePath": "Script"
   },
@@ -590,8 +590,8 @@
     "relativePath": "Script/menu script/signup.js"
   },
   "39b5f239-7815-4cba-90ec-612bbee65ca0": {
-    "asset": 1638758815990,
-    "meta": 1638758815995,
+    "asset": 1638783553924,
+    "meta": 1638783553929,
     "relativePath": "Scene/sketch.fire"
   },
   "fe5b8c94-b424-4ca6-a12a-641934b88759": {
@@ -605,8 +605,8 @@
     "relativePath": "editbox.prefab"
   },
   "a6bfb863-2f07-4213-8d31-2348e99cedcc": {
-    "asset": 1638772142143,
-    "meta": 1638772142149,
+    "asset": 1638786187723,
+    "meta": 1638786187733,
     "relativePath": "Scene/sketch-registerform.fire"
   },
   "8b8d8430-6ad5-4c4e-adb6-e3f3bad0e45e": {
@@ -635,7 +635,7 @@
     "relativePath": "Script/sketch script/labelScript.js"
   },
   "57b82150-03f3-4caf-97ad-5f9499c4a2f6": {
-    "asset": 1638755620572,
+    "asset": 1638759006636,
     "meta": 1638755620571,
     "relativePath": "Texture/prefab_sketch"
   },
@@ -659,11 +659,6 @@
     "meta": 1638755827537,
     "relativePath": "Scene/register.fire"
   },
-  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
-    "asset": 1638756052840,
-    "meta": 1638756072268,
-    "relativePath": "Script/utils.js"
-  },
   "14d884c7-66df-40ca-9af3-a8065ee0d97a": {
     "asset": 1638757645907,
     "meta": 1638757665812,
@@ -680,8 +675,18 @@
     "relativePath": "Sounds/signUpSuccessful.wav"
   },
   "4f01017a-6f28-4a6f-b176-5e5017d81bd0": {
-    "asset": 1638766885944,
-    "meta": 1638766895728,
+    "asset": 1638785210676,
+    "meta": 1638785226789,
     "relativePath": "Script/menu script/signUpForm.js"
+  },
+  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
+    "asset": 1638786096016,
+    "meta": 1638786124285,
+    "relativePath": "Script/utils.js"
+  },
+  "95d5ec85-2d0a-429c-b17d-f9b0542b2f8b": {
+    "asset": 1638786153061,
+    "meta": 1638786154296,
+    "relativePath": "Script/richTextScript.js"
   }
 }

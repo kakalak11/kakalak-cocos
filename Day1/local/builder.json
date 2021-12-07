@@ -6,7 +6,7 @@
     "arm64-v8a",
     "armeabi-v7a"
   ],
-  "buildPath": "./build",
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/Registration-form",
   "debug": false,
   "embedWebDebugger": false,
   "keystoreAlias": "",
