@@ -699,3 +699,100 @@ Node path: "Canvas/button"
 2021-12-07T10:02:00.954Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
 2021-12-07T10:02:00.956Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
 2021-12-07T10:02:00.962Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop" successfully
+2021-12-07T10:22:17.284Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-26",
+  "appABIs": [
+    "x86",
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [
+    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "39b5f239-7815-4cba-90ec-612bbee65ca0",
+    "b4304659-bdaf-4913-9b23-7f438e7b301c",
+    "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
+    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
+  ],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
+  ],
+  "sourceMaps": false,
+  "startScene": "9f8271ff-796d-4b40-91ed-c8fc445314b6",
+  "template": "link",
+  "title": "Registration-Form",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "80d5cb6f-de77-4a",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
+  "projectName": "Registration-Form",
+  "debugBuildWorker": false
+}
+2021-12-07T10:22:17.287Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-07T10:22:17.287Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
+2021-12-07T10:22:17.288Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/**/*
+2021-12-07T10:22:18.741Z - normal: Start building assets
+2021-12-07T10:22:18.742Z - normal: Start spawn build-worker
+2021-12-07T10:22:19.190Z - normal: Finish spawn build-worker
+2021-12-07T10:22:19.190Z - normal: Start init build-worker
+2021-12-07T10:22:21.115Z - normal: Finish init build-worker
+2021-12-07T10:22:21.116Z - normal: Start build-assets in worker
+2021-12-07T10:22:21.350Z - normal: Finish build-assets in worker
+2021-12-07T10:22:21.351Z - normal: Finish building assets
+2021-12-07T10:22:21.361Z - normal: Start building plugin scripts
+2021-12-07T10:22:21.400Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-07T10:22:21.404Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2021-12-07T10:22:21.419Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop" successfully
