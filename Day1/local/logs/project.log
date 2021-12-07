@@ -67,3 +67,4 @@
 2021-12-07T02:04:53.627Z - normal: Run Application
 2021-12-07T02:04:56.298Z - info: Cocos Services load base data!
 2021-12-07T02:04:57.976Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T02:10:52.340Z - info: shutdown preview server
