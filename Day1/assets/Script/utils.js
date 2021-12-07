@@ -37,6 +37,15 @@ var utilities = {
         }
         return true;
     },
+    checkUserNameAvailable: function (username, userNameList) {
+        let available = true;
+        userNameList.forEach(function (element) {
+            let usernameCheck = element.split(':')[0];
+            if (usernameCheck === username) available = false;
+        });
+        if (available) return true;
+        return false;
+    },
     emailCheck: function (string) {
         let emailFormat = string.slice(string.indexOf('@'));
         let emailFormatList = ['@gmail.com', '@yahoo.com'];
@@ -46,15 +55,17 @@ var utilities = {
         if (string.length < limit) return false;
         return true;
     },
-    displayError: function (label, string) {
-        label.node.color = cc.Color.RED;
-        label.node.active = true;
+    displayError: function (labelNode, string) {
+        labelNode.color = cc.Color.RED;
+        labelNode.parent.active = true;
+        let label = labelNode.getComponent('cc.Label');
         label.string = string;
         return;
     },
-    displayCorrect: function (label, string) {
-        label.node.color = cc.Color.GREEN;
-        label.node.active = true;
+    displayCorrect: function (labelNode, string) {
+        labelNode.color = cc.Color.GREEN;
+        labelNode.parent.active = true;
+        let label = labelNode.getComponent('cc.Label');
         label.string = string;
         return;
     },
@@ -81,7 +92,8 @@ var utilities = {
         let rainbowColor = ['#ff0000', '#ff4000', '#ff8000', '#ffbf00', '#ffff00', '#bfff00', '#80ff00', '#40ff00', '#00ff00', '#00ff40', '#00ff80', '#00ffbf', '#00ffff', '#00bfff',
             '#0080ff', '#0040ff', '	#0000ff', '#4000ff', '#8000ff', '#bf00ff', '#ff00ff', '#ff00bf', '#ff0080', '#ff0040', '#ff0000'];
         let result = '';
-        string.forEach((element, index) => {
+        let stringArray = string.split('');
+        stringArray.forEach((element, index) => {
             let color = rainbowColor[index % rainbowColor.length];
             let temp = `<color=${color}>${element}</c>`;
             result += temp;

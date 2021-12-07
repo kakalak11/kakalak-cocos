@@ -584,11 +584,6 @@
     "meta": 1638583554505,
     "relativePath": "Script/menu script"
   },
-  "57e9d93c-1095-42c7-9fd3-a14ad38fe519": {
-    "asset": 1638592925285,
-    "meta": 1638593164916,
-    "relativePath": "Script/menu script/signup.js"
-  },
   "39b5f239-7815-4cba-90ec-612bbee65ca0": {
     "asset": 1638783553924,
     "meta": 1638783553929,
@@ -605,14 +600,9 @@
     "relativePath": "editbox.prefab"
   },
   "a6bfb863-2f07-4213-8d31-2348e99cedcc": {
-    "asset": 1638786187723,
-    "meta": 1638786187733,
+    "asset": 1638847667138,
+    "meta": 1638847667147,
     "relativePath": "Scene/sketch-registerform.fire"
-  },
-  "8b8d8430-6ad5-4c4e-adb6-e3f3bad0e45e": {
-    "asset": 1638755620569,
-    "meta": 1638755650000,
-    "relativePath": "Script/menu script/layout.js"
   },
   "493966ec-53bf-482f-9718-3ab4db320a4a": {
     "asset": 1638755620570,
@@ -679,14 +669,104 @@
     "meta": 1638785226789,
     "relativePath": "Script/menu script/signUpForm.js"
   },
-  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
-    "asset": 1638786096016,
-    "meta": 1638786124285,
-    "relativePath": "Script/utils.js"
-  },
   "95d5ec85-2d0a-429c-b17d-f9b0542b2f8b": {
     "asset": 1638786153061,
     "meta": 1638786154296,
     "relativePath": "Script/richTextScript.js"
+  },
+  "58c7b1cf-a144-4c72-9eaf-4e0e011f9494": {
+    "asset": 1638860226682,
+    "meta": 1638860226704,
+    "relativePath": "Scene/Day3.fire"
+  },
+  "7d7b39ce-f964-462e-948b-1a31fbc9e695": {
+    "asset": 1638843774153,
+    "meta": 1638843774154,
+    "relativePath": "Script/Day3"
+  },
+  "f3f0814e-b5a2-40fb-91c8-acb0d24cdbc1": {
+    "asset": 1638845067845,
+    "meta": 1638845073848,
+    "relativePath": "Script/Day3/slider.js"
+  },
+  "791d03df-74fc-46d0-a171-5dbfbee86e1b": {
+    "asset": 1638845520513,
+    "meta": 1638845540793,
+    "relativePath": "Texture/background.jpeg"
+  },
+  "99b1d1e8-a365-4e12-bf81-90bdb23dff38": {
+    "asset": 1638847005094,
+    "meta": 1638847055416,
+    "relativePath": "Script/Day3/pageview.js"
+  },
+  "22164577-3135-445a-a279-820100106bc3": {
+    "asset": 1638851765772,
+    "meta": 1638851765776,
+    "relativePath": "Texture/prefab_sketch/item.prefab"
+  },
+  "f1280f3e-c54b-4b33-b26d-b9641afe5240": {
+    "asset": 1638850332125,
+    "meta": 1638850337196,
+    "relativePath": "Script/prefab learning/item.js"
+  },
+  "87dcfd83-d856-4452-b7fc-58896ee5462a": {
+    "asset": 1638851464439,
+    "meta": 1638851484111,
+    "relativePath": "Script/menu script/mainNode.js"
+  },
+  "8a864c5e-6f53-41eb-998c-b8b80f7c9816": {
+    "asset": 1638860252494,
+    "meta": 1638860252495,
+    "relativePath": "Registration-form"
+  },
+  "9f8271ff-796d-4b40-91ed-c8fc445314b6": {
+    "asset": 1638868375420,
+    "meta": 1638868375437,
+    "relativePath": "Registration-form/registration form.fire"
+  },
+  "d798c0ed-00e8-46d8-a32e-58d23fec70f9": {
+    "asset": 1638860412603,
+    "meta": 1638860464434,
+    "relativePath": "Texture/pixelBG.jpeg"
+  },
+  "8abb0e23-4a52-496c-a20e-b9c2c4fe69ff": {
+    "asset": 1638861303702,
+    "meta": 1638861303701,
+    "relativePath": "Texture/font"
+  },
+  "f48c1a32-79e2-42a0-bf2f-48806481a4b1": {
+    "asset": 1638861011947,
+    "meta": 1638861303771,
+    "relativePath": "Texture/font/bitmapfont-export.fnt"
+  },
+  "ab10f0ed-3f3f-44d6-851b-f36d663451ec": {
+    "asset": 1638860785832,
+    "meta": 1638861303759,
+    "relativePath": "Texture/font/bitmapfont.png"
+  },
+  "f4a1c366-871c-4364-b37f-f4ad68ffa75d": {
+    "asset": 1638861011942,
+    "meta": 1638861303766,
+    "relativePath": "Texture/font/bitmapfont-export.png"
+  },
+  "4dd8e382-246c-47e2-94ce-db649f1a8a65": {
+    "asset": 1638862217930,
+    "meta": 1638862217931,
+    "relativePath": "Registration-form/script"
+  },
+  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
+    "asset": 1638866290441,
+    "meta": 1638866566980,
+    "relativePath": "Script/utils.js"
+  },
+  "6e79977d-ae4a-44bc-aa0c-79b2082032e4": {
+    "asset": 1638868045149,
+    "meta": 1638868065692,
+    "relativePath": "Texture/background-abstract-pixel-rain_23-2148367883.jpeg"
+  },
+  "325136f1-4c58-48fa-aab7-65c48ae761f2": {
+    "asset": 1638868660022,
+    "meta": 1638868661362,
+    "relativePath": "Registration-form/script/main.js"
   }
 }

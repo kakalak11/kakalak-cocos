@@ -144,9 +144,9 @@ cc.Class({
         label.string = username + ' : ' + password + ' : ' + email;
     },
 
-    _checkAvailable: function (username) {
+    _checkAvailable: function (username, userNameList) {
         let available = true;
-        this._accountList.forEach(function (element) {
+        userNameList.forEach(function (element) {
             let usernameCheck = element.split(':')[0];
             if (usernameCheck === username) available = false;
         });
