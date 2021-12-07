@@ -43,18 +43,17 @@
                 "children": [
                   "scene"
                 ],
-                "height": 682,
+                "height": 722,
                 "type": "panel",
                 "width": 1035
               },
               {
-                "active": 0,
+                "active": 1,
                 "children": [
-                  "console",
                   "timeline",
                   "game-window"
                 ],
-                "height": 306,
+                "height": 266,
                 "type": "panel",
                 "width": 1035
               }
@@ -80,7 +79,6 @@
       "panels": [
         "hierarchy",
         "assets",
-        "console",
         "timeline",
         "game-window",
         "inspector",
@@ -88,8 +86,7 @@
         "node-library",
         "scene"
       ]
-    },
-    "window-1638872608344": {}
+    }
   },
   "panels": {
     "builder": {
@@ -117,6 +114,12 @@
       "height": 1050
     },
     "package-manager": {
+      "x": 0,
+      "y": 0,
+      "width": 1680,
+      "height": 1050
+    },
+    "console": {
       "x": 0,
       "y": 0,
       "width": 1680,
