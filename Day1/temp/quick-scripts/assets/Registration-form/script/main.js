@@ -33,10 +33,15 @@ cc.Class({
         confirmMessage: cc.Node,
         signUpButton: cc.Button,
         congratulation: cc.Node,
+        congratulationLabel: cc.RichText,
+        list: cc.Node,
+        listContent: cc.Node,
+        listPrefab: cc.Prefab,
         _checkingUserName: null,
         _checkingEmail: null,
         _checkingPassWord: null,
-        _checkingConfirm: null
+        _checkingConfirm: null,
+        _userNameList: []
     },
 
     // LIFE-CYCLE CALLBACKS:
@@ -85,7 +90,12 @@ cc.Class({
         }
 
         if (!utilities.userNameCheck(this.userNameBox.string)) {
-            utilities.displayError(this.userNameMessage, '//User must not contain special characters');
+            utilities.displayError(this.userNameMessage, '//Username must not contain special characters');
+            return false;
+        }
+
+        if (!utilities.checkUserNameAvailable(this.userNameBox.string, this._userNameList)) {
+            utilities.displayError(this.userNameMessage, '//This username is already taken');
             return false;
         }
 
@@ -97,6 +107,7 @@ cc.Class({
         if (!this._checkingEmail) return;
         if (!utilities.emailCheck(this.emailBox.string)) {
             utilities.displayError(this.emailMessage, '//Please input correct email format');
+            return false;
         }
 
         utilities.displayCorrect(this.emailMessage, '//This email can be used');
@@ -130,6 +141,14 @@ cc.Class({
         return true;
     },
 
+    _appendAccountDetails: function _appendAccountDetails() {
+        var account = cc.instantiate(this.listPrefab);
+        this.listContent.addChild(account);
+        var label = account.getComponent('cc.Label');
+        label.string = this.userNameBox.string + ':' + this.emailBox.string + ':' + this.passWordBox.string;
+        return;
+    },
+
     _reset: function _reset() {
         this.userNameBox.string = '';
         this.passWordBox.string = '';
@@ -146,9 +165,25 @@ cc.Class({
     },
 
     onClickSignUpButton: function onClickSignUpButton() {
+        this._userNameList.push(this.userNameBox.string + ':' + this.emailBox.string + ':' + this.passWordBox.string);
+        this.congratulation.active = true;
+        this.congratulationLabel.string = utilities.generateRainbowText(this.userNameBox.string);
+        this._appendAccountDetails();
         this._reset();
     },
 
+    onClickReturn: function onClickReturn() {
+        this.congratulation.active = false;
+    },
+
+    onClickAccountDetails: function onClickAccountDetails() {
+        if (!this.list.active) {
+            this.list.active = true;
+            return;
+        }
+        this.list.active = false;
+        return;
+    },
     onLoad: function onLoad() {
         this.signUpButton.node.on('click', this.onClickSignUpButton, this);
     },

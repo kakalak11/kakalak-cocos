@@ -664,11 +664,6 @@
     "meta": 1638766150849,
     "relativePath": "Sounds/signUpSuccessful.wav"
   },
-  "4f01017a-6f28-4a6f-b176-5e5017d81bd0": {
-    "asset": 1638785210676,
-    "meta": 1638785226789,
-    "relativePath": "Script/menu script/signUpForm.js"
-  },
   "95d5ec85-2d0a-429c-b17d-f9b0542b2f8b": {
     "asset": 1638786153061,
     "meta": 1638786154296,
@@ -720,8 +715,8 @@
     "relativePath": "Registration-form"
   },
   "9f8271ff-796d-4b40-91ed-c8fc445314b6": {
-    "asset": 1638868375420,
-    "meta": 1638868375437,
+    "asset": 1638871313734,
+    "meta": 1638871313744,
     "relativePath": "Registration-form/registration form.fire"
   },
   "d798c0ed-00e8-46d8-a32e-58d23fec70f9": {
@@ -754,19 +749,34 @@
     "meta": 1638862217931,
     "relativePath": "Registration-form/script"
   },
-  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
-    "asset": 1638866290441,
-    "meta": 1638866566980,
-    "relativePath": "Script/utils.js"
-  },
   "6e79977d-ae4a-44bc-aa0c-79b2082032e4": {
     "asset": 1638868045149,
     "meta": 1638868065692,
     "relativePath": "Texture/background-abstract-pixel-rain_23-2148367883.jpeg"
   },
+  "4f01017a-6f28-4a6f-b176-5e5017d81bd0": {
+    "asset": 1638869049879,
+    "meta": 1638869445209,
+    "relativePath": "Script/menu script/signUpForm.js"
+  },
+  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
+    "asset": 1638870020688,
+    "meta": 1638870080879,
+    "relativePath": "Script/utils.js"
+  },
+  "928bcd83-561a-4676-984b-1d6cbfc67f2b": {
+    "asset": 1638871092697,
+    "meta": 1638871092701,
+    "relativePath": "Registration-form/accountLabelPrefab.prefab"
+  },
   "325136f1-4c58-48fa-aab7-65c48ae761f2": {
-    "asset": 1638868660022,
-    "meta": 1638868661362,
+    "asset": 1638871038053,
+    "meta": 1638871061151,
     "relativePath": "Registration-form/script/main.js"
+  },
+  "6b611fd5-8ccb-4230-831e-3d4d10a54ad7": {
+    "asset": 1638871167719,
+    "meta": 1638871167720,
+    "relativePath": "Registration-form/build"
   }
 }

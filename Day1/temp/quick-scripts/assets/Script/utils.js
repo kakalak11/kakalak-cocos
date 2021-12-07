@@ -44,6 +44,15 @@ var utilities = {
         }
         return true;
     },
+    checkUserNameAvailable: function checkUserNameAvailable(username, userNameList) {
+        var available = true;
+        userNameList.forEach(function (element) {
+            var usernameCheck = element.split(':')[0];
+            if (usernameCheck === username) available = false;
+        });
+        if (available) return true;
+        return false;
+    },
     emailCheck: function emailCheck(string) {
         var emailFormat = string.slice(string.indexOf('@'));
         var emailFormatList = ['@gmail.com', '@yahoo.com'];

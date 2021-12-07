@@ -25,6 +25,10 @@ cc.Class({
         confirmMessage: cc.Node,
         signUpButton: cc.Button,
         congratulation: cc.Node,
+        congratulationLabel: cc.RichText,
+        list: cc.Node,
+        listContent: cc.Node,
+        listPrefab: cc.Prefab,
         _checkingUserName: null,
         _checkingEmail: null,
         _checkingPassWord: null,
@@ -95,6 +99,7 @@ cc.Class({
         if (!this._checkingEmail) return;
         if (!utilities.emailCheck(this.emailBox.string)) {
             utilities.displayError(this.emailMessage, '//Please input correct email format');
+            return false;
         }
 
         utilities.displayCorrect(this.emailMessage, '//This email can be used');
@@ -128,6 +133,14 @@ cc.Class({
         return true;
     },
 
+    _appendAccountDetails: function () {
+        let account = cc.instantiate(this.listPrefab);
+        this.listContent.addChild(account);
+        let label = account.getComponent('cc.Label');
+        label.string = this.userNameBox.string + ':' + this.emailBox.string + ':' + this.passWordBox.string;
+        return;
+    },
+
     _reset: function () {
         this.userNameBox.string = '';
         this.passWordBox.string = '';
@@ -145,7 +158,23 @@ cc.Class({
 
     onClickSignUpButton: function () {
         this._userNameList.push(this.userNameBox.string + ':' + this.emailBox.string + ':' + this.passWordBox.string);
+        this.congratulation.active = true;
+        this.congratulationLabel.string = utilities.generateRainbowText(this.userNameBox.string);
+        this._appendAccountDetails();
         this._reset();
+    },
+
+    onClickReturn: function () {
+        this.congratulation.active = false;
+    },
+
+    onClickAccountDetails() {
+        if (!this.list.active) {
+            this.list.active = true;
+            return;
+        }
+        this.list.active = false;
+        return;
     },
 
     onLoad() {

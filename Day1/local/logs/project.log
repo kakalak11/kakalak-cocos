@@ -353,3 +353,349 @@ Node path: "Canvas/button"
 2021-12-07T09:05:51.121Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
 2021-12-07T09:06:18.622Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
 2021-12-07T09:17:41.968Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:30:44.210Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:30:45.781Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:32:55.176Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:33:10.794Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:35:32.299Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:35:48.395Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:36:13.412Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:37:02.508Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:39:08.264Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:39:25.125Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:39:58.687Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:40:29.789Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:41:21.445Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:41:47.507Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:42:31.114Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:47:59.300Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
+2021-12-07T09:48:09.123Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
+2021-12-07T09:49:15.979Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:49:34.774Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:50:04.073Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:52:48.752Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
+2021-12-07T09:55:31.940Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:56:28.969Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:57:22.364Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:57:41.753Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-07T09:58:10.438Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
+2021-12-07T09:58:12.695Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
+2021-12-07T10:00:09.513Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:12.321Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:12.984Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:13.149Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:13.291Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:13.449Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:13.614Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:13.764Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:13.914Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:14.079Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:14.229Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:14.424Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:14.582Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:14.748Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:14.904Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:15.054Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:15.204Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:15.369Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:15.520Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:19.974Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:20.386Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:20.552Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:20.688Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:20.837Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:20.987Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2021-12-07T10:00:43.401Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-26",
+  "appABIs": [
+    "x86",
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [
+    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "39b5f239-7815-4cba-90ec-612bbee65ca0",
+    "b4304659-bdaf-4913-9b23-7f438e7b301c",
+    "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
+    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
+  ],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
+  ],
+  "sourceMaps": false,
+  "startScene": "a6bfb863-2f07-4213-8d31-2348e99cedcc",
+  "template": "link",
+  "title": "Registration-Form",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "80d5cb6f-de77-4a",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
+  "projectName": "Registration-Form",
+  "debugBuildWorker": false
+}
+2021-12-07T10:00:43.404Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-07T10:00:43.404Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
+2021-12-07T10:00:43.508Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/**/*
+2021-12-07T10:00:44.974Z - normal: Start building assets
+2021-12-07T10:00:44.974Z - normal: Start spawn build-worker
+2021-12-07T10:00:45.444Z - normal: Finish spawn build-worker
+2021-12-07T10:00:45.444Z - normal: Start init build-worker
+2021-12-07T10:00:47.251Z - normal: Finish init build-worker
+2021-12-07T10:00:47.252Z - normal: Start build-assets in worker
+2021-12-07T10:00:47.536Z - normal: Finish build-assets in worker
+2021-12-07T10:00:47.538Z - normal: Finish building assets
+2021-12-07T10:00:47.544Z - normal: Start building plugin scripts
+2021-12-07T10:00:47.583Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-07T10:00:47.589Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2021-12-07T10:00:47.599Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop" successfully
+2021-12-07T10:01:57.006Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-26",
+  "appABIs": [
+    "x86",
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build",
+  "debug": false,
+  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [
+    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "39b5f239-7815-4cba-90ec-612bbee65ca0",
+    "b4304659-bdaf-4913-9b23-7f438e7b301c",
+    "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
+    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
+  ],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
+  ],
+  "sourceMaps": false,
+  "startScene": "a6bfb863-2f07-4213-8d31-2348e99cedcc",
+  "template": "link",
+  "title": "Registration-Form",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "80d5cb6f-de77-4a",
+  "zipCompressJs": true,
+  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
+  "projectName": "Registration-Form",
+  "debugBuildWorker": false
+}
+2021-12-07T10:01:57.008Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-07T10:01:57.008Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
+2021-12-07T10:01:57.009Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/**/*
+2021-12-07T10:01:58.376Z - normal: Start building assets
+2021-12-07T10:01:58.376Z - normal: Start spawn build-worker
+2021-12-07T10:01:58.837Z - normal: Finish spawn build-worker
+2021-12-07T10:01:58.837Z - normal: Start init build-worker
+2021-12-07T10:02:00.664Z - normal: Finish init build-worker
+2021-12-07T10:02:00.664Z - normal: Start build-assets in worker
+2021-12-07T10:02:00.911Z - normal: Finish build-assets in worker
+2021-12-07T10:02:00.913Z - normal: Finish building assets
+2021-12-07T10:02:00.920Z - normal: Start building plugin scripts
+2021-12-07T10:02:00.954Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-12-07T10:02:00.956Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2021-12-07T10:02:00.962Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop" successfully

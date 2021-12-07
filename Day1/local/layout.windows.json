@@ -88,7 +88,9 @@
         "node-library",
         "scene"
       ]
-    }
+    },
+    "window-1638871174540": {},
+    "worker": {}
   },
   "panels": {
     "builder": {
