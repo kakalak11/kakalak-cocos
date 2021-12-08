@@ -21,7 +21,7 @@ var utilities = {
 
         function isUpperCase(password) {
             password.forEach(function (element) {
-                if (parseInt(element)) return;
+                if (parseInt(element) || element === '0') return;
                 if (element === element.toUpperCase()) countUpper++;
             });
             if (countUpper) return true;
@@ -30,11 +30,13 @@ var utilities = {
 
         function isLowerCase(password) {
             password.forEach(function (element) {
-                if (parseInt(element)) return;
+                if (parseInt(element) || element === '0') return;
                 if (element === element.toLowerCase()) countLower++;
             });
-            if (countLower) return true;else return false;
+            if (countLower) return true;
+            return false;
         }
+        cc.log(countUpper, countLower, passwordArray);
         return true;
     },
     userNameCheck: function userNameCheck(username) {
@@ -55,7 +57,7 @@ var utilities = {
     },
     emailCheck: function emailCheck(string) {
         var emailFormat = string.slice(string.indexOf('@'));
-        var emailFormatList = ['@gmail.com', '@yahoo.com'];
+        var emailFormatList = ['@gmail.com', '@yahoo.com', '@st.ueh.edu.vn'];
         return emailFormatList.includes(emailFormat);
     },
     checkStringLength: function checkStringLength(string, limit) {
@@ -109,5 +111,7 @@ var utilities = {
 };
 
 module.exports = utilities;
+
+var protobufjs = require("protobufjs");
 
 cc._RF.pop();
