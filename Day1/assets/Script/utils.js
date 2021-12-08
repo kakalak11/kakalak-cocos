@@ -28,7 +28,6 @@ var utilities = {
             if (countLower) return true;
             return false;
         }
-        cc.log(countUpper, countLower, passwordArray);
         return true;
     },
     userNameCheck: function (username) {
