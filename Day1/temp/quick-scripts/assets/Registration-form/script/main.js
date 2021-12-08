@@ -41,7 +41,8 @@ cc.Class({
         _checkingEmail: null,
         _checkingPassWord: null,
         _checkingConfirm: null,
-        _userNameList: []
+        _userNameList: [],
+        _prefabScript: null
     },
 
     // LIFE-CYCLE CALLBACKS:
@@ -168,6 +169,8 @@ cc.Class({
         this._userNameList.push(this.userNameBox.string + ':' + this.emailBox.string + ':' + this.passWordBox.string);
         this.congratulation.active = true;
         this.congratulationLabel.string = utilities.generateRainbowText(this.userNameBox.string);
+        // this._prefabScript = this.getComponent('accountLabelPrefab')
+        // this._prefabScript._addList(this.userNameBox.string, this.emailBox.string, this.passWordBox.string, this.listContent);
         this._appendAccountDetails();
         this._reset();
     },

@@ -1,0 +1,718 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "03ad06a2d",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "content": {
+        "name": "default_btn_disabled",
+        "texture": "71VhFCTINJM6/Ky3oX9nBT",
+        "rect": [
+          0,
+          0,
+          40,
+          40
+        ],
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          40,
+          40
+        ],
+        "capInsets": [
+          12,
+          12,
+          12,
+          12
+        ]
+      }
+    },
+    {
+      "content": {
+        "name": "HelloWorld",
+        "texture": "6aoKpq6+5BVaCIpoemqt7E",
+        "rect": [
+          0,
+          0,
+          195,
+          270
+        ],
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          195,
+          270
+        ],
+        "capInsets": [
+          0,
+          0,
+          0,
+          54
+        ]
+      }
+    },
+    [
+      {
+        "_name": "run",
+        "scene": {
+          "__id__": 1
+        },
+        "asyncLoadAssets": null
+      },
+      {
+        "_name": "New Node",
+        "_children": [
+          {
+            "__id__": 2
+          }
+        ],
+        "_anchorPoint": {},
+        "autoReleaseAssets": false
+      },
+      {
+        "_name": "Canvas",
+        "_parent": {
+          "__id__": 1
+        },
+        "_children": [
+          {
+            "__id__": 3
+          },
+          {
+            "__id__": 4
+          },
+          {
+            "__id__": 5
+          },
+          {
+            "__id__": 8
+          }
+        ],
+        "_components": [
+          {
+            "node": {
+              "__id__": 2
+            }
+          }
+        ],
+        "_contentSize": {
+          "width": 960,
+          "height": 640
+        },
+        "_position": {
+          "x": 480,
+          "y": 320
+        },
+        "_id": "1ekZvdcuJGdI8vvT7mYUaC"
+      },
+      {
+        "_name": "Main Camera",
+        "_parent": {
+          "__id__": 2
+        },
+        "_level": 1,
+        "_components": [
+          {
+            "node": {
+              "__id__": 3
+            },
+            "_clearFlags": 7,
+            "_depth": -1
+          }
+        ],
+        "_position": {
+          "z": 554.2562584220408
+        }
+      },
+      {
+        "_name": "background",
+        "_parent": {
+          "__id__": 2
+        },
+        "_level": 1,
+        "_components": [
+          {
+            "node": {
+              "__id__": 4
+            },
+            "_materials": [
+              {}
+            ],
+            "_spriteFrame": {},
+            "_sizeMode": 0
+          }
+        ],
+        "_contentSize": {
+          "width": 960,
+          "height": 640
+        }
+      },
+      {
+        "_name": "cocos",
+        "_parent": {
+          "__id__": 2
+        },
+        "_level": 1,
+        "_components": [
+          {
+            "node": {
+              "__id__": 5
+            },
+            "_materials": [
+              {}
+            ],
+            "_spriteFrame": {}
+          },
+          {
+            "node": {
+              "__id__": 5
+            },
+            "leftButton": {
+              "__id__": 6
+            },
+            "rightButton": {
+              "__id__": 16
+            },
+            "jumpButton": {
+              "__id__": 12
+            }
+          }
+        ],
+        "_contentSize": {
+          "width": 195,
+          "height": 270
+        },
+        "_position": {
+          "x": 19.15,
+          "y": -122.033
+        }
+      },
+      {
+        "node": {
+          "__id__": 7
+        },
+        "clickEvents": [
+          {
+            "target": {
+              "__id__": 5
+            },
+            "_componentId": "c587dSferpHzKtilYo+oqmf",
+            "handler": "onClickLeft"
+          }
+        ],
+        "_N$transition": 2,
+        "transition": 2,
+        "_N$normalColor": {
+          "r": 230,
+          "g": 230,
+          "b": 230
+        },
+        "_N$pressedColor": {
+          "r": 200,
+          "g": 200,
+          "b": 200
+        },
+        "pressedColor": {
+          "r": 200,
+          "g": 200,
+          "b": 200
+        },
+        "_N$disabledColor": {
+          "r": 120,
+          "g": 120,
+          "b": 120,
+          "a": 200
+        },
+        "_N$normalSprite": {},
+        "_N$pressedSprite": {},
+        "pressedSprite": {},
+        "_N$hoverSprite": {},
+        "hoverSprite": {},
+        "_N$disabledSprite": {},
+        "_N$target": {
+          "__id__": 17
+        }
+      },
+      {
+        "_name": "left",
+        "_parent": {
+          "__id__": 8
+        },
+        "_children": [
+          {
+            "__id__": 17
+          }
+        ],
+        "_level": 2,
+        "_components": [
+          {
+            "__id__": 6
+          }
+        ],
+        "_contentSize": {
+          "width": 100,
+          "height": 40
+        },
+        "_position": {
+          "x": -202,
+          "y": 250
+        }
+      },
+      {
+        "_name": "New Node",
+        "_parent": {
+          "__id__": 2
+        },
+        "_children": [
+          {
+            "__id__": 7
+          },
+          {
+            "__id__": 9
+          },
+          {
+            "__id__": 13
+          }
+        ],
+        "_level": 1
+      },
+      {
+        "_name": "jump",
+        "_parent": {
+          "__id__": 8
+        },
+        "_children": [
+          {
+            "__id__": 10
+          }
+        ],
+        "_level": 2,
+        "_components": [
+          {
+            "__id__": 12
+          }
+        ],
+        "_contentSize": {
+          "width": 100,
+          "height": 40
+        },
+        "_position": {
+          "x": 11,
+          "y": 250
+        }
+      },
+      {
+        "_name": "Background",
+        "_parent": {
+          "__id__": 9
+        },
+        "_children": [
+          {
+            "__id__": 11
+          }
+        ],
+        "_level": 3,
+        "_components": [
+          {
+            "node": {
+              "__id__": 10
+            },
+            "_materials": [
+              {}
+            ],
+            "_spriteFrame": {},
+            "_type": 1,
+            "_sizeMode": 0
+          },
+          {
+            "node": {
+              "__id__": 10
+            },
+            "alignMode": 0,
+            "_alignFlags": 45,
+            "_originalWidth": 100,
+            "_originalHeight": 40
+          }
+        ],
+        "_contentSize": {
+          "width": 100,
+          "height": 40
+        }
+      },
+      {
+        "_name": "Label",
+        "_parent": {
+          "__id__": 10
+        },
+        "_level": 3,
+        "_components": [
+          {
+            "node": {
+              "__id__": 11
+            },
+            "_materials": [
+              {}
+            ],
+            "_useOriginalSize": false,
+            "_string": "jump",
+            "_N$string": "jump",
+            "_fontSize": 20,
+            "_enableWrapText": false,
+            "_N$horizontalAlign": 1,
+            "_N$verticalAlign": 1,
+            "_N$overflow": 1
+          }
+        ],
+        "_color": {},
+        "_contentSize": {
+          "width": 100,
+          "height": 40
+        }
+      },
+      {
+        "node": {
+          "__id__": 9
+        },
+        "clickEvents": [
+          {
+            "target": {
+              "__id__": 5
+            },
+            "_componentId": "c587dSferpHzKtilYo+oqmf",
+            "handler": "onClickJump"
+          }
+        ],
+        "_N$transition": 2,
+        "transition": 2,
+        "_N$normalColor": {
+          "r": 230,
+          "g": 230,
+          "b": 230
+        },
+        "_N$pressedColor": {
+          "r": 200,
+          "g": 200,
+          "b": 200
+        },
+        "pressedColor": {
+          "r": 200,
+          "g": 200,
+          "b": 200
+        },
+        "_N$disabledColor": {
+          "r": 120,
+          "g": 120,
+          "b": 120,
+          "a": 200
+        },
+        "_N$normalSprite": {},
+        "_N$pressedSprite": {},
+        "pressedSprite": {},
+        "_N$hoverSprite": {},
+        "hoverSprite": {},
+        "_N$disabledSprite": {},
+        "_N$target": {
+          "__id__": 10
+        }
+      },
+      {
+        "_name": "right",
+        "_parent": {
+          "__id__": 8
+        },
+        "_children": [
+          {
+            "__id__": 14
+          }
+        ],
+        "_level": 2,
+        "_components": [
+          {
+            "__id__": 16
+          }
+        ],
+        "_contentSize": {
+          "width": 100,
+          "height": 40
+        },
+        "_position": {
+          "x": 228,
+          "y": 250
+        }
+      },
+      {
+        "_name": "Background",
+        "_parent": {
+          "__id__": 13
+        },
+        "_children": [
+          {
+            "__id__": 15
+          }
+        ],
+        "_level": 3,
+        "_components": [
+          {
+            "node": {
+              "__id__": 14
+            },
+            "_materials": [
+              {}
+            ],
+            "_spriteFrame": {},
+            "_type": 1,
+            "_sizeMode": 0
+          },
+          {
+            "node": {
+              "__id__": 14
+            },
+            "alignMode": 0,
+            "_alignFlags": 45,
+            "_top": 2.842170943040401e-14,
+            "_bottom": -2.842170943040401e-14,
+            "_originalWidth": 100,
+            "_originalHeight": 40
+          }
+        ],
+        "_contentSize": {
+          "width": 100,
+          "height": 40
+        },
+        "_position": {
+          "y": -2.842170943040401e-14
+        }
+      },
+      {
+        "_name": "Label",
+        "_parent": {
+          "__id__": 14
+        },
+        "_level": 3,
+        "_components": [
+          {
+            "node": {
+              "__id__": 15
+            },
+            "_materials": [
+              {}
+            ],
+            "_useOriginalSize": false,
+            "_string": "right",
+            "_N$string": "right",
+            "_fontSize": 20,
+            "_enableWrapText": false,
+            "_N$horizontalAlign": 1,
+            "_N$verticalAlign": 1,
+            "_N$overflow": 1
+          }
+        ],
+        "_color": {},
+        "_contentSize": {
+          "width": 100,
+          "height": 40
+        },
+        "_position": {
+          "y": -2.842170943040401e-14
+        }
+      },
+      {
+        "node": {
+          "__id__": 13
+        },
+        "clickEvents": [
+          {
+            "target": {
+              "__id__": 5
+            },
+            "_componentId": "c587dSferpHzKtilYo+oqmf",
+            "handler": "onClickRight"
+          }
+        ],
+        "_N$transition": 2,
+        "transition": 2,
+        "_N$normalColor": {
+          "r": 230,
+          "g": 230,
+          "b": 230
+        },
+        "_N$pressedColor": {
+          "r": 200,
+          "g": 200,
+          "b": 200
+        },
+        "pressedColor": {
+          "r": 200,
+          "g": 200,
+          "b": 200
+        },
+        "_N$disabledColor": {
+          "r": 120,
+          "g": 120,
+          "b": 120,
+          "a": 200
+        },
+        "_N$normalSprite": {},
+        "_N$pressedSprite": {},
+        "pressedSprite": {},
+        "_N$hoverSprite": {},
+        "hoverSprite": {},
+        "_N$disabledSprite": {},
+        "_N$target": {
+          "__id__": 14
+        }
+      },
+      {
+        "_name": "Background",
+        "_parent": {
+          "__id__": 7
+        },
+        "_children": [
+          {
+            "__id__": 18
+          }
+        ],
+        "_level": 3,
+        "_components": [
+          {
+            "node": {
+              "__id__": 17
+            },
+            "_materials": [
+              {}
+            ],
+            "_spriteFrame": {},
+            "_type": 1,
+            "_sizeMode": 0
+          },
+          {
+            "node": {
+              "__id__": 17
+            },
+            "alignMode": 0,
+            "_alignFlags": 45,
+            "_originalWidth": 100,
+            "_originalHeight": 40
+          }
+        ],
+        "_contentSize": {
+          "width": 100,
+          "height": 40
+        }
+      },
+      {
+        "_name": "Label",
+        "_parent": {
+          "__id__": 17
+        },
+        "_level": 3,
+        "_components": [
+          {
+            "node": {
+              "__id__": 18
+            },
+            "_materials": [
+              {}
+            ],
+            "_useOriginalSize": false,
+            "_string": "left",
+            "_N$string": "left",
+            "_fontSize": 20,
+            "_enableWrapText": false,
+            "_N$horizontalAlign": 1,
+            "_N$verticalAlign": 1,
+            "_N$overflow": 1
+          }
+        ],
+        "_color": {},
+        "_contentSize": {
+          "width": 100,
+          "height": 40
+        }
+      }
+    ],
+    {
+      "content": {
+        "name": "background",
+        "texture": "02sdRicmlJN46ojWkajA6y",
+        "rect": [
+          0,
+          0,
+          1200,
+          659
+        ],
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          1200,
+          659
+        ],
+        "capInsets": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "content": {
+        "name": "default_btn_pressed",
+        "texture": "b4P/PCArtIdIH38t6mlw8Y",
+        "rect": [
+          0,
+          0,
+          40,
+          40
+        ],
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          40,
+          40
+        ],
+        "capInsets": [
+          12,
+          12,
+          12,
+          12
+        ]
+      }
+    },
+    {
+      "content": {
+        "name": "default_btn_normal",
+        "texture": "e8Ueib+qJEhL6mXAHdnwbi",
+        "rect": [
+          0,
+          0,
+          40,
+          40
+        ],
+        "offset": [
+          0,
+          0
+        ],
+        "originalSize": [
+          40,
+          40
+        ],
+        "capInsets": [
+          12,
+          12,
+          12,
+          12
+        ]
+      }
+    }
+  ]
+}

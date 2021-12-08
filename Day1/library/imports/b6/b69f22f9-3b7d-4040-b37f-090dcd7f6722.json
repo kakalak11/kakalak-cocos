@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "_name": "builtin-2d-sprite",
+    "_effectAsset": {},
+    "_defines": {
+      "USE_TEXTURE": true
+    },
+    "_props": {}
+  }
+}

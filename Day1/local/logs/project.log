@@ -1,1152 +1,391 @@
-2021-12-07T02:11:05.311Z - normal: Load ~/.CocosCreator/settings.json
-2021-12-07T02:11:05.344Z - normal: Initializing Asset Database
-2021-12-07T02:11:05.346Z - normal: checking language setting...
-2021-12-07T02:11:05.346Z - normal: Language: en
-2021-12-07T02:11:05.737Z - success: preview server running at http://localhost:7456
-2021-12-07T02:11:05.750Z - success: protocol editor-framework registered
-2021-12-07T02:11:05.750Z - success: protocol app registered
-2021-12-07T02:11:05.750Z - success: protocol theme registered
-2021-12-07T02:11:05.750Z - success: protocol packages registered
-2021-12-07T02:11:05.751Z - success: protocol uuid registerred
-2021-12-07T02:11:05.751Z - success: protocol db registerred
-2021-12-07T02:11:05.751Z - success: protocol thumbnail registerred
-2021-12-07T02:11:05.751Z - success: protocol unpack registerred
-2021-12-07T02:11:05.751Z - success: protocol disable-commonjs registerred
-2021-12-07T02:11:06.921Z - normal: connected!
-2021-12-07T02:11:06.923Z - normal: Check project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-07T02:11:06.924Z - normal: Initializing project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-07T02:11:07.150Z - normal: Initializing Cocos2d
-2021-12-07T02:11:07.509Z - normal: Initializing engine extends
-2021-12-07T02:11:07.523Z - success: alipay-adapter loaded
-2021-12-07T02:11:07.528Z - success: asset-db-debugger loaded
-2021-12-07T02:11:07.530Z - success: baidu-adapter loaded
-2021-12-07T02:11:07.534Z - success: color-picker loaded
-2021-12-07T02:11:07.606Z - success: fb-audience-network loaded
-2021-12-07T02:11:07.649Z - success: fb-live-stream loaded
-2021-12-07T02:11:07.654Z - success: google-play-instant loaded
-2021-12-07T02:11:07.657Z - success: huawei-runtime loaded
-2021-12-07T02:11:07.782Z - success: cpk-publish loaded
-2021-12-07T02:11:07.783Z - success: jsb-adapter loaded
-2021-12-07T02:11:07.786Z - success: oppo-runtime loaded
-2021-12-07T02:11:07.789Z - success: package-manager loaded
-2021-12-07T02:11:07.852Z - success: qqplay-adapter loaded
-2021-12-07T02:11:07.853Z - success: runtime-dev-tools loaded
-2021-12-07T02:11:07.873Z - success: sdkbox loaded
-2021-12-07T02:11:07.876Z - success: tester loaded
-2021-12-07T02:11:07.878Z - success: ui-kit-preview-extra loaded
-2021-12-07T02:11:07.880Z - success: ui-kit-preview loaded
-2021-12-07T02:11:07.882Z - success: ui-kit loaded
-2021-12-07T02:11:07.886Z - success: vivo-runtime loaded
-2021-12-07T02:11:07.886Z - success: weapp-adapter loaded
-2021-12-07T02:11:07.887Z - success: xiaomi-adapter loaded
-2021-12-07T02:11:07.889Z - success: alipay-minigame loaded
-2021-12-07T02:11:07.916Z - success: assets loaded
-2021-12-07T02:11:07.919Z - success: builder loaded
-2021-12-07T02:11:08.065Z - success: cocos-services loaded
-2021-12-07T02:11:08.068Z - success: console loaded
-2021-12-07T02:11:08.089Z - success: fb-instant-games loaded
-2021-12-07T02:11:08.091Z - success: game-window loaded
-2021-12-07T02:11:08.092Z - success: google-instant-games loaded
-2021-12-07T02:11:08.095Z - success: hierarchy loaded
-2021-12-07T02:11:08.097Z - success: inspector loaded
-2021-12-07T02:11:08.098Z - success: keystore loaded
-2021-12-07T02:11:08.101Z - success: node-library loaded
-2021-12-07T02:11:08.102Z - success: package-asset loaded
-2021-12-07T02:11:08.103Z - success: preferences loaded
-2021-12-07T02:11:08.105Z - success: project-exporter loaded
-2021-12-07T02:11:08.107Z - success: project-importer loaded
-2021-12-07T02:11:08.110Z - success: project-settings loaded
-2021-12-07T02:11:08.113Z - success: scene loaded
-2021-12-07T02:11:08.113Z - success: simulator-debugger loaded
-2021-12-07T02:11:08.114Z - success: sprite-editor loaded
-2021-12-07T02:11:08.118Z - success: store loaded
-2021-12-07T02:11:08.121Z - success: timeline loaded
-2021-12-07T02:11:08.123Z - success: xiaomi-runtime loaded
-2021-12-07T02:11:08.829Z - normal: Loading packages
-2021-12-07T02:11:08.833Z - normal: Watching packages
-2021-12-07T02:11:08.897Z - normal: Run Application
-2021-12-07T02:11:12.171Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:11:16.556Z - info: Cocos Services load base data!
-2021-12-07T02:23:01.547Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:23:03.962Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:24:27.154Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:25:42.633Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:26:17.077Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:26:46.290Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:28:05.238Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:29:54.553Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:30:57.721Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:31:14.669Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:31:16.519Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:31:30.318Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:34:01.345Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:34:46.153Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:34:49.757Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:35:24.540Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:36:05.311Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:36:34.331Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:38:27.788Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:42:00.864Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:42:06.003Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:42:48.264Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:44:31.359Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:44:34.299Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:59:31.069Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T02:59:33.419Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:00:38.208Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:01:37.959Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:02:26.786Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:03:10.618Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:03:26.051Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:06:09.703Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:06:23.092Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:07:51.158Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:08:09.326Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:08:27.608Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:08:57.662Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:09:46.477Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:11:41.387Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:12:07.587Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:12:14.104Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:13:54.786Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:14:26.834Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:14:55.916Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:16:09.838Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:16:30.725Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:16:47.614Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:17:35.872Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:31:24.084Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:31:25.843Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:32:22.301Z - warn: 'item.name' hides inherited property 'cc.Component.name'. To make the current property override that implementation, add the `override: true` attribute please.
-2021-12-07T03:32:22.301Z - error: Can not declare item.name, it is already defined in the prototype of item
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
+2021-12-08T04:23:29.662Z - normal: Load ~/.CocosCreator/settings.json
+2021-12-08T04:23:29.701Z - normal: Initializing Asset Database
+2021-12-08T04:23:29.702Z - normal: checking language setting...
+2021-12-08T04:23:29.702Z - normal: Language: en
+2021-12-08T04:23:30.111Z - success: preview server running at http://localhost:7457
+2021-12-08T04:23:30.122Z - success: protocol editor-framework registered
+2021-12-08T04:23:30.122Z - success: protocol app registered
+2021-12-08T04:23:30.122Z - success: protocol theme registered
+2021-12-08T04:23:30.122Z - success: protocol packages registered
+2021-12-08T04:23:30.122Z - success: protocol uuid registerred
+2021-12-08T04:23:30.122Z - success: protocol db registerred
+2021-12-08T04:23:30.122Z - success: protocol thumbnail registerred
+2021-12-08T04:23:30.122Z - success: protocol unpack registerred
+2021-12-08T04:23:30.122Z - success: protocol disable-commonjs registerred
+2021-12-08T04:23:31.670Z - normal: connected!
+2021-12-08T04:23:31.672Z - normal: Check project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-08T04:23:31.673Z - normal: Initializing project /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
+2021-12-08T04:23:31.915Z - normal: Initializing Cocos2d
+2021-12-08T04:23:32.346Z - normal: Initializing engine extends
+2021-12-08T04:23:32.361Z - success: alipay-adapter loaded
+2021-12-08T04:23:32.367Z - success: asset-db-debugger loaded
+2021-12-08T04:23:32.371Z - success: baidu-adapter loaded
+2021-12-08T04:23:32.374Z - success: color-picker loaded
+2021-12-08T04:23:32.459Z - success: fb-audience-network loaded
+2021-12-08T04:23:32.498Z - success: fb-live-stream loaded
+2021-12-08T04:23:32.500Z - success: google-play-instant loaded
+2021-12-08T04:23:32.503Z - success: huawei-runtime loaded
+2021-12-08T04:23:32.644Z - success: cpk-publish loaded
+2021-12-08T04:23:32.644Z - success: jsb-adapter loaded
+2021-12-08T04:23:32.647Z - success: oppo-runtime loaded
+2021-12-08T04:23:32.650Z - success: package-manager loaded
+2021-12-08T04:23:32.724Z - success: qqplay-adapter loaded
+2021-12-08T04:23:32.725Z - success: runtime-dev-tools loaded
+2021-12-08T04:23:32.745Z - success: sdkbox loaded
+2021-12-08T04:23:32.748Z - success: tester loaded
+2021-12-08T04:23:32.750Z - success: ui-kit-preview-extra loaded
+2021-12-08T04:23:32.752Z - success: ui-kit-preview loaded
+2021-12-08T04:23:32.754Z - success: ui-kit loaded
+2021-12-08T04:23:32.757Z - success: vivo-runtime loaded
+2021-12-08T04:23:32.758Z - success: weapp-adapter loaded
+2021-12-08T04:23:32.758Z - success: xiaomi-adapter loaded
+2021-12-08T04:23:32.760Z - success: alipay-minigame loaded
+2021-12-08T04:23:32.791Z - success: assets loaded
+2021-12-08T04:23:32.794Z - success: builder loaded
+2021-12-08T04:23:32.951Z - success: cocos-services loaded
+2021-12-08T04:23:32.955Z - success: console loaded
+2021-12-08T04:23:32.979Z - success: fb-instant-games loaded
+2021-12-08T04:23:32.982Z - success: game-window loaded
+2021-12-08T04:23:32.983Z - success: google-instant-games loaded
+2021-12-08T04:23:32.986Z - success: hierarchy loaded
+2021-12-08T04:23:32.989Z - success: inspector loaded
+2021-12-08T04:23:32.990Z - success: keystore loaded
+2021-12-08T04:23:32.993Z - success: node-library loaded
+2021-12-08T04:23:32.994Z - success: package-asset loaded
+2021-12-08T04:23:32.995Z - success: preferences loaded
+2021-12-08T04:23:32.996Z - success: project-exporter loaded
+2021-12-08T04:23:33.000Z - success: project-importer loaded
+2021-12-08T04:23:33.002Z - success: project-settings loaded
+2021-12-08T04:23:33.007Z - success: scene loaded
+2021-12-08T04:23:33.007Z - success: simulator-debugger loaded
+2021-12-08T04:23:33.008Z - success: sprite-editor loaded
+2021-12-08T04:23:33.012Z - success: store loaded
+2021-12-08T04:23:33.017Z - success: timeline loaded
+2021-12-08T04:23:33.019Z - success: xiaomi-runtime loaded
+2021-12-08T04:23:37.109Z - normal: Loading packages
+2021-12-08T04:23:37.112Z - normal: Watching packages
+2021-12-08T04:23:37.181Z - normal: Run Application
+2021-12-08T04:23:40.343Z - info: Cocos Services load base data!
+2021-12-08T04:23:41.037Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-08T04:23:41.040Z - error: A Class already exists with the same __classname__ : "walk".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Run/script/walk.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Run/script/walk.js:144:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Run/script/walk.js:151:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Run/script/walk.js:154:3)
+2021-12-08T04:23:41.041Z - error: A Class already exists with the same __classname__ : "pageview".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/pageview.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/pageview.js:60:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/pageview.js:67:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/pageview.js:70:3)
+2021-12-08T04:23:41.042Z - error: A Class already exists with the same __cid__ : "99b1dHoo2VOEr+BkL2yPf84".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/pageview.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/pageview.js:60:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/pageview.js:67:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/pageview.js:70:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.042Z - error: A Class already exists with the same __classname__ : "slider".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/slider.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/slider.js:59:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/slider.js:66:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/slider.js:69:3)
+2021-12-08T04:23:41.043Z - error: A Class already exists with the same __cid__ : "f3f08FOtaJA+5HIrLDSTNvB".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/slider.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/slider.js:59:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/slider.js:66:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/Day3/slider.js:69:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.043Z - error: A Class already exists with the same __classname__ : "ScriptA".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptA.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptA.js:38:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptA.js:45:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptA.js:48:3)
+2021-12-08T04:23:41.044Z - error: A Class already exists with the same __cid__ : "2386aMLPS9ALre/lLNyBJ2Y".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptA.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptA.js:38:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptA.js:45:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptA.js:48:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.045Z - error: A Class already exists with the same __classname__ : "ScriptB".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptB.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptB.js:38:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptB.js:45:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptB.js:48:3)
+2021-12-08T04:23:41.045Z - error: A Class already exists with the same __cid__ : "c595dOm16NBuop83s5Ahxwm".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptB.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptB.js:38:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptB.js:45:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptB.js:48:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.046Z - error: A Class already exists with the same __classname__ : "ScriptC".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptC.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptC.js:53:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptC.js:60:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptC.js:63:3)
+2021-12-08T04:23:41.046Z - error: A Class already exists with the same __cid__ : "64f4fI+ENhHpb8IuhN77Dst".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptC.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptC.js:53:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptC.js:60:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/ScriptC.js:63:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.047Z - error: A Class already exists with the same __classname__ : "left".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/left.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/left.js:41:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/left.js:48:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/left.js:51:3)
+2021-12-08T04:23:41.047Z - error: A Class already exists with the same __cid__ : "1719fL4tpxHnLb1jXKB2rr0".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/left.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/left.js:41:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/left.js:48:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/left.js:51:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.049Z - failed: load script [protobufjs] failed : Error: Cannot find module 'protobufjs'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.s._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:941)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:589)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:1:347
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:115:18)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/utils.js:120:13
+2021-12-08T04:23:41.050Z - error: A Class already exists with the same __classname__ : "mainNode".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/mainNode.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/mainNode.js:54:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/mainNode.js:61:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/mainNode.js:64:3)
+2021-12-08T04:23:41.050Z - error: A Class already exists with the same __cid__ : "87dcf2D2FZEUrf8WIlu5UYq".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/mainNode.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/mainNode.js:54:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/mainNode.js:61:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/mainNode.js:64:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.053Z - error: A Class already exists with the same __classname__ : "signUpForm".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signUpForm.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signUpForm.js:214:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signUpForm.js:221:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signUpForm.js:224:3)
+2021-12-08T04:23:41.053Z - error: A Class already exists with the same __cid__ : "4f010F6byhKb7F2XlAX2BvQ".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signUpForm.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signUpForm.js:214:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signUpForm.js:221:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/menu script/signUpForm.js:224:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.054Z - error: A Class already exists with the same __classname__ : "item".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:42:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:49:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:52:3)
+2021-12-08T04:23:41.054Z - error: A Class already exists with the same __cid__ : "f12808+xUtLM7JtuWQa/lJA".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
     at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:17:4)
     at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:42:13
     at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:49:11)
     at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:52:3)
     at Module._compile (module.js:571:32)
-2021-12-07T03:32:22.303Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:32:31.863Z - warn: 'item.name' hides inherited property 'cc.Component.name'. To make the current property override that implementation, add the `override: true` attribute please.
-2021-12-07T03:32:31.863Z - error: Can not declare item.name, it is already defined in the prototype of item
-    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
-    at defineProp (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:121:24)
-    at declareProperties (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:635:25)
-    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:674:17)
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:17:4)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:42:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:49:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:52:3)
-    at Module._compile (module.js:571:32)
-2021-12-07T03:32:31.864Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:32:51.633Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:35:16.966Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:37:02.443Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:37:51.163Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js] failed : TypeError: Cannot read property 'Node' of undefined
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:28:29)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:45:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:52:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:55:3)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.055Z - error: A Class already exists with the same __classname__ : "prefab button".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/prefab button.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/prefab button.js:51:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/prefab button.js:58:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/prefab button.js:61:3)
+2021-12-08T04:23:41.055Z - error: A Class already exists with the same __cid__ : "306c4XszbhOoLKQw7/v3a6m".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/prefab button.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/prefab button.js:51:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/prefab button.js:58:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/prefab button.js:61:3)
     at Module._compile (module.js:571:32)
     at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2021-12-07T03:37:51.166Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:37:51.194Z - warn: Script attached to "item" in prefab "item.prefab" is missing or invalid. Detailed information:
-Node path: "item"
-Asset url: "db://assets/Texture/prefab_sketch/item.prefab"
-Script UUID: "f1280f3e-c54b-4b33-b26d-b9641afe5240"
-Class ID: "f12808+xUtLM7JtuWQa/lJA"
-
-2021-12-07T03:38:02.495Z - failed: load script [/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js] failed : TypeError: Cannot read property 'node' of undefined
-    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:28:29)
-    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:45:13
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:52:11)
-    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/prefab learning/item.js:55:3)
+2021-12-08T04:23:41.056Z - error: A Class already exists with the same __classname__ : "richTextScript".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/richTextScript.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/richTextScript.js:57:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/richTextScript.js:64:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/richTextScript.js:67:3)
+2021-12-08T04:23:41.056Z - error: A Class already exists with the same __cid__ : "95d5eyFLQpCnLF9+bBUKy+L".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/richTextScript.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/richTextScript.js:57:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/richTextScript.js:64:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/richTextScript.js:67:3)
     at Module._compile (module.js:571:32)
     at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2021-12-07T03:38:02.497Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:38:02.518Z - warn: Script attached to "item" in prefab "item.prefab" is missing or invalid. Detailed information:
-Node path: "item"
-Asset url: "db://assets/Texture/prefab_sketch/item.prefab"
-Script UUID: "f1280f3e-c54b-4b33-b26d-b9641afe5240"
-Class ID: "f12808+xUtLM7JtuWQa/lJA"
-
-2021-12-07T03:39:02.988Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:39:17.894Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:39:37.577Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:40:50.323Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:42:18.864Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:43:03.319Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:43:51.999Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:44:18.092Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:45:57.429Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:46:34.695Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:46:56.060Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:51:16.360Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:53:23.232Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:53:31.163Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:53:37.898Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:54:39.532Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:55:02.742Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:55:19.655Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T03:55:40.681Z - error: Reference "list" of "item<item>" to external scene object "scrollview" can not be saved in prefab asset.
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:4061
-    at r (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3776)
-    at i (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3825)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3846
-    at f (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:795)
-    at Object.c.getDumpableNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3509)
-    at Object.c.createAppliedPrefab (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:4471)
-    at Object.applyPrefab (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/index.js:1:5487)
-    at Object.c.setPrefabSync (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:7698)
-2021-12-07T03:55:40.682Z - error: Reference "itemEdit" of "item<item>" to external scene object "New EditBox" can not be saved in prefab asset.
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:4061
-    at r (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3776)
-    at i (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3825)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3846
-    at f (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:795)
-    at Object.c.getDumpableNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3509)
-    at Object.c.createAppliedPrefab (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:4471)
-    at Object.applyPrefab (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/index.js:1:5487)
-    at Object.c.setPrefabSync (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:7698)
-2021-12-07T03:55:40.682Z - error: Reference "itemButton" of "item<item>" to external scene object "button" can not be saved in prefab asset.
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:4061
-    at r (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3776)
-    at i (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3825)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3846
-    at f (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:795)
-    at Object.c.getDumpableNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3509)
-    at Object.c.createAppliedPrefab (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:4471)
-    at Object.applyPrefab (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/index.js:1:5487)
-    at Object.c.setPrefabSync (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:7698)
-2021-12-07T03:55:40.682Z - error: Reference "scrollViewContent" of "item<item>" to external scene object "content" can not be saved in prefab asset.
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:4061
-    at r (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3776)
-    at i (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3825)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3846
-    at f (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:795)
-    at Object.c.getDumpableNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:3509)
-    at Object.c.createAppliedPrefab (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:4471)
-    at Object.applyPrefab (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/index.js:1:5487)
-    at Object.c.setPrefabSync (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/prefab.js:1:7698)
-2021-12-07T04:05:25.755Z - warn: The Node referenced by component "cc.Button" is invalid. Detailed information:
-Node path: "Canvas/button"
-
-2021-12-07T04:09:55.646Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:10:12.023Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:10:23.642Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:10:26.042Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:11:08.751Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:11:28.678Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:12:17.655Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:14:42.366Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:17:48.746Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:18:35.995Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:18:56.444Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:21:09.161Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:21:51.249Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:28:05.016Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:28:25.581Z - info: Only the prefab node "item" and its child nodes are saved.
-2021-12-07T04:28:57.573Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:29:34.153Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:30:09.927Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:30:18.837Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:31:06.836Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:31:24.570Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T04:32:31.765Z - info: Only the prefab node "item" and its child nodes are saved.
-2021-12-07T04:36:04.197Z - info: Only the prefab node "item" and its child nodes are saved.
-2021-12-07T04:36:05.769Z - info: Only the prefab node "item" and its child nodes are saved.
-2021-12-07T07:15:03.708Z - error: Parse Error: Unable to find file Texture, the path: /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Texture/font/font\bitmapfont-export.png
-    at module.exports.getRealFntTexturePath (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/share/assets/meta/bitmap-font.js:1:596)
-    at module.exports.import (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/share/assets/meta/bitmap-font.js:1:827)
-    at i.series.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:4462)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:718:13
-    at iterate (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:262:13)
-    at async.forEachOfSeries.async.eachOfSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:281:9)
-    at _parallel (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:717:9)
-    at Object.async.series (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:739:9)
-    at g (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:4396)
-2021-12-07T07:30:30.887Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:30:37.353Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:33:30.755Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:36:16.724Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:38:33.251Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:41:07.040Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:44:32.041Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:47:36.210Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:52:39.170Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:54:43.123Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:55:29.306Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:55:52.799Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:56:33.729Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:56:42.642Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:56:57.665Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:57:24.494Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:57:33.840Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T07:59:13.856Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:00:09.244Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:00:18.405Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:01:26.364Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:20:16.774Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:20:37.539Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:21:21.560Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:22:09.634Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:22:15.273Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:22:35.324Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:24:00.449Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:25:08.070Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:34:07.401Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:34:20.892Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:35:42.991Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:35:57.910Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:38:15.872Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:39:23.894Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:40:04.293Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:40:22.510Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:41:55.301Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:42:27.778Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:42:47.518Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:45:30.411Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:45:46.636Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:49:22.254Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:49:40.081Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:51:20.708Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:51:43.546Z - failed: [db-task][sync-changes] Failed to import asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/script/main.js, message: Compile error: SyntaxError: /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/script/main.js: Unexpected token, expected ( (115:4)
-  113 |     _checkConfirm: function () {
-  114 |         if
-> 115 |     },
-      |     ^
-  116 | 
-  117 |     onClickSignUpButton: function () {
-  118 |         cc.log(this);
-    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
-    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
-    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
-    at Parser.pp$3.parseParenExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3788:8)
-    at Parser.pp$1.parseIfStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2058:20)
-    at Parser.pp$1.parseStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1846:19)
-    at Parser.pp$1.parseBlockBody (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2268:21)
-    at Parser.pp$1.parseBlock (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2247:8)
-    at Parser.pp$3.parseFunctionBody (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4235:22)
-    at Parser.pp$1.parseFunction (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2386:8)
-2021-12-07T08:52:07.675Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:54:20.694Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:54:22.876Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:55:07.840Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:55:38.549Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:56:06.020Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:56:56.801Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:57:09.513Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T08:59:44.482Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:00:15.237Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:00:43.516Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:00:55.677Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:05:51.121Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:06:18.622Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:17:41.968Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:30:44.210Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:30:45.781Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:32:55.176Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:33:10.794Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:35:32.299Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:35:48.395Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:36:13.412Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:37:02.508Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:39:08.264Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:39:25.125Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:39:58.687Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:40:29.789Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:41:21.445Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:41:47.507Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:42:31.114Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:47:59.300Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
-2021-12-07T09:48:09.123Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
-2021-12-07T09:49:15.979Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:49:34.774Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:50:04.073Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:52:48.752Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
-2021-12-07T09:55:31.940Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:56:28.969Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:57:22.364Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:57:41.753Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-07T09:58:10.438Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
-2021-12-07T09:58:12.695Z - info: Only the prefab node "accountLabelPrefab" and its child nodes are saved.
-2021-12-07T10:00:09.513Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:12.321Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:12.984Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:13.149Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:13.291Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:13.449Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:13.614Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:13.764Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:13.914Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:14.079Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:14.229Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:14.424Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:14.582Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:14.748Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:14.904Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:15.054Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:15.204Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:15.369Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:15.520Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:19.974Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:20.386Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:20.552Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:20.688Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:20.837Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:20.987Z - error: scene not saved. Please build project after saveing project.
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
-    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2021-12-07T10:00:43.401Z - normal: Start building with options : {
-  "actualPlatform": "web-desktop",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "android-26",
-  "appABIs": [
-    "x86",
-    "arm64-v8a",
-    "armeabi-v7a"
-  ],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build",
-  "debug": false,
-  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [
-    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
-    "2d2f792f-a40c-49bb-a189-ed176a246e49",
-    "39b5f239-7815-4cba-90ec-612bbee65ca0",
-    "b4304659-bdaf-4913-9b23-7f438e7b301c",
-    "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
-    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
-  ],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "web-desktop",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
-  ],
-  "sourceMaps": false,
-  "startScene": "a6bfb863-2f07-4213-8d31-2348e99cedcc",
-  "template": "link",
-  "title": "Registration-Form",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "orientation": "portrait",
-    "separate_engine": false,
-    "subContext": ""
-  },
-  "xxteaKey": "80d5cb6f-de77-4a",
-  "zipCompressJs": true,
-  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
-  "projectName": "Registration-Form",
-  "debugBuildWorker": false
-}
-2021-12-07T10:00:43.404Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-07T10:00:43.404Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
-2021-12-07T10:00:43.508Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/**/*
-2021-12-07T10:00:44.974Z - normal: Start building assets
-2021-12-07T10:00:44.974Z - normal: Start spawn build-worker
-2021-12-07T10:00:45.444Z - normal: Finish spawn build-worker
-2021-12-07T10:00:45.444Z - normal: Start init build-worker
-2021-12-07T10:00:47.251Z - normal: Finish init build-worker
-2021-12-07T10:00:47.252Z - normal: Start build-assets in worker
-2021-12-07T10:00:47.536Z - normal: Finish build-assets in worker
-2021-12-07T10:00:47.538Z - normal: Finish building assets
-2021-12-07T10:00:47.544Z - normal: Start building plugin scripts
-2021-12-07T10:00:47.583Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2021-12-07T10:00:47.589Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
-2021-12-07T10:00:47.599Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop" successfully
-2021-12-07T10:01:57.006Z - normal: Start building with options : {
-  "actualPlatform": "web-desktop",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "android-26",
-  "appABIs": [
-    "x86",
-    "arm64-v8a",
-    "armeabi-v7a"
-  ],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build",
-  "debug": false,
-  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [
-    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
-    "2d2f792f-a40c-49bb-a189-ed176a246e49",
-    "39b5f239-7815-4cba-90ec-612bbee65ca0",
-    "b4304659-bdaf-4913-9b23-7f438e7b301c",
-    "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
-    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
-  ],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "web-desktop",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
-  ],
-  "sourceMaps": false,
-  "startScene": "a6bfb863-2f07-4213-8d31-2348e99cedcc",
-  "template": "link",
-  "title": "Registration-Form",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "orientation": "portrait",
-    "separate_engine": false,
-    "subContext": ""
-  },
-  "xxteaKey": "80d5cb6f-de77-4a",
-  "zipCompressJs": true,
-  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
-  "projectName": "Registration-Form",
-  "debugBuildWorker": false
-}
-2021-12-07T10:01:57.008Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-07T10:01:57.008Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
-2021-12-07T10:01:57.009Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/**/*
-2021-12-07T10:01:58.376Z - normal: Start building assets
-2021-12-07T10:01:58.376Z - normal: Start spawn build-worker
-2021-12-07T10:01:58.837Z - normal: Finish spawn build-worker
-2021-12-07T10:01:58.837Z - normal: Start init build-worker
-2021-12-07T10:02:00.664Z - normal: Finish init build-worker
-2021-12-07T10:02:00.664Z - normal: Start build-assets in worker
-2021-12-07T10:02:00.911Z - normal: Finish build-assets in worker
-2021-12-07T10:02:00.913Z - normal: Finish building assets
-2021-12-07T10:02:00.920Z - normal: Start building plugin scripts
-2021-12-07T10:02:00.954Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2021-12-07T10:02:00.956Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
-2021-12-07T10:02:00.962Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop" successfully
-2021-12-07T10:22:17.284Z - normal: Start building with options : {
-  "actualPlatform": "web-desktop",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "android-26",
-  "appABIs": [
-    "x86",
-    "arm64-v8a",
-    "armeabi-v7a"
-  ],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build",
-  "debug": false,
-  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [
-    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
-    "2d2f792f-a40c-49bb-a189-ed176a246e49",
-    "39b5f239-7815-4cba-90ec-612bbee65ca0",
-    "b4304659-bdaf-4913-9b23-7f438e7b301c",
-    "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
-    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
-  ],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "web-desktop",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
-  ],
-  "sourceMaps": false,
-  "startScene": "9f8271ff-796d-4b40-91ed-c8fc445314b6",
-  "template": "link",
-  "title": "Registration-Form",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "orientation": "portrait",
-    "separate_engine": false,
-    "subContext": ""
-  },
-  "xxteaKey": "80d5cb6f-de77-4a",
-  "zipCompressJs": true,
-  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
-  "projectName": "Registration-Form",
-  "debugBuildWorker": false
-}
-2021-12-07T10:22:17.287Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-07T10:22:17.287Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
-2021-12-07T10:22:17.288Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/**/*
-2021-12-07T10:22:18.741Z - normal: Start building assets
-2021-12-07T10:22:18.742Z - normal: Start spawn build-worker
-2021-12-07T10:22:19.190Z - normal: Finish spawn build-worker
-2021-12-07T10:22:19.190Z - normal: Start init build-worker
-2021-12-07T10:22:21.115Z - normal: Finish init build-worker
-2021-12-07T10:22:21.116Z - normal: Start build-assets in worker
-2021-12-07T10:22:21.350Z - normal: Finish build-assets in worker
-2021-12-07T10:22:21.351Z - normal: Finish building assets
-2021-12-07T10:22:21.361Z - normal: Start building plugin scripts
-2021-12-07T10:22:21.400Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2021-12-07T10:22:21.404Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
-2021-12-07T10:22:21.419Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop" successfully
-2021-12-07T10:23:25.824Z - error: [db-task][sync-changes] Failed to delete asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
-    at u.o.error (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/utils.js:1:2250)
-    at h.clearImports (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:552)
-    at Object.l.clearImports (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:21163)
-    at d (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:508)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:181:20
-    at iterate (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:262:13)
-    at Object.async.forEachOfSeries.async.eachOfSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:281:9)
-    at Object.async.forEachSeries.async.eachSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:214:22)
-    at t.series.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:1104)
-2021-12-07T10:23:39.458Z - normal: Start building with options : {
-  "actualPlatform": "web-desktop",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "android-26",
-  "appABIs": [
-    "x86",
-    "arm64-v8a",
-    "armeabi-v7a"
-  ],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build",
-  "debug": false,
-  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [
-    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
-    "2d2f792f-a40c-49bb-a189-ed176a246e49",
-    "39b5f239-7815-4cba-90ec-612bbee65ca0",
-    "b4304659-bdaf-4913-9b23-7f438e7b301c",
-    "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
-    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
-  ],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "web-desktop",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
-  ],
-  "sourceMaps": false,
-  "startScene": "9f8271ff-796d-4b40-91ed-c8fc445314b6",
-  "template": "link",
-  "title": "Registration-Form",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "orientation": "portrait",
-    "separate_engine": false,
-    "subContext": ""
-  },
-  "xxteaKey": "80d5cb6f-de77-4a",
-  "zipCompressJs": true,
-  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
-  "projectName": "Registration-Form",
-  "debugBuildWorker": false
-}
-2021-12-07T10:23:39.460Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-07T10:23:39.460Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
-2021-12-07T10:23:39.461Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/**/*
-2021-12-07T10:23:40.890Z - normal: Start building assets
-2021-12-07T10:23:40.890Z - normal: Start spawn build-worker
-2021-12-07T10:23:41.369Z - normal: Finish spawn build-worker
-2021-12-07T10:23:41.369Z - normal: Start init build-worker
-2021-12-07T10:23:43.216Z - normal: Finish init build-worker
-2021-12-07T10:23:43.216Z - normal: Start build-assets in worker
-2021-12-07T10:23:43.488Z - normal: Finish build-assets in worker
-2021-12-07T10:23:43.490Z - normal: Finish building assets
-2021-12-07T10:23:43.496Z - normal: Start building plugin scripts
-2021-12-07T10:23:43.534Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2021-12-07T10:23:43.538Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
-2021-12-07T10:23:43.547Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop" successfully
-2021-12-07T10:31:15.466Z - error: [db-task][sync-changes] Failed to delete asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
-    at u.o.error (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/utils.js:1:2250)
-    at h.clearImports (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:552)
-    at Object.l.clearImports (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:21163)
-    at d (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:508)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:181:20
-    at iterate (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:262:13)
-    at Object.async.forEachOfSeries.async.eachOfSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:281:9)
-    at Object.async.forEachSeries.async.eachSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:214:22)
-    at t.series.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:1104)
-2021-12-07T10:31:26.542Z - normal: Start building with options : {
-  "actualPlatform": "web-desktop",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "android-26",
-  "appABIs": [
-    "x86",
-    "arm64-v8a",
-    "armeabi-v7a"
-  ],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build",
-  "debug": false,
-  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [
-    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
-    "2d2f792f-a40c-49bb-a189-ed176a246e49",
-    "39b5f239-7815-4cba-90ec-612bbee65ca0",
-    "b4304659-bdaf-4913-9b23-7f438e7b301c",
-    "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
-    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
-  ],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "web-desktop",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
-  ],
-  "sourceMaps": false,
-  "startScene": "9f8271ff-796d-4b40-91ed-c8fc445314b6",
-  "template": "link",
-  "title": "Registration-Form",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "orientation": "portrait",
-    "separate_engine": false,
-    "subContext": ""
-  },
-  "xxteaKey": "80d5cb6f-de77-4a",
-  "zipCompressJs": true,
-  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
-  "projectName": "Registration-Form",
-  "debugBuildWorker": false
-}
-2021-12-07T10:31:26.544Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-07T10:31:26.544Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop
-2021-12-07T10:31:26.545Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop/**/*
-2021-12-07T10:31:28.135Z - normal: Start building assets
-2021-12-07T10:31:28.136Z - normal: Start spawn build-worker
-2021-12-07T10:31:28.632Z - normal: Finish spawn build-worker
-2021-12-07T10:31:28.633Z - normal: Start init build-worker
-2021-12-07T10:31:30.736Z - normal: Finish init build-worker
-2021-12-07T10:31:30.736Z - normal: Start build-assets in worker
-2021-12-07T10:31:31.019Z - normal: Finish build-assets in worker
-2021-12-07T10:31:31.022Z - normal: Finish building assets
-2021-12-07T10:31:31.030Z - normal: Start building plugin scripts
-2021-12-07T10:31:31.068Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2021-12-07T10:31:31.071Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
-2021-12-07T10:31:31.081Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Registration-form/build/web-desktop" successfully
-2021-12-08T02:23:01.102Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:24:08.505Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:24:52.117Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:25:39.583Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:26:35.935Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:28:20.491Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:28:48.327Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:29:24.064Z - normal: 0
-2021-12-08T02:29:24.071Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:29:34.025Z - failed: [db-task][sync-changes] Failed to import asset /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Script/utils.js, message: Compile error: SyntaxError: /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Script/utils.js: Unexpected token (106:22)
-  104 | }
-  105 | 
-> 106 | cc.log(parseInt('0') ?);
-      |                       ^
-  107 | 
-  108 | module.exports = utilities;
-    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
-    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
-    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3750:12)
-    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
-    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
-    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
-    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
-    at Parser.pp$3.parseConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3391:28)
-    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3384:15)
-2021-12-08T02:29:55.228Z - normal: false
-2021-12-08T02:29:55.233Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:30:03.051Z - normal: true
-2021-12-08T02:30:03.055Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:30:27.349Z - normal: true
-2021-12-08T02:30:27.352Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:30:42.136Z - normal: false
-2021-12-08T02:30:42.140Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:31:37.202Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:32:39.007Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:33:12.780Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:33:33.419Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:34:01.420Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:36:08.905Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:37:14.356Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:38:25.070Z - normal: Start building with options : {
-  "actualPlatform": "web-desktop",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "android-26",
-  "appABIs": [
-    "x86",
-    "arm64-v8a",
-    "armeabi-v7a"
-  ],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Run/build",
-  "debug": false,
-  "dest": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Run/build/web-desktop",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [
-    "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
-    "2d2f792f-a40c-49bb-a189-ed176a246e49",
-    "39b5f239-7815-4cba-90ec-612bbee65ca0",
-    "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
-    "a6bfb863-2f07-4213-8d31-2348e99cedcc",
-    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
-  ],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "web-desktop",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "b4304659-bdaf-4913-9b23-7f438e7b301c"
-  ],
-  "sourceMaps": false,
-  "startScene": "b4304659-bdaf-4913-9b23-7f438e7b301c",
-  "template": "link",
-  "title": "Registration-Form",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "orientation": "portrait",
-    "separate_engine": false,
-    "subContext": ""
-  },
-  "xxteaKey": "80d5cb6f-de77-4a",
-  "zipCompressJs": true,
-  "project": "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1",
-  "projectName": "Registration-Form",
-  "debugBuildWorker": false
-}
-2021-12-08T02:38:25.073Z - normal: Building /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1
-2021-12-08T02:38:25.073Z - normal: Destination /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Run/build/web-desktop
-2021-12-08T02:38:25.074Z - normal: Delete /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Run/build/web-desktop/subpackages/**/*,/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Run/build/web-desktop/**/*
-2021-12-08T02:38:26.555Z - normal: Start building assets
-2021-12-08T02:38:26.555Z - normal: Start spawn build-worker
-2021-12-08T02:38:27.000Z - normal: Finish spawn build-worker
-2021-12-08T02:38:27.001Z - normal: Start init build-worker
-2021-12-08T02:38:28.933Z - normal: Finish init build-worker
-2021-12-08T02:38:28.933Z - normal: Start build-assets in worker
-2021-12-08T02:38:29.154Z - normal: Finish build-assets in worker
-2021-12-08T02:38:29.156Z - normal: Finish building assets
-2021-12-08T02:38:29.159Z - normal: Start building plugin scripts
-2021-12-08T02:38:29.199Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2021-12-08T02:38:29.203Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
-2021-12-08T02:38:29.211Z - normal: Built to "/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/assets/Run/build/web-desktop" successfully
-2021-12-08T02:42:19.922Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
-2021-12-08T02:49:59.858Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-08T04:23:41.057Z - error: A Class already exists with the same __classname__ : "right".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/right.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/right.js:41:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/right.js:48:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/right.js:51:3)
+2021-12-08T04:23:41.057Z - error: A Class already exists with the same __cid__ : "edfdarhRbFH4poy34EycdqJ".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/right.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/right.js:41:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/right.js:48:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/right.js:51:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.058Z - error: A Class already exists with the same __classname__ : "labelScript".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/labelScript.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/labelScript.js:59:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/labelScript.js:66:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/labelScript.js:69:3)
+2021-12-08T04:23:41.058Z - error: A Class already exists with the same __cid__ : "0db7f+kXvdE+a0L7FQ7LY0Q".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/labelScript.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/labelScript.js:59:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/labelScript.js:66:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/labelScript.js:69:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.059Z - error: A Class already exists with the same __classname__ : "layoutScript".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/layoutScript.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/layoutScript.js:63:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/layoutScript.js:70:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/layoutScript.js:73:3)
+2021-12-08T04:23:41.059Z - error: A Class already exists with the same __cid__ : "14d88THZt9AyprzqAZe4Nl6".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/layoutScript.js:17:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/layoutScript.js:63:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/layoutScript.js:70:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/sketch script/layoutScript.js:73:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+2021-12-08T04:23:41.060Z - warn: Can not indicate the 'type' attribute for "layoutScript.labelPrefab", which its default value is type of number.
+2021-12-08T04:23:41.060Z - error: A Class already exists with the same __classname__ : "up".
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32
+    at Object.js.setClassName (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:267:17)
+    at doDefine (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:268:16)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:284:23)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/up.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/up.js:43:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/up.js:50:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/up.js:53:3)
+2021-12-08T04:23:41.061Z - error: A Class already exists with the same __cid__ : "ffd38AgBsZLDZ3D5FcsYSe8".
+    at Object._setClassId (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/js.js:257:32)
+    at define (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:289:28)
+    at Object.CCClass [as Class] (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:651:23)
+    at __define (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/up.js:19:4)
+    at /Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/up.js:43:13
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/up.js:50:11)
+    at Object.<anonymous> (/Users/fe-anhtu-fresher/Desktop/cocos/kakalak-cocos/Day1/temp/quick-scripts/assets/Script/up.js:53:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
