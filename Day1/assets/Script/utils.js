@@ -103,10 +103,14 @@ var utilities = {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 module.exports = utilities;
 
 var protobufjs = require("protobufjs")
+=======
+module.exports = utilities;
+>>>>>>> parent of 5dff6bc (okay)
 =======
 module.exports = utilities;
 >>>>>>> parent of 5dff6bc (okay)
