@@ -160,7 +160,7 @@
       "__type__": "cc.Vec3",
       "x": 0,
       "y": 0,
-      "z": 554.2562584220408
+      "z": 584.5671475544962
     },
     "_scale": {
       "__type__": "cc.Vec3",
@@ -399,7 +399,7 @@
     "_id": "1bsrCsRtBB7bRt9LHY55UC"
   },
   {
-    "__type__": "783f2U4w5JEkYqcXvzqoJo0",
+    "__type__": "c587dSferpHzKtilYo+oqmf",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -422,7 +422,7 @@
     "counter": 0,
     "fps": 60,
     "canClick": true,
-    "_id": "0eKmA151tMGYIRwHsRbbt8"
+    "_id": "0czT1WIcxFUo1eB0xp9fXM"
   },
   {
     "__type__": "cc.Button",

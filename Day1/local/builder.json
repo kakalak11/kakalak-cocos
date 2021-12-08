@@ -6,7 +6,7 @@
     "arm64-v8a",
     "armeabi-v7a"
   ],
-  "buildPath": "assets/Run/build",
+  "buildPath": "assets/Registration-form/build",
   "debug": false,
   "embedWebDebugger": false,
   "keystoreAlias": "",
