@@ -195,9 +195,9 @@
     "relativePath": "Script/up.js"
   },
   "b4304659-bdaf-4913-9b23-7f438e7b301c": {
-    "asset": 1638931066731,
-    "meta": 1638931066740,
-    "relativePath": "Run/run.fire"
+    "asset": 1638525238905,
+    "meta": 1638583587132,
+    "relativePath": "Scene/run.fire"
   },
   "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
     "asset": 1568707779000,
@@ -564,6 +564,11 @@
     "meta": 1638583587494,
     "relativePath": "Texture/background.jpg"
   },
+  "c587d49f-7aba-47cc-ab62-958a3ea2a99f": {
+    "asset": 1638525204843,
+    "meta": 1638583587443,
+    "relativePath": "Script/walk.js"
+  },
   "03b9a93f-762d-4243-b7d4-0e42f77fc5e5": {
     "asset": 1638526762758,
     "meta": 1638583587317,
@@ -710,8 +715,8 @@
     "relativePath": "Registration-form"
   },
   "9f8271ff-796d-4b40-91ed-c8fc445314b6": {
-    "asset": 1638931345062,
-    "meta": 1638931345074,
+    "asset": 1638871313734,
+    "meta": 1638871313744,
     "relativePath": "Registration-form/registration form.fire"
   },
   "d798c0ed-00e8-46d8-a32e-58d23fec70f9": {
@@ -754,6 +759,11 @@
     "meta": 1638869445209,
     "relativePath": "Script/menu script/signUpForm.js"
   },
+  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
+    "asset": 1638870020688,
+    "meta": 1638870080879,
+    "relativePath": "Script/utils.js"
+  },
   "928bcd83-561a-4676-984b-1d6cbfc67f2b": {
     "asset": 1638871092697,
     "meta": 1638871092701,
@@ -768,30 +778,5 @@
     "asset": 1638871167719,
     "meta": 1638871167720,
     "relativePath": "Registration-form/build"
-  },
-  "9f53097f-a8cd-4a9b-a5ad-8cb26986fc07": {
-    "asset": 1638930974164,
-    "meta": 1638930974165,
-    "relativePath": "Run"
-  },
-  "5298b252-6019-4d75-8787-796d0704b1fb": {
-    "asset": 1638930992177,
-    "meta": 1638930992178,
-    "relativePath": "Run/build"
-  },
-  "7288f62f-827f-44d8-a23f-03a3423df8f1": {
-    "asset": 1638930997800,
-    "meta": 1638930997801,
-    "relativePath": "Run/script"
-  },
-  "783f2538-c392-4491-8a9c-5efceaa09a34": {
-    "asset": 1638931033853,
-    "meta": 1638931033883,
-    "relativePath": "Run/script/walk.js"
-  },
-  "2e803aa9-fcbb-49cb-8b6b-ec47944e85b2": {
-    "asset": 1638931794476,
-    "meta": 1638931799018,
-    "relativePath": "Script/utils.js"
   }
 }

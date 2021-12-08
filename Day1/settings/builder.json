@@ -19,9 +19,9 @@
     "72fbbaf6-f0b0-4678-ad1e-f97c3534d8db",
     "2d2f792f-a40c-49bb-a189-ed176a246e49",
     "39b5f239-7815-4cba-90ec-612bbee65ca0",
+    "b4304659-bdaf-4913-9b23-7f438e7b301c",
     "58c7b1cf-a144-4c72-9eaf-4e0e011f9494",
-    "a6bfb863-2f07-4213-8d31-2348e99cedcc",
-    "9f8271ff-796d-4b40-91ed-c8fc445314b6"
+    "a6bfb863-2f07-4213-8d31-2348e99cedcc"
   ],
   "fb-instant-games": {},
   "includeSDKBox": false,
@@ -42,7 +42,7 @@
     "orientation": "portrait",
     "zip": false
   },
-  "startScene": "b4304659-bdaf-4913-9b23-7f438e7b301c",
+  "startScene": "9f8271ff-796d-4b40-91ed-c8fc445314b6",
   "title": "Registration-Form",
   "webOrientation": "auto",
   "wechatgame": {
