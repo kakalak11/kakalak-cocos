@@ -13,7 +13,7 @@ var utilities = {
 
         function isUpperCase(password) {
             password.forEach(element => {
-                if (parseInt(element) || element === '0') return;
+                if (parseInt(element)) return;
                 if (element === element.toUpperCase()) countUpper++;
             });
             if (countUpper) return true;
@@ -22,11 +22,11 @@ var utilities = {
 
         function isLowerCase(password) {
             password.forEach(element => {
-                if (parseInt(element) || element === '0') return;
+                if (parseInt(element)) return;
                 if (element === element.toLowerCase()) countLower++;
             });
             if (countLower) return true;
-            return false;
+            else return false;
         }
         return true;
     },
@@ -48,7 +48,7 @@ var utilities = {
     },
     emailCheck: function (string) {
         let emailFormat = string.slice(string.indexOf('@'));
-        let emailFormatList = ['@gmail.com', '@yahoo.com', '@st.ueh.edu.vn'];
+        let emailFormatList = ['@gmail.com', '@yahoo.com'];
         return emailFormatList.includes(emailFormat);
     },
     checkStringLength: function (string, limit) {
@@ -102,7 +102,11 @@ var utilities = {
     },
 }
 
+<<<<<<< HEAD
 
 module.exports = utilities;
 
 var protobufjs = require("protobufjs")
+=======
+module.exports = utilities;
+>>>>>>> parent of 5dff6bc (okay)
